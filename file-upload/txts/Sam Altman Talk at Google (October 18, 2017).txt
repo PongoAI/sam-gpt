@@ -1,0 +1,3785 @@
+[MUSIC PLAYING]
+
+
+
+JORGE CUETO: Hi, everyone.
+
+Welcome to our Talks
+at Google event.
+
+I'm going to go through
+some logistics first.
+
+This is a fire side
+chat style talk.
+
+So it will take about 40 minutes
+to talk through some questions.
+
+And then in the last 20 minutes,
+we'll open up to the audience
+
+to submit questions, both
+in person here through a mic
+
+in the back of the room and also
+through the Dory at go/ask-sam.
+
+And I'd like to thank
+everyone who has helped out
+
+to make this talk possible,
+including our facilities
+
+team and everyone on the PM
+speaker series organizing team.
+
+So it's great to have Sam
+Altman here with us today
+
+for Talks at Google.
+
+Sam is the President
+of Y Combinator, which
+
+is widely regarded as
+one of the top startup
+
+incubators in Silicon Valley.
+
+He went to Stanford and
+studied computer science
+
+and was the founder and CEO of
+a mobile location-based startup
+
+called Loopt, which was
+funded by YC as part
+
+of its first class
+of startups in 2005
+
+and acquired by a financial
+services company Green
+
+Dot in 2012.
+
+In 2014, he was named
+president of Y Combinator.
+
+And since then, he's worked
+on a wide range of initiatives
+
+from YC Research, which is
+a non-profit branch of Y
+
+Combinator that focuses
+on doing pure research
+
+around moon-shot ideas,
+like universal basic income.
+
+And he's also worked on OpenAI,
+which is a non-profit AI
+
+research company looking
+into finding ways
+
+to create safe, friendly
+artificial intelligence that
+
+can actually help
+all of humanity.
+
+And it's great to have you here.
+
+SAM ALTMAN: Thanks
+for having me.
+
+JORGE CUETO: So
+just as I mentioned,
+
+you're involved in a wide range
+of things from YC to OpenAI.
+
+And most recently, you
+released The United Slate
+
+So I wanted to ask you how
+you think about prioritizing
+
+the projects that you work on.
+
+SAM ALTMAN: You know, I
+think optimal time allocation
+
+is probably like an
+AI complete problem.
+
+I think if you can get to
+spending like 1% of your time
+
+perfectly, that's really good.
+
+And so I think this idea of
+figuring out what to focus on
+
+and what not to focus on is
+both really hard and still
+
+significantly under-invested in.
+
+The frameworks that
+I have used, the sort
+
+of two big frameworks that
+I've used to figure out
+
+how to allocate time, one
+is impact maximization
+
+slash regret minimisation.
+
+So I try to look at those
+two curves together.
+
+And I try to think about
+where I can have the biggest
+
+net impact on the world, net
+positive impact on the world.
+
+Easy to have a big impact.
+
+And then, also, just
+regret minimization.
+
+You know, you get to live once.
+
+It's really important that
+you do what you want to do
+
+and that you spend time
+with the people you'd
+
+like to work with and
+work on the things
+
+that you find
+personally fulfilling.
+
+And so if I think I'm going to
+really regret doing something
+
+or regret not doing
+something, even
+
+if I think it's not the best
+use of my time for a pure sort
+
+of net impact on
+the world, I'm still
+
+willing to take that
+really seriously.
+
+And I think that
+makes me do better
+
+at the things I do
+that do help the world.
+
+So you know, the
+broad things that I've
+
+learned that I like to do--
+
+one is teach people.
+
+Another is create
+economic growth.
+
+I really do believe that one
+of the things that is most
+
+fundamentally going wrong
+right now in the country
+
+is that we don't have
+enough economic growth.
+
+And the little that we do is
+not evenly distributed at all.
+
+And so I think in a
+democracy you really
+
+want everyone's lives to
+get better every year.
+
+We're basically insensitive
+to the absolute quality
+
+of our lives and
+extremely sensitive
+
+to relative differences year
+over year to our neighbors.
+
+And it's really important
+that everyone's life
+
+is getting better constantly.
+
+And I think economic growth
+is important in that.
+
+I think that AI is
+going to be the most
+
+important technological
+trend of our lifetime.
+
+So I spend a lot
+of my time on that.
+
+And you know, I try
+to think about things
+
+on those two strategies.
+
+The other framework besides the
+sort of impact maximization,
+
+regret minimization that
+I found really useful
+
+is spend a little bit of
+effort trying a lot of things,
+
+and then relentlessly prune
+down and focus quickly
+
+on the ones that you
+like and the ones that
+
+seem to be working.
+
+So in some sense, this is the Y
+Combinator model of fund a lot
+
+of startups with a
+little bit of money.
+
+And then, you know,
+most don't work out,
+
+and some work really well.
+
+You spend more time and more
+money on the ones that do.
+
+Hey, guys.
+
+This is the thing that I've
+tried to apply to my life more
+
+generally is this idea that
+I can try a lot of things
+
+with a little bit of effort.
+
+It's very hard to predict
+exactly what's going to work
+
+and what hasn't.
+
+But then the hard
+part about that,
+
+the thing that most
+people don't do,
+
+is you really want to
+relentlessly focus down
+
+on the ones that do work.
+
+
+
+And the last thing I'll
+say about prioritization
+
+is the other hack
+I have learned is
+
+if you can get one really
+great partner with you
+
+on every project, that will
+cover up a lot of the slack.
+
+Because if you try to do
+multiple things at once,
+
+crises come at the same times.
+
+And that's really hard if you
+have to do it all yourself.
+
+JORGE CUETO: And focusing
+more specifically
+
+on productivity, what
+are some life hacks maybe
+
+you apply to make your
+everyday more productive?
+
+SAM ALTMAN: I mean,
+I think there's
+
+like a lot of crap written
+about productivity,
+
+secrets on the internet.
+
+And people sort of like
+get into this thing
+
+where they spend
+more time trying
+
+to be productive about
+their productivity system
+
+than actually
+getting things done.
+
+
+
+Well, say two, I
+think, pieces of advice
+
+that aren't that obvious.
+
+One is, I think,
+far more important
+
+than any particular system
+is just figuring out
+
+the right things to work on.
+
+And so all of the
+time that people
+
+spend with this new
+productivity app or that
+
+or whatever would
+be better spent
+
+like really trying to
+think diligently about I
+
+have the same number of
+hours as anybody else.
+
+What am I going
+to spend them on?
+
+And getting that right is
+more important than exactly
+
+like being perfectly
+productive with those hours.
+
+
+
+A big part of that is not
+doing things that waste time.
+
+I think if you can just focus
+on the things that are important
+
+and not do the things
+that waste time,
+
+you can be fairly sloppy
+with productivity otherwise,
+
+and you'll still get far
+more done than most people.
+
+
+
+It's really hard to do, though.
+
+The other thing that I think
+people don't think about enough
+
+is figuring out your
+own personal rhythms
+
+of productivity.
+
+And there's huge
+variance, I've noticed,
+
+between people that
+figured this out and don't.
+
+So for me personally,
+it turns out
+
+that I am most productive if I
+go to sleep late, wake up late,
+
+and then keep the first like
+three or four hours of the day
+
+and don't schedule any
+meetings, like work from home,
+
+get there my list of
+stuff then, and then pack
+
+all my meetings when I'm kind
+of less productive at just
+
+grinding stuff out or thinking
+creatively in the afternoon.
+
+And it took me some number
+of years to figure out,
+
+because it didn't fit
+well with the work
+
+schedule I was naturally in.
+
+But then I was like, all right.
+
+If this is the thing that
+makes me most productive,
+
+then I'm going to make my whole
+schedule work to support that.
+
+And that was a really
+important change for me.
+
+So I think figuring out your
+own personal optimal times
+
+to work on what kind
+of different things,
+
+people don't really
+talk about that much.
+
+And at least for me,
+it had a huge impact.
+
+JORGE CUETO: Shifting
+gears a little bit,
+
+but still trying to get your
+perspective on different things
+
+related to day to day, but
+one of the key issues that
+
+has come up recently is
+bias in the workplace.
+
+and both conscious
+and unconscious bias.
+
+And I wanted to get
+your perspective
+
+on what are some of the
+strategies that you implement
+
+personally, whether in
+the way you interact
+
+with people that you encounter
+or in how you approach
+
+the decision making process
+and using strategies
+
+to minimize your own bias.
+
+SAM ALTMAN: Look,
+I think this is
+
+an important conversation
+happening in Silicon Valley
+
+right now.
+
+And there's a lot of
+opinions on a lot of sides.
+
+But I would just like
+to say the following.
+
+I think no matter what you
+believe about biology, no one
+
+that I respect does
+not believe that women
+
+and racial minorities and
+a number of other groups
+
+face an absolutely
+unfair playing field
+
+their entire lives.
+
+I think people start getting
+told directly or indirectly
+
+from the very young age this
+is the kind of thing you should
+
+do or can do or whatever.
+
+And that has an effect, a
+[INAUDIBLE] effect on anyone.
+
+And I think trying to counter
+that is really important.
+
+And again, I think
+there are things
+
+reasonable well-meaning
+people can disagree on.
+
+I think, unfortunately, we
+spend all of our time talking
+
+about the disagreements.
+
+And we don't focus
+enough on the agreements.
+
+And I think almost all
+smart, reasonable people will
+
+agree that the
+society we grew up in
+
+has a hugely unfair
+playing field.
+
+And I think because
+of that, it is not
+
+enough to talk about
+unconscious bias.
+
+I think that is a real
+problem to be clear.
+
+I think we are all a product
+of the society we grew up in.
+
+And we all have biases
+that aren't our fault,
+
+but still have a
+responsibility to counteract.
+
+But one thing I don't like
+about the discussion in Silicon
+
+Valley about
+unconscious bias and how
+
+that's the problem that
+we need to fix is I
+
+think it is not
+nearly sufficient.
+
+A good thing to fix,
+but it ignores the fact
+
+that, you know, decades
+or centuries of society
+
+have built up a very
+uneven playing field,
+
+and that is why we do
+need programs to try
+
+to proactively counter that.
+
+So you know, I think it's
+really important we not
+
+lose sight of that.
+
+And that unconscious
+bias training alone,
+
+although currently very
+fashionable, will not fix that.
+
+That said, I do believe
+unconscious bias is a problem.
+
+We try to counteract it,
+A, by talking about it
+
+and doing training,
+which I think does help.
+
+But B, I think one
+of the things that we
+
+have done that, unfortunately,
+other investors have not
+
+done as much is just have
+a very diverse partnership.
+
+You know, we have six
+female GPs on our team.
+
+And that's probably a large part
+of the women in top investing
+
+roles in Silicon Valley.
+
+And that's really bad.
+
+We have the CEO of our
+corp program is black.
+
+And I hate to play
+the kind of like,
+
+who's the most
+discriminated stack game.
+
+But I think black
+entrepreneurs in Silicon Valley
+
+have an exceptionally hard time.
+
+And I think by having
+a more diverse team,
+
+it helps us have
+broader networks
+
+and also think about our own
+unconscious bias all the time.
+
+JORGE CUETO: And the issue of
+politics or maybe even bringing
+
+these issues of in the workplace
+is sometimes seen as a taboo.
+
+And yet, you've been pretty
+vocal about your views
+
+on current political events
+and also other issues
+
+that are coming up
+in Silicon Valley.
+
+So I wanted to ask
+you how you walk
+
+that fine line between
+expressing your opinions,
+
+but also minimizing
+any repercussions
+
+that that could have on the
+day to day business of YC.
+
+SAM ALTMAN: Well, now it's
+not even controversial.
+
+You know, like now,
+all the tech CEOs
+
+are talking about politics.
+
+
+
+When I started doing
+it a couple of years
+
+ago kind of at the beginning
+of the rise of Trump,
+
+it was controversial.
+
+Two things were going on.
+
+One is I think no one
+took him seriously.
+
+So most people were
+like, yeah, this
+
+is a ridiculous thing
+that's going to go away.
+
+Two is that I think
+in normal times,
+
+it does make sense for business
+leaders of large organizations
+
+to remain apolitical.
+
+You know, I think it actually
+does make a lot of sense.
+
+It's a huge distraction.
+
+It's hugely time consuming.
+
+And it has all of these,
+like, weird negative effects,
+
+like you know, if you
+piss off the president,
+
+he can do bad things to you.
+
+
+
+However, these are
+not normal times.
+
+And I think when the future
+of the republic is at risk,
+
+the duty to the
+country and our values
+
+transcends the duty to
+your particular company.
+
+and your stock price.
+
+And I think I started
+that a little bit
+
+earlier than other people.
+
+But at this point, I'm
+in very good company.
+
+And it doesn't seem to be
+that controversial anymore.
+
+JORGE CUETO: What
+are some things
+
+that you wish people
+knew about you that they
+
+don't know about you?
+
+
+
+SAM ALTMAN: You
+know, at this point,
+
+I would just like to have my own
+little quiet private life back.
+
+I'll say nothing at all.
+
+JORGE CUETO: OK.
+
+Fair answer.
+
+
+
+Moving on to talking
+a little bit about YC
+
+and what you look for
+in companies, are there
+
+qualities in founders
+that you think
+
+are overrated or underrated?
+
+SAM ALTMAN: Yeah.
+
+I think the most
+underrated quality of all
+
+is being really determined.
+
+This is more important
+than being smart.
+
+This is more important
+than having a network.
+
+This is more important
+than a great idea.
+
+The hardest thing about
+starting a company
+
+is the level and the
+frequency of bad stuff
+
+that happens to you.
+
+And most people that are
+good in really other ways
+
+eventually just get
+killed, the company
+
+gets killed, by
+stuff going wrong.
+
+And you know, so much about
+being a successful entrepreneur
+
+is just not giving up.
+
+When we have funded
+people who have
+
+a great idea, perfect background
+on paper, and a great product
+
+and still failed, it has
+usually been that they're
+
+insufficiently determined.
+
+So I think this is the most
+important non-obvious skill
+
+of a founder.
+
+Of course, you need a good
+product and a good market
+
+and to be smart.
+
+But that's really obvious.
+
+The degree to which being
+like a three or four
+
+standard deviation
+outlier on determination
+
+is a required skill
+of a CEO is not
+
+something that was obvious
+to me when I started.
+
+That's also bad, because
+it's really hard to select.
+
+It's really hard
+to identify that.
+
+As we have said more publicly
+how important that is,
+
+people applying to YC have
+gotten better and better
+
+at telling us stories from
+their past life about how
+
+they overcame these impossible
+odds to get through something.
+
+And unlike intelligence, which
+is very difficult to fake in a,
+
+you know, one hour
+meeting, you can definitely
+
+fake determination in
+a one hour meeting.
+
+So that's one thing
+that really matters.
+
+Another thing that really
+matters that is non-obvious
+
+is independent thought.
+
+And this I think is an
+even more unusual skill
+
+than determination.
+
+I think both of these you
+can make a conscious effort
+
+and build up.
+
+But I think independent thought
+is one of the hardest skills
+
+to build up.
+
+Because speaking of social
+pressures from birth,
+
+we are all pushed to
+think like other people.
+
+And if you think
+in your own lives
+
+about the number of people you
+spend time with that you would
+
+say are true independent
+thinkers that consistently have
+
+new ideas you haven't
+heard from other people
+
+and think about the
+world in different ways,
+
+it's probably a very short list.
+
+And yet, these are
+the people that start
+
+all the interesting companies.
+
+The consensus idea
+is everyone tries
+
+Google will eat your lunch at.
+
+And they're also not kind
+of the really big trends
+
+of the future.
+
+You want startup ideas--
+
+if you picture a Venn
+diagram, and here you
+
+have is a good
+idea, and here you
+
+have sounds like a bad idea, you
+want that tiny little overlap.
+
+And those are the kind of
+ideas that are the hardest
+
+to identify and
+the ones that, even
+
+if you do manage to notice them,
+most people will talk you out
+
+of.
+
+So I'd say those are two
+non-obvious skills that we
+
+look for.
+
+JORGE CUETO: And
+what's one challenge
+
+that YC companies face
+repeatedly that you notice?
+
+
+
+SAM ALTMAN: Hiring engineers,
+when Google can just sort of
+
+like throw unlimited
+cash at anyone they want,
+
+has become very
+problematic for startups.
+
+
+
+I think the good
+thing about that--
+
+I always try to find the
+good in any bad situation.
+
+And the good thing
+about this is it
+
+means that all of the
+really good startups
+
+have really important missions.
+
+Eventually, they figure it out.
+
+They may not have it on day
+one, but they eventually
+
+get to this, like,
+missionary mindset.
+
+And it used to be that even
+if you didn't have that,
+
+you could just sort of
+get a bunch of mercenaries
+
+to come work for you.
+
+And now you can't, because
+you can't [INAUDIBLE] Google.
+
+And so one positive side
+effect of this thing
+
+has been that the importance
+now of a startup having
+
+a really clear and really
+important mission on day three
+
+has gone up a lot.
+
+And I think that's leading
+to better startups.
+
+Because, otherwise,
+you just can't recruit.
+
+
+
+Another common problem
+that startups have--
+
+and this doesn't sound
+like a great insight.
+
+But most startups still
+don't ever built a product
+
+that people want.
+
+And it doesn't seem to matter
+how much we talk about this.
+
+It doesn't seem to matter how
+much anyone talks about this.
+
+People still keep trying
+to do anything but this.
+
+And if there's one thing that
+a startup has to get right,
+
+it's build a product that people
+really want, not a little.
+
+If they want it a
+little bit, then you
+
+won't generate enough momentum.
+
+Like, you've got
+to build something
+
+that some people really love.
+
+And after failing, because
+of insufficiently determined
+
+founders, this is
+the number two reason
+
+that startups that seem
+really good otherwise fail.
+
+JORGE CUETO: Moving
+on to talking
+
+about different
+technologies, what
+
+would you say is the
+biggest challenge
+
+that we're facing in
+terms of making progress
+
+on artificial
+intelligence right now?
+
+
+
+SAM ALTMAN: Well, I don't
+know if any of you saw this,
+
+but OpenAI beat the best
+single player DotA players
+
+in the world last Friday.
+
+And when we started that project
+at the beginning of this year,
+
+I did not think that was
+going to happen this year.
+
+And I wasn't even sure it was
+going to happen next year.
+
+And it was very wild
+to watch that happen.
+
+Because it was almost
+purely self-training.
+
+And it was this very
+complex environment.
+
+And the AI was just
+playing itself and getting
+
+better and better and better.
+
+In fact, the final bot that we
+had that beat all the humans
+
+handily, one day later, it lost
+60-40 to a one-day-more evolved
+
+version of itself,
+just to give you
+
+a sense for the
+rate of improvement.
+
+
+
+And so I think people are kind
+of asleep at the wheel here.
+
+There are problems.
+
+But again, in the same
+spirit of always trying
+
+to figure out the
+good, not the bad,
+
+we are making unbelievable
+progress, maybe too
+
+much progress.
+
+But I think of all the
+things I worry about with AI,
+
+the technical
+barriers to progress
+
+are not the top of the list.
+
+JORGE CUETO:
+There's another camp
+
+that says that maybe we're
+placing too much emphasis
+
+on the threat of AI.
+
+What do you think about that?
+
+SAM ALTMAN: Yeah, I think
+we don't talk enough
+
+about the benefits.
+
+I think that AI
+has the potential
+
+to eliminate nearly
+all human suffering
+
+in the next couple of decades.
+
+I think we can have
+a world of abundance.
+
+We can eliminate
+poverty over time.
+
+We can probably cure a
+whole lot of diseases.
+
+There all these wonderful
+things that technology can do.
+
+I think we're
+already seeing that
+
+in just how much better a
+lot of consumer products
+
+we use everyday have gotten.
+
+People like disaster porn.
+
+People are more
+interested in talking
+
+about the end of the world than
+they are about life getting
+
+10% better every year and
+having that compound, which
+
+gets a lot better.
+
+So you know, if
+you're a journalist,
+
+you can write an
+article about how
+
+AI is going to end the world
+and get a lot of clicks
+
+and, you know, a page view
+bonus or whatever you get.
+
+Or, you can write an article
+about how AI is gradually
+
+making all these
+problems 10% better.
+
+And probably no one reads it.
+
+Certainly, no one shares it.
+
+And so I think, for whatever
+reason, the way we're wired
+
+is to talk much more
+about the downside of this
+
+than the upside.
+
+But the upside I think
+is going to be huge.
+
+It already is huge.
+
+JORGE CUETO: And what do you
+think about cryptocurrencies?
+
+Do you see the same growth?
+
+SAM ALTMAN: Yeah.
+
+I mean, I think it's
+going to go up and down.
+
+Like I bought my
+bitcoin a long time ago.
+
+I plan to hold them
+for a really long time.
+
+I try not to watch
+the price ticks,
+
+but it's so addicting
+that I can't help myself.
+
+I think-- this is not
+investment advice.
+
+
+
+I think the only super
+compelling proven use
+
+case we have seen so
+far is store value.
+
+And as a replacement
+for gold, I think
+
+we are seeing real
+adoption there
+
+and real collective
+belief that actually
+
+makes it have some value.
+
+However, if that's how
+it's going to play out,
+
+then I think bitcoin
+should dominate--
+
+biggest network, first biggest
+brand, most collective belief,
+
+whatever.
+
+And so I have been surprised
+by the continual strength
+
+on all of the altcoins.
+
+
+
+I think there are potential
+other truly valuable
+
+applications of the blockchain.
+
+Filecoin is a YC thing, so
+I know that one pretty well.
+
+And I can see that being big.
+
+But I think most of what's
+going on, outside of bitcoin,
+
+feels like a complete
+speculative bubble.
+
+And I feel bad that a lot of
+people are going to get burned.
+
+So I think probably
+the right thing to do,
+
+if you believe in it,
+is to buy bitcoin,
+
+and then not think about
+it for another five years.
+
+JORGE CUETO: Is there
+any specific product
+
+area or technology that you
+think people are sleeping on?
+
+
+
+SAM ALTMAN: Sure, a lot.
+
+AI, as we mentioned,
+I think people
+
+are asleep at the wheel
+on a really big way on.
+
+Nuclear fusion, I think,
+is within some single digit
+
+number of years of working.
+
+And because it's been
+so bad for so long,
+
+people are just kind of burned
+out and not really taking
+
+a new look at new materials
+and stronger magnets
+
+and better computer
+models that's
+
+going to enable this to work.
+
+Synthetic biology-- again, it's
+like people talked about it
+
+a lot a couple of years ago.
+
+It didn't quite work as
+fast as people were hoping.
+
+So we have like this hype cycle,
+and then it really falls off.
+
+And now, we're in the part where
+I think the interesting work is
+
+happening.
+
+And people aren't
+paying enough attention.
+
+
+
+I guess, that's a topic I
+can go on for a long time.
+
+But I'll limit it to three.
+
+JORGE CUETO: Sure.
+
+Is there any particular
+problem that you
+
+think technology can't solve?
+
+SAM ALTMAN: How to make us
+nice to each other technology
+
+has clearly been
+quite bad at solving.
+
+I won't say it can't.
+
+But I haven't seen it
+yet, and I certainly
+
+don't think technology
+can by itself.
+
+And I think we are kind
+of in the situation,
+
+at least in the
+developed world, where
+
+the world keeps getting better,
+and we keep getting unhappier.
+
+And you know, there's like a
+decent amount of data on this.
+
+And I think technology
+is not entirely to blame,
+
+but it's certainly
+not blameless.
+
+And I think 30 minutes
+left, I couldn't even
+
+start the conversation.
+
+But I think the number
+of things that technology
+
+has done to make
+us more isolated,
+
+feeling relatively worse--
+
+a friend of mine
+a little bit older
+
+said she never
+used to be unhappy.
+
+Because she had no idea
+what she was missing.
+
+And now that she
+has to watch, like--
+
+I'm very bad a pop
+culture, I'm going
+
+to pick a name at random--
+
+Kim Kardashian fly around
+in private jets on Instagram
+
+all day, she's jealous.
+
+And it makes her very unhappy.
+
+And it didn't used to happen.
+
+
+
+And I've been thinking
+about that a lot
+
+in the last couple of weeks.
+
+And I don't have a
+solution to that.
+
+But I understand why
+that's a problem.
+
+So I think figuring out how
+to make us happier and nicer
+
+to each other in particular, I
+think one thing that technology
+
+does that's really bad
+is we have some probably
+
+long-standing evolutionary
+pressure that even if I really
+
+don't like you, I'm
+very unlikely to come
+
+stand next to you and
+say, I fucking hate you.
+
+You're a jerk,
+you know, whatever
+
+else people say on Twitter.
+
+JORGE CUETO: A lot of things.
+
+SAM ALTMAN: Because we're
+like these pack animals.
+
+And we have to live
+with each other
+
+and help each other survive.
+
+But somehow on Twitter,
+that goes away.
+
+And I think I'll save my
+whole rant about Twitter.
+
+But I think that is a
+platform in particular
+
+that rewards saying the most
+aggressive snarky things.
+
+That's how you get likes
+and re-tweets and sort
+
+of value out of the platform.
+
+But a lot of
+technology does this.
+
+We don't have whatever
+kind of the human,
+
+being nice to each other
+in person, instinct is.
+
+And we have these platforms
+that reward being bad,
+
+reward being a jerk.
+
+And so I think
+I'm not optimistic
+
+that technology is going
+to solve that problem.
+
+I think that's going to have to
+be people solving that problem.
+
+JORGE CUETO: In an interview
+with "Vanity Fair" in 2015,
+
+you mentioned that you were
+optimistic about the future.
+
+And that was right before all
+of the election stuff happened
+
+and the situation that
+we find ourselves in.
+
+So would you say
+that you're still
+
+optimistic about the future?
+
+SAM ALTMAN: Yeah, of
+course, of course.
+
+Like, progress, it's not a
+perfectly exponential curve.
+
+It's not even a straight line.
+
+And you know, we are clearly
+in a challenging period now.
+
+But I think if you look back
+at the last few hundred,
+
+and then few thousand
+years, if you zoom out
+
+enough, the squiggles on
+the curve kind of disappear.
+
+The world's getting
+so much better.
+
+And I think that's
+going to keep happening.
+
+And even with everything
+going on right now,
+
+I'm delighted to
+be alive right now
+
+and not 100 years
+ago, and certainly
+
+not 200 or 2,000 years ago.
+
+And I think we do have
+technology to thank for a lot.
+
+And we have better governance.
+
+Like, the number of people
+living in an democracy,
+
+you know, 200 years ago was
+very low, the percentage.
+
+And as horrible as
+things are, the fact
+
+that we get to stand up and
+speak our minds without fear
+
+of being thrown in jail
+for political opposition
+
+and the fact that we get to vote
+again in 3 and 1/2 more years,
+
+I think that's amazing.
+
+And I think it's easy to
+take that for granted.
+
+But yeah, I think the future
+is going to be a lot better.
+
+I remain very optimistic.
+
+JORGE CUETO: What do you
+see as being a big challenge
+
+that we're facing as
+a society right now?
+
+
+
+SAM ALTMAN: How we
+deal with a world
+
+where the natural forces are
+for wealth to concentrate
+
+into the hands of a smaller
+and smaller number of people.
+
+As I mentioned
+earlier, I think people
+
+are more sensitive to
+relative quality of life
+
+than absolute quality of life.
+
+And I think technology
+is naturally a force.
+
+It's a giant lever
+that tends to create
+
+way more wealth, but
+really concentrated.
+
+So I think one of the most
+tone deaf things people say
+
+in Silicon Valley is, you know,
+poor people should be happy.
+
+They get this Android
+phone for not much money.
+
+They can access
+anything in the world.
+
+And they wouldn't
+have that without us,
+
+so why are they complaining?
+
+And OK, like there is
+some truth to that.
+
+I do think it is
+cool about the world
+
+that the richest
+person and someone
+
+living in an absolute poverty
+carry around the same phone.
+
+There was no analogy to
+that other than maybe
+
+like if you got a
+really bad disease.
+
+There was no like
+equality like that,
+
+you know, 400, 500 years ago.
+
+However, that point,
+which is always
+
+what Silicon Valley
+falls back to, I think
+
+is like maybe not the most
+tone deaf possible response,
+
+but up there.
+
+Like people want to feel
+like they have agency.
+
+They want to feel like they
+have a voice in the future.
+
+They want to feel like
+they can participate.
+
+And they want to
+feel like they're not
+
+just kind of like given this
+baseline, while like they
+
+toil in the provinces
+and Silicon Valley just
+
+gets all the money.
+
+And I think people who don't
+see that are just not thinking
+
+clearly.
+
+And so I think one of
+the greatest threats--
+
+something else I don't think
+technology can fix on its own--
+
+is how we get to
+a more just world.
+
+I really, really
+fundamentally believe
+
+that economic justice is
+the most important thing
+
+you can do for social justice.
+
+And if you have all
+of the resources going
+
+to a small set of people, even
+if everybody else is having
+
+their absolute quality of
+life raised very quickly,
+
+that's not enough.
+
+JORGE CUETO: You recently
+announced The United Slate,
+
+which puts forth some
+policy proposals as well as
+
+an invitation for candidates.
+
+What would you say success
+looks like for that?
+
+SAM ALTMAN: You
+know, if we could
+
+run five, six candidates in
+the 2018 cycle on that platform
+
+and have two of them
+win their elections,
+
+I think that'd be
+an incredible start.
+
+And you know, maybe it
+doesn't work at all.
+
+Because maybe those
+issues, although I
+
+believe they're
+important, are not yet
+
+ready to convince
+the public at large.
+
+But I think it will
+be a good start.
+
+And I think over time
+it will be really good
+
+if people on the
+progressive side
+
+built up a kind of
+long-term organization
+
+focusing on winning elections
+and shifting public perception
+
+at all levels.
+
+The right has done a
+fabulous job with this.
+
+Congratulations to any of
+you who are on that side.
+
+But I would like the left
+to do a better job at that.
+
+I don't think we're putting
+forward our best game there.
+
+JORGE CUETO: In your
+invitation, you also mentioned
+
+that you would be willing
+to work with Democrats,
+
+Independents, and Republicans.
+
+Is there any issue in particular
+that you see anyone, regardless
+
+of political ideology, coming
+together and agreeing on
+
+more so than other issues?
+
+SAM ALTMAN: I think there
+are a lot of issues.
+
+Again, I think people agree on
+way more than they disagree on.
+
+You know, as we went
+around the state
+
+and talked to Californians,
+Republicans, Democrats,
+
+San Francisco, LA, Fresno,
+Shasta County, wherever you go,
+
+the price of housing is like
+the biggest issue for most sort
+
+of regular people that are
+not Google employees, maybe
+
+even for Google employees.
+
+It's really, really bad.
+
+I mean, this is if you could
+fix I think one thing that
+
+would have hugely positive
+secondary effects,
+
+it's bring the cost of housing
+down by a factor of 10.
+
+It'd be transformative
+for society.
+
+It's a--
+
+AUDIENCE: [INAUDIBLE]
+government regulation?
+
+SAM ALTMAN: What?
+
+AUDIENCE: Eliminate
+government regulations.
+
+SAM ALTMAN: Eliminate
+government regulations?
+
+AUDIENCE: Five stories.
+
+SAM ALTMAN: Yeah.
+
+Like, I think many regulations
+have good elements.
+
+I'm not kind of the
+libertarian, anarchist,
+
+all government
+regulations are bad.
+
+But I do think that the sort of
+no more building, no building
+
+taller, has been
+disastrous for the state.
+
+And I think it is the
+worst possible allocation
+
+of resources to have people tie
+up every free penny they can
+
+find into the place they live.
+
+Think about anything else
+we could spend that on.
+
+Think about what
+it would be like
+
+if people could live
+close to where they
+
+work rather than
+commuting an hour
+
+and a half to get here each day.
+
+And that is something that
+Democrats, Republicans,
+
+Independents, almost
+everybody agrees on,
+
+or at least there are people
+in all of those camps that do.
+
+
+
+So I think like, again, easy
+to talk about the divisions.
+
+It's really good that when
+you talk to regular people,
+
+they all agree on what the
+most important issue is.
+
+And they all want to
+fix it in the state.
+
+JORGE CUETO: What do you think
+the tech industries role is
+
+in government and politics?
+
+
+
+SAM ALTMAN: Look, I think we are
+all citizens of this country.
+
+And we all have, like--
+
+you know, there is a
+right to participate
+
+in the electoral process.
+
+And I think there's
+also a duty to do that.
+
+And I think tech is
+going through such a boom
+
+right now it is
+easy to say, hey,
+
+I'm just going to focus
+on, like, doing my thing,
+
+building products, making
+money, and whatever.
+
+And I'm going to let someone
+else take care of the rest.
+
+One of the kind of
+disappointing things
+
+that I have learned
+as I've gotten
+
+to spend more and more time with
+increasingly influential people
+
+and kind of how the world
+works is that there is no plan.
+
+And there is no group
+figuring out everything.
+
+And it's kind of
+up to all of us.
+
+Everyone hopes.
+
+Like, the reason
+conspiracy theories
+
+are so appealing
+is that everybody
+
+wants there to be a conspiracy.
+
+You want to think that someone
+has a plan, that, you know,
+
+there's all this
+stuff happening.
+
+But someone's got
+a centralized plan,
+
+and it's all going to work out.
+
+And I think one of the sad
+realizations of growing up
+
+is that there are no grownups.
+
+No one has this master plan.
+
+And if we don't
+participate, the thing
+
+can just go off the rails.
+
+JORGE CUETO: What
+do you think are
+
+some of the most effective ways
+for employees at a large tech
+
+company, like Google,
+to get involved
+
+in government and politics?
+
+SAM ALTMAN: Everyone wants an
+answer other than this one,
+
+because it would
+be more convenient.
+
+But I think one of the answers
+is to just run for office.
+
+We have this process.
+
+We have this system,
+set of rules,
+
+that we've all agreed to.
+
+And everyone wants some way to
+act around the edges of that
+
+rather than just
+participate directly.
+
+And that's OK.
+
+There are good things to do.
+
+But I think just taking
+the problem head on,
+
+not enough people try that.
+
+
+
+JORGE CUETO: And there's
+rumors going around
+
+that Mark Zuckerberg is
+going to run for office,
+
+like, every other week.
+
+And then there's
+also been rumors
+
+about you running for governor.
+
+And we've seen tech people
+run for office in the past.
+
+Meg Whitman ran for governor
+of California in 2010.
+
+But she lost by a significant
+margin to Jerry Brown.
+
+So my question is, do you
+think that it's actually
+
+feasible for someone in tech
+to run for office and win?
+
+Or is there too much of this
+perception of the tech industry
+
+as being elitist,
+such that people
+
+won't connect with voters?
+
+SAM ALTMAN: I think there is.
+
+I think, at least,
+people should try.
+
+I think the tech industry is
+the most hated in the Bay Area.
+
+And if you go out
+throughout the rest
+
+of the state or the
+country, there's
+
+a lot of people who
+think it's really cool.
+
+They aspire to it.
+
+They want to participate in it.
+
+And I think it is easy to get
+too negative a view of how
+
+technology people
+are perceived here.
+
+I don't know if a tech person
+can win the presidency.
+
+I have a feeling we're
+going to find out.
+
+But what I am confident about is
+that people from the technology
+
+industry could start winning
+local school board and city
+
+council and, you know,
+congressional seats.
+
+And that would be a great
+thing to start with.
+
+JORGE CUETO: Is there
+any person currently
+
+living that you would
+want to run for president?
+
+Who's your ideal candidate?
+
+
+
+SAM ALTMAN: Ideal?
+
+I can't answer that on the fly.
+
+That's a good question
+to think about.
+
+When you said that,
+I was like, oh, I
+
+should figure out who
+that person is and go
+
+try to convince them to run.
+
+But I don't have an answer
+ready to go in my head.
+
+JORGE CUETO: OK.
+
+Well, with that, I'm going to
+open up the floor for audience
+
+questions.
+
+So if you have a
+question, feel free to go
+
+to the mic in the
+back of the room,
+
+or also submit your
+question to the Dory.
+
+AUDIENCE: [INAUDIBLE] Hi.
+
+You mentioned the
+anecdote about your friend
+
+being unhappy and
+Kim Kardashian.
+
+And it reminded me of a quote.
+
+And it said, people
+aren't unhappy,
+
+because they want to be happy.
+
+They're unhappy, because
+they want to be happier
+
+than other people.
+
+And you mentioned that
+technology may or may not
+
+be able to solve this.
+
+So I'd like to hear some of
+your ideas or success strategies
+
+on how to solve this on
+a micro and macro level,
+
+whether it be
+delete Twitter to--
+
+SAM ALTMAN: That's
+a good thing to do.
+
+That's a good thing to do.
+
+Yeah.
+
+I deleted all the social
+apps from my phone.
+
+And yeah, I can still check
+them on my computer when I want.
+
+But I don't have
+that constant urge
+
+to push button for
+dopamine hit here.
+
+And that's been really good.
+
+You know, I think after talking
+to a bunch of these people
+
+about the things that
+make people happy,
+
+there's the obvious
+stuff, which is
+
+like spend time with
+loved ones that everyone
+
+knows even if they don't do.
+
+But there's a bunch
+of things that
+
+are less obvious to me that seem
+to have huge measured effects.
+
+Like taking time to think
+about the things that went
+
+well as opposed to things
+you're upset about,
+
+or going for a walk outside
+everyday no matter what.
+
+And I think as we get sort
+of to abundance and unlimited
+
+resources, this is going to
+be a more important topic.
+
+What I would encourage you to do
+is to just like start reading.
+
+There's a lot of
+literature on the subject.
+
+No one seems to care about
+it enough to spend time.
+
+But I would say
+start reading it.
+
+And hopefully, I'll finish
+my blog post on it soon.
+
+Thank you.
+
+AUDIENCE: Hey, Sam.
+
+Thanks for coming.
+
+I wanted to ask a question
+about the larger landscape of VC
+
+in general.
+
+I heard a rumor that YC is
+looking to a growth fund.
+
+I think it broke on
+TechCrunch like month ago,
+
+like potentially
+raising $1 billion fund.
+
+I wanted to get your
+thoughts on growth
+
+versus venture and how you see
+growth evolving for the Bay
+
+Area in general.
+
+You see private
+companies staying
+
+private longer and longer.
+
+SAM ALTMAN: So we already
+have a growth fund.
+
+It's called YC Continuity.
+
+We raised the first one in 2015.
+
+It's about halfway invested.
+
+And it basically follows on
+in capital in YC companies.
+
+One of the things that I
+wanted to do after I joined
+
+YC was start to fund
+hard tech companies,
+
+nuclear fusion, something like
+biology quantum computing,
+
+self-driving cars-- long list.
+
+
+
+And one of the good
+things that I realized
+
+is that nobody else was
+funding those companies.
+
+And so we could have our pick.
+
+One of the bad things
+that I realized
+
+is nobody else was
+funding those companies.
+
+And so we could fund
+them all we wanted,
+
+and there was no
+follow on capital.
+
+
+
+So that was actually the
+genesis for our growth fund
+
+is that there was this
+class of companies
+
+that I think are really
+important and really valuable.
+
+And they weren't getting funded.
+
+Since then, we've
+expanded it, and we
+
+fund lots of other companies.
+
+I will certainly
+say that there is
+
+no shortage of growth
+capital for software
+
+companies in Silicon Valley.
+
+You know, it may
+have gotten harder
+
+to raise a seed or an A round.
+
+It probably has somewhat.
+
+But if you have things
+working, like when
+
+you want to go
+raise a B or C round
+
+and you have this beautiful
+exponential growth,
+
+you will not be able to keep up
+with the number of term sheets
+
+you're getting.
+
+That is the stage
+that I think just
+
+has a huge amount of
+capital allocated to it.
+
+As companies are
+staying private longer,
+
+as public market investors
+have a harder and harder time
+
+finding alpha, they
+are more and more
+
+willing to do stuff like this.
+
+So that part of
+the market is not
+
+suffering, at least, not yet.
+
+AUDIENCE: Thanks.
+
+SAM ALTMAN: Sure.
+
+JORGE CUETO: Let me do a
+question from the Dory.
+
+We have a question about
+universal basic income
+
+and how Google has been
+supporting GiveDirectly's
+
+research on UBI in Africa.
+
+And you're a proponent
+here in the US.
+
+So what are your
+thoughts on how,
+
+when, and where the universal
+basic income approach
+
+might be most effective?
+
+SAM ALTMAN: Yeah.
+
+I don't think universal
+basic income is
+
+the solution to all problems.
+
+I think, in fact, of
+the bigger problem
+
+that we were talking
+about earlier of what
+
+makes people happy and fulfilled
+and feel needed, and valued,
+
+and have meaning
+in their lives, it
+
+is not sufficient to
+solve that problem.
+
+And I don't think
+it will replace
+
+the entire other social safety
+net, like the people who
+
+are like eliminate
+everything else, you know,
+
+no health care, no schools,
+no minimum wage, basic income.
+
+I don't believe in that either.
+
+But I do think that if
+we do all of our jobs,
+
+if we Silicon Valley
+do all of our jobs,
+
+we will create more wealth
+than the world's ever
+
+seen before and less jobs.
+
+And in that world, I think
+there is a moral obligation
+
+to eliminate poverty.
+
+I think poverty is a,
+obviously, very bad thing.
+
+But it is worse even
+than people realize.
+
+If you look at the studies on
+the long-term psychological
+
+damage that living in
+poverty does to people
+
+and how it means that you never
+get a chance to really invest
+
+in your own future, because
+you're always just trying
+
+to survive, I think
+there's just a huge amount
+
+of wasted potential.
+
+And so you know, there are a
+lot of arguments about UBI.
+
+This was another thing.
+
+Like, when we started
+this couple of years ago,
+
+I did not predict
+at all that this
+
+was going to ignite into
+this big national debate.
+
+It was like, we were just
+trying to hire a researcher.
+
+You know, like, maybe
+this is a good idea.
+
+Can we just do a project?
+
+And it's just been like--
+
+
+
+so I don't think
+I quite understand
+
+why it has become such a
+national issue so quickly.
+
+But I do think that longer
+term, if we have the ability
+
+to eliminate poverty,
+we will get a lot more
+
+out of the world as a whole.
+
+JORGE CUETO: As you started
+the experiment in East Bay,
+
+have you noticed
+anything that maybe you
+
+didn't expect, or has it
+changed your attitude towards it
+
+in any way?
+
+SAM ALTMAN: You know,
+we're like seven or eight
+
+months into a five year study.
+
+So not yet.
+
+JORGE CUETO: OK.
+
+AUDIENCE: Hi, Sam.
+
+I'm thinking more in
+general of founders,
+
+but this could be general, too.
+
+But what advice do
+you frequently give,
+
+but you find most people never
+actually follow through on?
+
+SAM ALTMAN: I mean,
+no one ever listens
+
+to any advice of any sort.
+
+So, all of it.
+
+
+
+I think the thing that people--
+
+well, the piece of
+advice that people later
+
+say they wish they
+had listened to
+
+is that it is very easy to get
+sucked into a path in life.
+
+And you can do things
+like, say, oh, I want
+
+to start a startup someday.
+
+Or, oh, I want to be an
+AI researcher someday.
+
+But first, I'm going to go do
+this other job to, you know,
+
+make money and gain
+experience and whatever.
+
+And it's so easy to
+get sucked into a path
+
+where you spend your entire
+life doing something that is not
+
+really what you want to do.
+
+
+
+That's probably
+the piece of advice
+
+that I have given people that
+they have most often come
+
+to me, like, five
+years later and said,
+
+I really wish I had
+listened to that.
+
+AUDIENCE: Thank you.
+
+SAM ALTMAN: Sure.
+
+AUDIENCE: I'm curious
+to hear your thoughts
+
+on the relative
+rates of progress
+
+in AI between China
+and everywhere else.
+
+So you mentioned
+nobody has a plan,
+
+but China has a plan for
+state level centralized
+
+investment in AI.
+
+Whereas, Elon Musk is
+calling for regulation
+
+that would slow down--
+
+SAM ALTMAN: Yeah.
+
+AUDIENCE: ----[INAUDIBLE]
+everywhere else.
+
+SAM ALTMAN: China does
+plan, that's true.
+
+
+
+It doesn't always work.
+
+They don't always have
+global coordination.
+
+You know, like right now
+we're in this kind of world
+
+where it seems like you
+have the internet in China,
+
+and the internet in
+the rest of the world.
+
+Maybe they have a plan
+for their piece of it.
+
+
+
+I don't honestly know how
+far along China is with AI.
+
+And I don't think anybody else
+honestly really does either.
+
+
+
+I think it would be bad
+to get into an arms race
+
+with China over AI.
+
+I think that's something
+we should try to avoid.
+
+
+
+And I think there is
+a real opportunity,
+
+although we may not have the
+leaders in place to do it
+
+right now, to make this a joint
+kind of worldwide project,
+
+rather than another space
+race or nuclear arms race.
+
+Thanks.
+
+AUDIENCE: Hi, Sam.
+
+I was wondering if you
+could expand a little bit
+
+on funding hard tech.
+
+Because I think there's a big
+problem with private capital
+
+allocation.
+
+And you know, like, $70 billion
+was put into VC last year,
+
+which is a drop in the bucket in
+terms of worldwide investment.
+
+So do you see YC maybe
+raising an $100 billion
+
+fund in the future?
+
+SAM ALTMAN: Yeah, maybe.
+
+AUDIENCE: Like, yeah,
+how can we solve this?
+
+SAM ALTMAN: I think capital
+is allocated really badly.
+
+And unfortunately,
+there are huge efforts--
+
+like if you have this
+really valuable thing which
+
+is you get access to
+invest in great startups
+
+and most of the world doesn't,
+then there will obviously
+
+be a super return there.
+
+And you're going to work
+really hard to protect that.
+
+And so I think expanding
+access to invest in startups--
+
+which is happening, but slowly--
+is a really good thing to do.
+
+And I think, you know,
+equity crowdfunding
+
+we're still in the early days
+of, but is an important trend.
+
+And I think that will change
+the capital allocation.
+
+I think you're seeing startups
+in all these different ways
+
+go to non-traditional funders.
+
+And that's been really good.
+
+We first saw that with
+consumer hardware.
+
+We're now seeing that in
+a lot of other places.
+
+You know, I think the other
+thing that's happening,
+
+finally, is there's just--
+
+and there's bad to this, too.
+
+But there's just a huge
+amount more capital coming in
+
+to fund early stage
+private companies
+
+or mid-stage private companies.
+
+And I expect that in a world
+where interest rates stay
+
+even close to as
+low as they are,
+
+we are in the very early
+innings of that trend.
+
+So my general model is that
+the world's a very complex
+
+financial system.
+
+Capital sloshes around
+looking for the best return.
+
+There are periods where there's
+a really outperforming return,
+
+but then more capital
+gets allocated there.
+
+And I think we're
+seeing that now.
+
+AUDIENCE: But do you think
+that a nuclear fusion
+
+company could raise
+$100 million in an ICO
+
+or something like that?
+
+SAM ALTMAN: Yeah.
+
+Or maybe I wouldn't suggest
+that they do an ICO.
+
+But I do think they
+can raise $100 million.
+
+And I don't think they
+could have three years ago.
+
+And I think that's a really
+positive trend for the world
+
+that this stuff is now at
+least somewhat possible.
+
+AUDIENCE: Awesome, thanks.
+
+SAM ALTMAN: Sure.
+
+JORGE CUETO: Another
+Dory question--
+
+what are the most common reasons
+that qualified candidates get
+
+rejected from YC?
+
+
+
+SAM ALTMAN: Well, there
+is one particular thing
+
+that happens a lot with
+super talented people
+
+from large tech companies.
+
+So since I'm here,
+I'll mention that one,
+
+which is you are a really great
+person, really talented, really
+
+smart, really driven.
+
+And you don't have a good idea,
+or you don't have any idea.
+
+So you make up a bad one.
+
+And there's this,
+like, myth about
+
+startups that the idea
+doesn't matter at all.
+
+And I think there's existential
+proof that that's not true.
+
+And I think there is
+this particular failure
+
+mode of people from
+the big tech companies
+
+which is like, hey,
+I'm really talented.
+
+I'm like, yes, you are.
+
+So I'm going to start a company.
+
+And I'll figure out
+what to do later.
+
+And I think that
+isn't usually what
+
+produces the great companies.
+
+And so we have learned
+that it's much, much better
+
+if you're otherwise a qualified
+candidate to have a good idea.
+
+And I think that would be the
+common failure case for people
+
+coming out of Google.
+
+
+
+AUDIENCE: Hey, Sam.
+
+SAM ALTMAN: Hey.
+
+AUDIENCE: So what are your
+thoughts about, you know,
+
+where you're going to
+go or what you're going
+
+to do with your life after YC?
+
+Or does that come across?
+
+Like, are you going to take
+a political office seriously?
+
+SAM ALTMAN: You
+know, I don't even
+
+know what I'm going
+to do in three weeks.
+
+I plan to run YC for
+a really long time.
+
+I do plan to get continually
+more involved with politics.
+
+But I'd like to support others,
+not run for office myself,
+
+at least not any time soon.
+
+
+
+Like, I am a big believer in
+do the things that you think
+
+about in the shower
+in the morning
+
+when you can think
+about anything
+
+you want and your kind
+of mind is just off.
+
+And the things I keep
+coming back to are
+
+how can I make YC
+like 100 times bigger?
+
+How can I make sure that
+the arrival of AI goes well?
+
+And in the short term, how can
+I help our political system
+
+from going off the rails
+or any more off the rails
+
+than it already has?
+
+So you know, I kind of plan to
+keep working on those things
+
+for, hopefully, you
+know, a really long time.
+
+AUDIENCE: Good to hear.
+
+Thanks.
+
+AUDIENCE: Hi, thank
+you for being here.
+
+I have a question
+about the general way
+
+Silicon Valley works.
+
+Because it seems
+like it's a system
+
+in which you have the most
+talented minds dealing
+
+with maybe not the
+most important issues.
+
+Like, you have the
+sharpest mind working
+
+on social apps or mobile apps.
+
+But we still don't
+have a cure for cancer,
+
+or we still don't have
+another way of having energy,
+
+or really important stuff
+that the world should handle.
+
+And
+
+So my question is, do
+you agree with that?
+
+What is your
+perspective on that?
+
+And how do you think maybe
+this can be addressed?
+
+SAM ALTMAN: I don't
+agree with that.
+
+I think I used to view my
+job as a capital allocator.
+
+And now, I view my job
+as a talent allocator.
+
+So most of my day
+is spent meeting
+
+with really smart people
+and trying to convince them
+
+to work on important problems.
+
+And you know, I
+think in 2007, what
+
+everyone said is the best
+minds of our generation used
+
+to build spaceships,
+and now they're
+
+like moving numbers
+around on Wall Street.
+
+And in 2017, what people
+say is the best minds
+
+of our generation used
+to build spaceships.
+
+And now they get
+me to click on ads.
+
+And you know, there's
+always some truth to that.
+
+And there's always
+someone to pick on there.
+
+But I think OpenAI has
+some of the smartest
+
+minds in our world of
+our generation working
+
+on having AI go well.
+
+I think Helion, which is that
+fusion company I mentioned--
+
+some of the smartest minds
+of our generation working
+
+on nuclear fusion.
+
+YC, I think, last time I
+counted funded eight companies
+
+working on a cure for cancer,
+incredibly talented people--
+
+or cures for cancer--
+
+cancers.
+
+I think you can
+always say there's
+
+all these people like working
+on bad stuff or stuff that
+
+doesn't matter.
+
+But you know, I
+think Google is still
+
+like a really great
+thing for the world.
+
+AUDIENCE: This is
+why we're here.
+
+SAM ALTMAN: Yeah.
+
+And I think it does matter.
+
+I think it's always easy
+to pick on people and say,
+
+you're not working
+on a cure for cancer.
+
+You know, you're
+wasting your time.
+
+But you're making
+this thing better
+
+that people use every day.
+
+And their lives would be a
+lot worse if it went away.
+
+And you're making
+it better every day.
+
+And I think it's really
+easy to pick on people
+
+and say, you know, that person's
+not spending her time right.
+
+And I think it always says
+more about the person that
+
+says that than the person
+they're pointing to.
+
+And if you're doing something
+useful for the world, if you're
+
+doing something you
+enjoy, even if you're
+
+having a small impact, but on
+a product that a lot of people
+
+really use and love, I think
+that's really valuable.
+
+And I think the people
+who say this generally
+
+have a lot of
+insecurity about how
+
+they're spending their time.
+
+AUDIENCE: So you don't
+think like Silicon Valley is
+
+avoiding the tough problems?
+
+SAM ALTMAN: I invite you to
+come sit in my office for a day
+
+and listen to the
+people coming through
+
+and what they're working on.
+
+I really don't think that, no.
+
+AUDIENCE: OK.
+
+Cool.
+
+Thank you.
+
+AUDIENCE: Hey, Sam.
+
+Seeing that you're a largely
+influential public figure,
+
+could you speak
+to the privileges
+
+that might have led to that and
+helped you with your success
+
+and how you may be
+good or bad ally?
+
+And then also, seeing that a
+lot of our consumer products
+
+are largely bias, specifically
+to the people who create them,
+
+which is largely the Silicon
+Valley engineers like myself
+
+and others in this
+room, how do you
+
+keep your ideas and thoughts
+diverse in addressing
+
+intersectional needs?
+
+SAM ALTMAN: Yeah,
+great question.
+
+I basically had like nearly
+all of the possible privileges.
+
+I had wonderful, loving parents.
+
+I grew up in a safe house.
+
+I'm a white guy.
+
+We had enough money that
+I was able to pursue
+
+the things that I was interested
+in and go to great college.
+
+And it's never
+lost on me how if I
+
+had been born a mile
+in a different place
+
+to a different family, different
+skin color, different gender,
+
+I wouldn't be where I am now.
+
+I view that as an
+obligation to try
+
+to make the world more
+just going forward.
+
+I think anyone who is really
+successful and doesn't--
+
+I think anyone should
+try to do the best
+
+they can with whatever
+hand they're dealt.
+
+But if you're dealt, you know,
+like four aces, and you win,
+
+then I think you have
+an extra obligation
+
+to try to sort of make
+the world a little better.
+
+So I try to be really thankful
+of what everyone's done
+
+that has allowed me to do this.
+
+I also try to figure out
+how to pay that forward.
+
+And I think anyone who
+is really successful
+
+or almost anyone who
+is really successful
+
+has like privilege, luck,
+skill, and hard work.
+
+And I think people
+who try to say
+
+it's just one or just the
+other all tend to be wrong.
+
+So I'm thankful for that.
+
+And I try to pay that forward.
+
+
+
+In terms of biases
+in the product,
+
+I think this is one of the
+reasons that diverse teams are
+
+most important, the
+moral question aside.
+
+The consumer
+products, the teams,
+
+the companies that I think have
+done the best job addressing
+
+this head on have had
+a very diverse set
+
+of voices around the table.
+
+And I think that is always
+the strategy I recommend,
+
+because that's the only one
+I've seen consistently work.
+
+AUDIENCE: Cool, thank you.
+
+JORGE CUETO: We're on time now.
+
+But if you can do these last
+three questions quickly,
+
+we can get through them.
+
+SAM ALTMAN: Sure.
+
+AUDIENCE: Thank you
+for coming, Sam.
+
+My question is on
+machine learning
+
+and artificial
+intelligence companies.
+
+It seems to me that the
+scarce or valuable thing
+
+is data in those areas
+and less so the algorithm,
+
+because they're
+mostly open source.
+
+So I was wondering how you think
+about that when getting pitches
+
+from companies.
+
+SAM ALTMAN: I used
+to believe that.
+
+I now believe that it's going
+to be compute, not data.
+
+I think data is
+important, but there
+
+will be a lot of it available.
+
+And just my own
+experience with OpenAI,
+
+to really be at
+the forefront here,
+
+you just need massive
+amounts of compute.
+
+And so I used to ask
+companies how they're
+
+going to get a lot of data.
+
+Now, I ask them how they're
+going to get a lot of compute.
+
+AUDIENCE: OK.
+
+Thank you.
+
+SAM ALTMAN: Sure.
+
+AUDIENCE: Hey, Sam.
+
+Thanks for coming.
+
+I know you were
+talking about people
+
+are becoming unhappier
+and the world [INAUDIBLE]
+
+problem, all these
+kind of things
+
+that are kind of quantifiable,
+like physical needs of people.
+
+Have you or had companies
+that come to you kind of try
+
+to solve the spiritual
+needs of people?
+
+Because we can identify
+the physical needs,
+
+but what about like spiritual
+needs or research or companies?
+
+SAM ALTMAN: We have had a few.
+
+None of them have
+really worked yet.
+
+But you know, one that
+stuck out of memory
+
+was a company came
+to us and said,
+
+churches, you know,
+organized religion
+
+had this really
+important effect that
+
+was totally separate
+from the religion
+
+itself, which was this
+tight-knit community.
+
+And how do you build
+that in a world
+
+where most people or a
+declining number of people
+
+believe in religion
+and go to church?
+
+And so I think there are
+people thinking about things
+
+like that, which are sort
+of these non-obvious attacks
+
+on the problem that
+are interesting,
+
+but none that I could
+yet point to as here's
+
+this thing that's
+really worked well.
+
+AUDIENCE: Hey, Sam.
+
+So you partnered with the
+ACLU earlier this year,
+
+which you got
+mixed reactions to.
+
+I'm wondering what you learned
+from that whole experience,
+
+what successes you've
+had, and what partnerships
+
+you're looking forward
+to with other non-profits
+
+in the future?
+
+SAM ALTMAN: I was really
+excited about how that went.
+
+We had never done
+anything like that before.
+
+We often try new things.
+
+Usually, they don't work.
+
+Sometimes they do.
+
+That's something
+we would do again.
+
+We would do something
+more like that.
+
+I think there are these
+really important organizations
+
+in the world that can use our
+help to build better technology
+
+teams.
+
+And that was an
+experiment that went well
+
+and that we'd love to try again.
+
+One of our software engineers,
+[INAUDIBLE],, went there for--
+
+I think she went for
+like eight weeks,
+
+almost the whole program, sat
+in their offices, helped them.
+
+We got a call from them
+later about how well it went,
+
+being able to help
+them, you know,
+
+expand and supplement
+their team.
+
+And you know, I think
+that's something
+
+we'd like to try again.
+
+JORGE CUETO: And one last
+question, because it's
+
+gotten so many votes.
+
+SAM ALTMAN: Sure.
+
+JORGE CUETO: Elon
+Musk recently called
+
+for preemptive AI regulation
+at the National Governors
+
+Association.
+
+As a chair of OpenAI and
+friend of Musk's, what
+
+is your opinion on this issue?
+
+And what specific actions can
+we take to minimize future risk?
+
+SAM ALTMAN: The specific
+thing I would support today
+
+is just insight.
+
+I think the government
+should understand
+
+where the edge of capabilities
+are and how it's evolving.
+
+Because I think no one,
+certainly not the government,
+
+knows what the regulation for
+AI should look like today.
+
+But I'd be in favor of starting
+that education process.
+
+JORGE CUETO: Awesome.
+
+So, yeah, that was
+our last question.
+
+SAM ALTMAN: Thank you all.
+
+JORGE CUETO: Thank you,
+everyone, for coming.
+
+[APPLAUSE]
+
+SAM ALTMAN: Thanks
+for having me.
+
+JORGE CUETO: [INAUDIBLE]
+
+
+

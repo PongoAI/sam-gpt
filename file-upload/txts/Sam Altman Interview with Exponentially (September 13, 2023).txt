@@ -1,0 +1,1288 @@
+[Music]
+
+as artificial intelligence surges ahead
+
+can we trust open Ai and its boss Sam
+
+Altman I'm azimasar and today I'm
+
+talking to Sam Oldman welcome to
+
+exponentially
+
+[Music]
+
+2023 will be remembered as the year that
+
+AI burst into the public consciousness
+
+open AI is leading the charge but what
+
+does its boss truly think what does he
+
+want to build and can he bring us with
+
+him Sam old he's the rock and roll star
+
+of artificial intelligence he's raised
+
+billions of dollars from Microsoft and
+
+his early backers include Elon Musk and
+
+Reed Hoffman it's been a hell of a
+
+journey and the more we know about AI
+
+the more questions the technology raises
+
+I caught up with Sam at the beginning of
+
+a world tour that would cover 20
+
+countries in just 30 days we spoke to
+
+each other at University College London
+
+in front of a live audience of nearly a
+
+thousand people
+
+foreign
+
+[Music]
+
+how are you doing
+
+it's been super great and I didn't I
+
+wasn't sure how much fun I was going to
+
+have um I really wanted to do it because
+
+I think the sort of San Francisco Echo
+
+chamber is not a great thing and I have
+
+never found a replacement for getting on
+
+airplanes meeting people and the
+
+feedback we've gotten about what people
+
+want us to do how they're thinking about
+
+AI what they're excited about what
+
+they're nervous about it's been even
+
+more useful than I expected and uh I've
+
+had a great time I've seen you taking
+
+notes by hand in a in a notebook as you
+
+hear from people as well I still taking
+
+my notes by hand I do my to-do list by
+
+hand there's going to be a lesson in
+
+there for for many of us I think there's
+
+probably no lesson
+
+when you started open AI in 2015 I mean
+
+did you imagine that within just a few
+
+years you you would almost by necessity
+
+have to get on a plane
+
+fly around the world to listen to people
+
+from every continent
+
+I've always tried to do this uh at when
+
+I was running my combinator I would try
+
+to fly around and meet people a lot
+
+um I think it's really important I think
+
+it's something that like the barrier
+
+tech industry doesn't do enough of but I
+
+enjoy it I also like I think most of my
+
+important insights come while traveling
+
+in some way and you get good very
+
+different perspectives
+
+um and certainly like you know when we
+
+started opening I thought it probably
+
+wasn't going to work but if it did work
+
+then I thought like it would be an
+
+impactful technology and getting input
+
+from the world would be a really
+
+important thing to do
+
+so you're some some way through this
+
+talk and you've been to countries in in
+
+the global South and you've been to
+
+richer European countries as as well
+
+just giving us a quick thumbnail
+
+how do attitudes vary and what surprised
+
+you
+
+there's a lot of interesting ways in
+
+which attitudes are the same
+
+um like fundamentally I think we've seen
+
+tremendous excitement from people
+
+building on the technology using
+
+technology everywhere and then fear
+
+particularly from people who don't use
+
+the technology uh or for people who use
+
+it a lot and I've really like thought
+
+about where it all might go uh
+
+the concerns are definitely different in
+
+different places uh you know like in the
+
+global South there's a lot more about
+
+like what are the economic benefits this
+
+can deliver right now how can this help
+
+with problems that we face in education
+
+Healthcare right now and in more
+
+developed worlds there's more of you
+
+know how are we going to make sure that
+
+some of these longer term problems are
+
+addressed and that of course makes sense
+
+um but the the sort of the excitement
+
+about the technology the desire to
+
+participate that desire to ensure that
+
+everyone's values are represented in
+
+this and that we have some way to
+
+really reflect that in the systems that
+
+get built here some way to have
+
+governance benefit sharing access
+
+sharing that feels Fair like that's
+
+that's been Universal when you're in an
+
+unprecedented uh position right now in
+
+many cases in the Silicon Valley model
+
+the founder of a business like this or a
+
+service like this owns a lot of equity
+
+takes a salary as well has a financial
+
+upside and you you don't have any of
+
+that you just draw enough for your your
+
+health insurance so what is the inner
+
+drive for you given the challenge given
+
+the the demands out on you on your time
+
+your energy
+
+I I can't think of any more exciting
+
+things I mean I hope this is like
+
+self-explanatory but I can't think of
+
+anything more exciting to work on I feel
+
+like extremely privileged to be at this
+
+moment in history and more than that
+
+like working with this particular team I
+
+don't know like how I would possibly
+
+rather spend the days right I I you know
+
+like I was very fortunate I made a bunch
+
+of money very early in my career so like
+
+I don't think it's some like great Noble
+
+thing do you have mentors are there
+
+people you're learning from
+
+I I feel like super fortunate to have
+
+had great mentors I also think it's
+
+important not to try to like learn too
+
+much from other people and sort of do
+
+things your own way right so I've tried
+
+to get the balance there right I'm sure
+
+it's still not quite right but
+
+um yeah I think one of the magical
+
+things about Silicon Valley is how much
+
+people care about mentorship and
+
+teaching and I've gotten way more than
+
+my fair share there but if we pick out
+
+one or two lessons from the great
+
+mentals you've had what would they be
+
+Paul Graham who ran my commentator
+
+before it started ran up before I did uh
+
+I think kind of did more to teach people
+
+about how
+
+startups work and and how the startup
+
+Playbook kind of is done and that as
+
+we've we've we've borrowed very heavily
+
+from what it takes to make a high
+
+functioning org and and traps you want
+
+to avoid there uh certainly learning
+
+from Elon about just like what is
+
+possible to do and that you don't need
+
+to accept that our technology is not
+
+something you ignore that's been super
+
+valuable and I can see both of those
+
+lessons in openai and in what you have
+
+shipped and have been shipping for a few
+
+years when we last spoke a couple of
+
+years ago you were talking about
+
+these large language models and we're
+
+currently on gpt4 but back then the
+
+state of the art was GPT three and you
+
+said to me that the gap between gpt2 and
+
+gbt3 was just a baby step on the
+
+continuity so it's just a little baby
+
+step when you now look at gbt4 would you
+
+say that's another baby step
+
+it'll look like that in retrospect I
+
+think right um
+
+it feels like well that's the nature of
+
+the exponential yeah
+
+but when we're living through it it's
+
+well it felt like a big jump for a
+
+little while uh and now people are you
+
+know it's very much like what have you
+
+done for me lately where's gbt5 and
+
+that's fine like that's the way of the
+
+world that's how it's supposed to go
+
+um but you know people get used to
+
+anything we establish new baselines very
+
+quickly I'm curious
+
+um what were the insights that you
+
+gained in developing gpt4 and in the
+
+months following its release that were
+
+different to the ones from the previous
+
+models that you released we finished
+
+training GPT for like eightish months
+
+before we released it I think and that
+
+was by far the longest we'd ever spent
+
+on a Model pre-release one of the things
+
+that we had learned with gpd3 was all of
+
+the ways these things break down once
+
+you put them out in the wild we think it
+
+is really important to deploy models
+
+incrementally to give the world time to
+
+adapt
+
+understand what we think is going to
+
+happen What might happen to give people
+
+time to figure out what they what the
+
+risks are what the benefits are what the
+
+rules should be but we don't want to put
+
+out a model that we know has a bunch of
+
+problems so we spent more time
+
+applying the lessons from the earlier
+
+versions of GPT three to this one so
+
+that was a lesson which is that if we
+
+really spent a lot of time on alignment
+
+auditing testing our whole safety system
+
+we can we can make a lot of progress so
+
+essentially you build this model it's an
+
+incredibly complicated machine gpt3 the
+
+precursor had 175 billion parameters
+
+which I think of as you know sliders on
+
+a graphic equalizer I mean it's a lot of
+
+configuration and gpt4 is larger still
+
+although you haven't sort of formally
+
+said how much larger
+
+um
+
+how do you
+
+take that machine and get it to do what
+
+we wanted to do and not do what we don't
+
+want to do that's the alignment problem
+
+and that's where you you've spent this
+
+eight months yeah so I want to be clear
+
+on this uh just because we're able to
+
+align gpt4 does not mean we're like out
+
+of the woods uh I'm not even close as I
+
+hope is obvious we have a huge amount of
+
+work to do to figure out how to go into
+
+a line super intelligence and much more
+
+powerful systems than what we have now
+
+hmm and I like I I worry that when we
+
+say hey we can align gpt4 pretty well
+
+people think we think we've solved the
+
+problem we don't
+
+um
+
+but it is I think remarkable that we can
+
+take the base model of gpt4 which if you
+
+use that you'll be like this is not very
+
+impressive or
+
+it's at least extremely difficult to use
+
+and with so little effort and so little
+
+relatively speaking data we can do rlhf
+
+and get the model to be so usable and so
+
+aligned and rnhf is is reinforcement
+
+learning with human feedback which I
+
+think is the way that you you get people
+
+to answer questions from gpt4 and tell
+
+it when it's been good and when it's yep
+
+no not met expenses and a turn and it's
+
+very tiny amounts of feedback and it's
+
+very unsophisticated too like what you
+
+would like to think given these models
+
+are usable with natural language you'd
+
+like to think someone would say like oh
+
+no this answer is wrong for this subtle
+
+reason and you know you got this
+
+assumption wrong here which led to this
+
+other problem there it's really just
+
+like thumbs up thumbs down
+
+yeah and the fact that this works I
+
+think is like quite remarkable well what
+
+I found remarkable is that it's quite a
+
+small amount of this rlhf compared to
+
+the hundreds of billions of words that
+
+these models are trained on you need
+
+what a few thousand tens of thousands of
+
+bits of feedback it's like a little bit
+
+different in different cases but right
+
+yeah yeah not a lot you've said you're
+
+not training GPT five right now and I
+
+was curious about why that was was it
+
+that there's not enough data was it work
+
+that there aren't enough computer chips
+
+to train it on was it that you saw
+
+things going on when you were making
+
+gpt4 happen that you thought you need to
+
+figure out how to tackle these before we
+
+build the next
+
+these models are very difficult to build
+
+like the time between GPT three and four
+
+uh was almost three years
+
+um it just takes a while there's a lot
+
+of research to go do there's also a lot
+
+of other stuff we want to do with gpt4
+
+now that it's done we want to study
+
+post-training a lot we want to expand it
+
+in all sorts of ways the fact they can
+
+ship an iPhone every year is incredible
+
+to me
+
+um but like we're just going to be on a
+
+longer than one year Cadence you said
+
+that there's more research to be done
+
+and there are a number of very well
+
+storied AI researchers who have said
+
+that large language models are limited
+
+they will not get us to the next
+
+performance increase that you can't
+
+build artificial general intelligence
+
+with
+
+llms do you do you agree with that I
+
+mean first of all I think most of those
+
+commentators have been horribly wrong
+
+about what llms are going to be able to
+
+do and a lot of them have now switched
+
+to saying well it's not that llms aren't
+
+going to work it's that they work too
+
+well and they're too dangerous and we
+
+got to stop them
+
+um or others have just said well you
+
+know it's all still like a parlor trick
+
+and this is not any real learning
+
+um
+
+some of the more sophisticated ones say
+
+Okay llms work better than expected but
+
+they're not going to get all the way to
+
+AGI in the current Paradigm and that we
+
+agree with
+
+um so I think we absolutely should push
+
+as far as we can in the current Paradigm
+
+but we're hard at work trying to figure
+
+out the next Paradigm the thing I'm
+
+personally most excited about maybe of
+
+the whole
+
+AGI world is that these models at some
+
+point are going to help us discover new
+
+science
+
+fast and in really meaningful ways but I
+
+think fastest way to get there is to go
+
+beyond the GPT Paradigm models that can
+
+generate new knowledge models that can
+
+come up with new ideas models that can
+
+sort of just figure things out that they
+
+haven't seen before
+
+um and that that's going to require new
+
+work I've been using gpt4 obsessively
+
+I'm happy to hear the last last few few
+
+months yeah yeah it's uh it's quite
+
+something and I do feel that it's
+
+sometimes coming up with new knowledge
+
+and I haven't done a robust test but I'm
+
+sitting here somebody who works in
+
+research and I'm thinking I have learned
+
+something new here so what's going on
+
+yeah I mean there's like glimpses of it
+
+right and it can do small things but it
+
+can't it can't self-correct and stay on
+
+the rails enough where you can just say
+
+hey gpt4 please go cure cancer that's
+
+not gonna happen right but it would be
+
+nice if we had a system that could do
+
+that now you talked about different
+
+research avenues that might be needed
+
+have you got a favorite couple of
+
+candidates that you think might be the
+
+next step for Humanity in building this
+
+um nothing that I would say like here's
+
+enough confidence to spend time that
+
+it's going to work we're hard to work on
+
+trying to find it
+
+[Music]
+
+obviously we're talking about how
+
+powerful these Technologies are and
+
+there will also be downsides and let's
+
+start with one that is quite proximate
+
+uh today so gpt4 and these other large
+
+language models are very very good at
+
+producing text human sounding text and
+
+so it opens up that risk of
+
+misinformation and disinformation in
+
+particular as we head in towards
+
+important elections in the United States
+
+how serious risk do you see that and
+
+given that it's so proximate what can
+
+what can we do and what can we help you
+
+with I do think disinformation is
+
+becoming a bigger challenge in the world
+
+also I think it's a somewhat
+
+fraught category you know we've labeled
+
+things as disinformation as a society
+
+that turned out to be true right we've
+
+kicked people off platforms for saying
+
+things that turned out to be true and
+
+we're going to have to find a balance
+
+where we preserve the
+
+ability to be wrong in exchange for
+
+sometimes exposing important information
+
+without saying everything is you know in
+
+10 intentional disinformation used to
+
+manipulate but people that are
+
+intentionally being wrong in order to
+
+manipulate I think is a real problem and
+
+we've seen more of that with technology
+
+I mean 3.5 in particular is really quite
+
+good so if there was going to be a
+
+disinformation wave wouldn't it have
+
+come early so I think humans are already
+
+good at making disinformation and maybe
+
+the GPT models make it easier but that's
+
+not the thing I'm afraid of also I think
+
+it's typed into compare Ai and social
+
+media but they're super different like
+
+you can generate all the disinformation
+
+you want with gpt4 but if it's just for
+
+yourself and it's not being spread it's
+
+not going to do much so it is really
+
+something about the channels that spread
+
+it
+
+um however I think what it's worth
+
+considering is what's going to be
+
+different with AI and where is it going
+
+to plug into channels that can help it
+
+spread and I I think one thing that will
+
+be different is the interactive
+
+personalized persuasive ability of these
+
+systems
+
+um so the idea that I might get a a robo
+
+call on my phone I pick it up there's a
+
+text to voice that sounds incredibly
+
+realistic and then the messaging in
+
+there is really attuned to me so it's
+
+emotionally resonant really realistic
+
+and read out by a machine that's what I
+
+think the new challenge will do right
+
+and there's a lot to do there uh you
+
+know we can build refusals into the
+
+models we can build monitoring systems
+
+so people can't do that at scale but
+
+we're gonna have and I think it's
+
+important that we have we're going to
+
+have powerful open source models out in
+
+the world and those the open AI
+
+techniques of what we can do in our own
+
+systems won't work the same right so
+
+just to clarify that point right because
+
+with open AI you have an API and you
+
+have a named customer so if you see bad
+
+behavior you can turn that person off
+
+whereas an open source model could be
+
+run by anyone on their desktop computer
+
+at some point and it's actually much
+
+harder there's a proliferation problem
+
+yeah solving this can't just be open AIS
+
+greens right there has to be you must be
+
+asking for help there's regulatory
+
+things that we can do that will help
+
+some the real solution here is to
+
+educate people about what's happening
+
+we've been through this before when
+
+Photoshop first became popular there was
+
+a brief period of time where people like
+
+were like oh if I you know seen this
+
+believing it's got to be real and then
+
+people learn quickly that it's not and
+
+you know some people still fall for this
+
+stuff
+
+um but on the whole if you see an image
+
+you know it might be digitally
+
+manipulated well understood the same
+
+thing will happen with these new
+
+technologies but the sooner we can
+
+educate people about it because the
+
+emotional resonance is going to be so
+
+much higher I think the better
+
+[Music]
+
+let's turn to education we're in a
+
+global University
+
+here and of course education is closely
+
+connected to to the job market
+
+when we previous times we've seen
+
+powerful new technologies emerge they
+
+have really impacted power dynamics
+
+between workers and employers I think
+
+back to the late 18th century there was
+
+engel's pause the point in time in
+
+England where GDP went up worker wages
+
+were stagnant when we're looking at AI
+
+we might see something similar and and
+
+neither you nor I I think want
+
+historians of the future to be
+
+describing Altman's pause when wages
+
+suffered under a point of of wage
+
+pressure because of the new technology
+
+what are the interventions that are that
+
+are needed to make sure that that there
+
+is a sort of Equitable sharing of the
+
+gains from the technology
+
+well first of all we just need gains we
+
+need growth I think one of the problems
+
+in the developed world right now is we
+
+don't have enough growth and that's
+
+caused we don't have enough sustainable
+
+growth and that's causing all sorts of
+
+problems so I'm excited that this
+
+technology can like bring the missing
+
+productivity again so the last few
+
+decades back some technologies are
+
+reduce inequality by nature and some
+
+enhance it I'm not totally sure this
+
+one's going to go but I think this is a
+
+technology that the shape of which is to
+
+reduce inequality my basic model of the
+
+world is that cost of intelligence and
+
+the cost of energy are the the two
+
+limiting inputs and if you can make
+
+those dramatically cheaper dramatically
+
+more accessible that does more to help
+
+uh poor people than rich people frankly
+
+although it'll help everyone a lot this
+
+technology will lift all of the world up
+
+most people in this room if they need
+
+some sort of intellectual cognitive
+
+labor they can they can afford it most
+
+people in the world often can't and if
+
+if we can commoditize that I think that
+
+is an equalizing force and an important
+
+one well can I say one more of course
+
+yeah I do you know I think it's like
+
+important to think I think there will be
+
+way more jobs on the other side of this
+
+technological Revolution I'm not a
+
+believer that this is the end of work at
+
+all
+
+um I think like we will look back at the
+
+mundane jobs many of us do today and be
+
+like that was really bad this is much
+
+better and more interesting now
+
+I still think we'll have to think about
+
+distribution of wealth differently than
+
+we do today and that's fine we actually
+
+think about that somewhat differently
+
+after every technological Evolution I
+
+also think given the shape of this
+
+particular one the way that access to
+
+these systems is distributed fairly is
+
+going to be a very challenging question
+
+and in those previous revolutions the
+
+technology revolutions the thing that
+
+Drew it drew us together was uh
+
+political structures I mean it was trade
+
+unionism and labor collectives in the
+
+late 19th century when we look at
+
+something like AI can you imagine the
+
+types of structures that would be needed
+
+for recognizing and redistributing the
+
+gains from unpaid or low paid work
+
+that's often not recognized for example
+
+the work that women are doing around the
+
+world
+
+I I think there will be a important and
+
+overdue shift in the kinds of work that
+
+we value
+
+um and
+
+providing
+
+human connection to people will all of a
+
+sudden be as I think should be one of
+
+the most value types of work happen in
+
+all kinds of different ways so when you
+
+reflect on how AI has progressed to this
+
+point what lessons if any can we draw
+
+about the journey towards artificial
+
+super intelligence and how that might
+
+emerge this is the idea of having an
+
+artificial intelligence that is more
+
+capable than humans in in every and all
+
+domains
+
+yeah
+
+it's hard to give a short answer to this
+
+question but you've got time
+
+I think there's a lot of things that
+
+we've learned so far but one of them is
+
+that
+
+a we have an algorithm that can
+
+genuinely truly learn and B it gets
+
+predictably better with skill these are
+
+two remarkable facts put together and I
+
+think
+
+even though we think about that every
+
+day I suspect we don't quite feel how
+
+important that is one observation is
+
+that it's just going to keep going
+
+another observation is that we will have
+
+these discontinuous increases
+
+occasionally where we figure out
+
+something new
+
+and a third is that I think the way that
+
+I used to think about heading towards
+
+super intelligence is we were going to
+
+build this one extremely capable system
+
+and there were a bunch of challenge
+
+safety challenges with that and it was
+
+sort of a world that was
+
+gonna feel sort of quite unstable but I
+
+think we now see a path where we very
+
+much build these tools not creatures
+
+tools that get more and more powerful
+
+and there's billions of copies trillions
+
+of copies being used in the world
+
+helping individual people just be way
+
+more effective capable of doing way more
+
+the amount of output that one person can
+
+have can dramatically increase
+
+um
+
+and where the super intelligence emerges
+
+is not just the capability of our
+
+biggest single ideal neural network but
+
+all of the new science we're discovering
+
+all of the new things we're creating and
+
+the interactions between these billions
+
+and trillions of other systems the
+
+society we build up which is AI assisted
+
+humans
+
+using these tools to build up this
+
+society and the knowledge and the
+
+technology and the institutions Norms
+
+that we have and that vision of living
+
+with super intelligence seems to me way
+
+better all around in a way more exciting
+
+future for me for all of you I hope
+
+um hope you agree on this then then the
+
+kind of like one super in
+
+reflecting on my conversation with Sam
+
+I'm struck by how willing he is to
+
+engage with the profound risks that AI
+
+can pose maybe this is because there's
+
+still so much we don't know about AI
+
+because the field is moving so quickly
+
+that it's hard even for someone in Sam's
+
+position to figure out what comes next
+
+even so One Thing Remains true
+
+I really believe it isn't just down to
+
+the tech bosses to figure out how all
+
+this will help us rather this is a
+
+process and it's one we should all have
+
+a saying I'm asimazar and you've been
+
+watching exponentially
+
+[Music]
+

@@ -1,0 +1,2376 @@
+[Music]
+
+welcome to the entrepreneurial thought
+
+leader seminar at Stanford
+
+University this is the Stanford seminar
+
+for aspiring entrepreneurs ETL is
+
+brought to you by stvp the Stanford
+
+entrepreneurship engineering center and
+
+basis The Business Association of
+
+Stanford entrepreneurial students I'm
+
+rvie balani a lecturer in the management
+
+science and engineering department and
+
+the director of Alchemist and
+
+accelerator for Enterprise startups and
+
+today I have the pleasure of welcoming
+
+Sam Altman to ETL
+
+um Sam is the co-founder and CEO of open
+
+AI open is not a word I would use to
+
+describe the seats in this class and so
+
+I think by virtue of that that everybody
+
+already play knows open AI but for those
+
+who don't openai is the research and
+
+deployment company behind chat gbt Dolly
+
+and Sora um Sam's life is a pattern of
+
+breaking boundaries and transcending
+
+what's possible both for himself and for
+
+the world he grew up in the midwest in
+
+St Louis came to Stanford took ETL as an
+
+undergrad um for any and we we held on
+
+to Stanford or Sam for two years he
+
+studied computer science and then after
+
+his sophomore year he joined the
+
+inaugural class of Y combinator with a
+
+Social Mobile app company called looped
+
+um that then went on to go raise money
+
+from Sequoia and others he then dropped
+
+out of Stanford spent seven years on
+
+looped which got Acquired and then he
+
+rejoined Y combinator in an operational
+
+role he became the president of Y
+
+combinator from 2014 to 2019 and then in
+
+2015 he co-founded open aai as a
+
+nonprofit research lab with the mission
+
+to build general purpose artificial
+
+intelligence that benefits all Humanity
+
+open aai has set the record for the
+
+fastest growing app in history with the
+
+launch of chat gbt which grew to 100
+
+million active users just two months
+
+after launch Sam was named one of
+
+times's 100 most influential people in
+
+the world he was also named times CEO of
+
+the year in 2023 and he was also most
+
+recently added to Forbes list of the
+
+world's billionaires um Sam lives with
+
+his husband in San Francisco and splits
+
+his time between San Francisco and Napa
+
+and he's also a vegetarian and so with
+
+that please join me in welcoming Sam
+
+Altman to the stage
+
+and in full disclosure that was a longer
+
+introduction than Sam probably would
+
+have liked um brevity is the soul of wit
+
+um and so we'll try to make the
+
+questions more concise but this is this
+
+is this is also Sam's birth week it's it
+
+was his birthday on Monday and I
+
+mentioned that just because I think this
+
+is an auspicious moment both in terms of
+
+time you're 39 now and also place you're
+
+at Stanford in ETL that I would be
+
+remiss if this wasn't sort of a moment
+
+of just some reflection and I'm curious
+
+if you reflect back on when you were
+
+half a lifee younger when you were 19 in
+
+ETL um if there were three words to
+
+describe what your felt sense was like
+
+as a Stanford undergrad what would those
+
+three words be it's always hard
+
+questions
+
+um I was like ex uh you want three words
+
+only okay uh you can you can go more Sam
+
+you're you're the king of brevity uh
+
+excited optimistic and curious okay and
+
+what would be your three words
+
+now I guess the same which is terrific
+
+so there's been a constant thread even
+
+though the world has changed and you
+
+know a lot has changed in the last 19
+
+years but that's going to pale in
+
+comparison what's going to happen in the
+
+next 19 yeah and so I need to ask you
+
+for your advice if you were a Stanford
+
+undergrad today so if you had a Freaky
+
+Friday moment tomorrow you wake up and
+
+suddenly you're 19 in inside of Stanford
+
+undergrad knowing everything you know
+
+what would you do would you drop be very
+
+happy um I would feel like I was like
+
+coming of age at the luckiest time
+
+um like in several centuries probably I
+
+think the degree to which the world is
+
+is going to change and the the
+
+opportunity to impact that um starting a
+
+company doing AI research any number of
+
+things is is like quite remarkable I
+
+think this is probably the best time to
+
+start I yeah I think I would say this I
+
+think this is probably the best time to
+
+start a companies since uh the internet
+
+at least and maybe kind of like in the
+
+history of technology I think with what
+
+you can do with AI is like going to just
+
+get more remarkable every year and the
+
+greatest companies get created at times
+
+like this the most impactful new
+
+products get built at times like this so
+
+um I would feel incredibly lucky uh and
+
+I would be determined to make the most
+
+of it and I would go figure out like
+
+where I wanted to contribute and do it
+
+and do you have a bias on where would
+
+you contribute would you want to stay as
+
+a student um would and if so would you
+
+major in a certain major giving the pace
+
+of of change probably I would not stay
+
+as a student but only cuz like I didn't
+
+and I think it's like reasonable to
+
+assume people kind of are going to make
+
+the same decisions they would make again
+
+um I think staying as a student is a
+
+perfectly good thing to do I just I it
+
+would probably not be what I would have
+
+picked no this is you this is you so you
+
+have the Freaky Friday moment it's you
+
+you're reborn and as a 19-year-old and
+
+would you
+
+yeah what I think I would again like I
+
+think this is not a surprise cuz people
+
+kind of are going to do what they're
+
+going to do I think I would go work on
+
+research and and and where might you do
+
+that Sam I think I mean obviously I have
+
+a bias towards open eye but I think
+
+anywhere I could like do meaningful AI
+
+research I would be like very thrilled
+
+about but you'd be agnostic if that's
+
+Academia or Private Industry
+
+um I say this with sadness I think I
+
+would pick
+
+industry realistically um I think it's I
+
+think to you kind of need to be the
+
+place with so much compute M MH okay and
+
+um if you did join um on the research
+
+side would you join so we had kazer here
+
+last week who was a big advocate of not
+
+being a Founder but actually joining an
+
+existing companies sort of learn learn
+
+the chops for the for the students that
+
+are wrestling with should I start a
+
+company now at 19 or 20 or should I go
+
+join another entrepreneurial either
+
+research lab or Venture what advice
+
+would you give them well since he gave
+
+the case to join a company I'll give the
+
+other one um which is I think you learn
+
+a lot just starting a company and if
+
+that's something you want to do at some
+
+point there's this thing Paul Graham
+
+says but I think it's like very deeply
+
+true there's no pre-startup like there
+
+is Premed you kind of just learn how to
+
+run a startup by running a startup and
+
+if if that's what you're pretty sure you
+
+want to do you may as well jump in and
+
+do it and so let's say so if somebody
+
+wants to start a company they want to be
+
+in AI um what do you think are the
+
+biggest near-term challenges that you're
+
+seeing in AI that are the ripest for a
+
+startup and just to scope that what I
+
+mean by that are what are the holes that
+
+you think are the top priority needs for
+
+open AI that open AI will not solve in
+
+the next three years um yeah
+
+so I think this is like a very
+
+reasonable question to ask in some sense
+
+but I think it's I'm not going to answer
+
+it because I think you should
+
+never take this kind of advice about
+
+what startup to start ever from anyone
+
+um I think by the time there's something
+
+that is like the kind of thing that's
+
+obvious enough that me or somebody else
+
+will sit up here and say it it's
+
+probably like not that great of a
+
+startup idea and I totally understand
+
+the impulse and I remember when I was
+
+just like asking people like what
+
+startup should I start
+
+um but I I think like one of the most
+
+important things I believe about having
+
+an impactful career is you have to chart
+
+your own course if if the thing that
+
+you're thinking about is something that
+
+someone else is going to do anyway or
+
+more likely something that a lot of
+
+people are going to do anyway
+
+um you should be like somewhat skeptical
+
+of that and I think a really good muscle
+
+to build is coming up with the ideas
+
+that are not the obvious ones to say so
+
+I don't know what the really important
+
+idea is that I'm not thinking of right
+
+now but I'm very sure someone in this
+
+room does it knows what that answer is
+
+um and I think learning to trust
+
+yourself and come up with your own ideas
+
+and do the very like non-consensus
+
+things like when we started open AI that
+
+was an extremely non-consensus thing to
+
+do and now it's like the very obvious
+
+thing to do um now I only have the
+
+obvious ideas CU I'm just like stuck in
+
+this one frame but I'm sure you all have
+
+the other
+
+ones but are there so can I ask it
+
+another way and I don't know if this is
+
+fair or not but are what questions then
+
+are you wrestling with that no one else
+
+is talking
+
+about how to build really big computers
+
+I mean I think other people are talking
+
+about that but we're probably like
+
+looking at it through a lens that no one
+
+else is quite imagining yet um
+
+I mean we're we're definitely wrestling
+
+with how we when we make not just like
+
+grade school or middle schooler level
+
+intelligence but like PhD level
+
+intelligence and Beyond the best way to
+
+put that into a product the best way to
+
+have a positive impact with that on
+
+society and people's lives we don't know
+
+the answer to that yet so I think that's
+
+like a pretty important thing to figure
+
+out okay and can we continue on that
+
+thread then of how to build really big
+
+computers if that's really what's on
+
+your mind can you share I know there's
+
+been a lot of speculation and probably a
+
+lot of here say too about um the
+
+semiconductor Foundry Endeavor that you
+
+are reportedly embarking on um can you
+
+share what would make what what's the
+
+vision what would make this different
+
+than it's not just foundies although
+
+that that's part of it it's like if if
+
+you believe which we increasingly do at
+
+this point that AI infrastructure is
+
+going to be one of the most important
+
+inputs to the Future this commodity that
+
+everybody's going to want and that is
+
+energy data centers chips chip design
+
+new kinds of networks it's it's how we
+
+look at that entire ecosystem um and how
+
+we make a lot more of that and I don't
+
+think it'll work to just look at one
+
+piece or another but we we got to do the
+
+whole thing okay so there's multiple big
+
+problems yeah um I think like just this
+
+is the Arc of human technological
+
+history as we build bigger and more
+
+complex systems and does it gross so you
+
+know in terms of just like the compute
+
+cost uh correct me if I'm wrong but chat
+
+gbt 3 was I've heard it was $100 million
+
+to do the model um and it was 100 175
+
+billion parameters gbt 4 was cost $400
+
+million with 10x the parameters it was
+
+almost 4X the cost but 10x the
+
+parameters correct me adjust me you know
+
+it I I do know it but I won oh you can
+
+you're invited to this is Stanford Sam
+
+okay um uh but the the even if you don't
+
+want to correct the actual numbers if
+
+that's directionally correct um does the
+
+cost do you think keep growing with each
+
+subsequent yes and does it keep growing
+
+multiplicatively uh probably I mean and
+
+so the question then becomes how do we
+
+how do you capitalize
+
+that well look I I kind of think
+
+that giving people really capable tools
+
+and letting them figure out how they're
+
+going to use this to build the future is
+
+a super good thing to do and is super
+
+valuable and I am super willing to bet
+
+on the Ingenuity of you all and
+
+everybody else in the world to figure
+
+out what to do about this so there is
+
+probably some more business-minded
+
+person than me at open AI somewhere that
+
+is worried about how much we're spending
+
+um but I kind of
+
+don't okay so that doesn't cross it so
+
+you
+
+know open ey is phenomenal chat gbt is
+
+phenomenal um everything else all the
+
+other models are
+
+phenomenal it burned you've earned $520
+
+million of cash last year that doesn't
+
+concern you in terms of thinking about
+
+the economic model of how do you
+
+actually where's going to be the
+
+monetization source well first of all
+
+that's nice of you to say but Chachi PT
+
+is not phenomenal like Chachi PT is like
+
+mildly embarrassing at best um gp4 is
+
+the dumbest model any of you will ever
+
+ever have to use again by a lot um but
+
+you know it's like important to ship
+
+early and often and we believe in
+
+iterative deployment like if we go build
+
+AGI in a basement and then you know the
+
+world is like kind
+
+of blissfully walking blindfolded along
+
+um I don't think that's like I don't
+
+think that makes us like very good
+
+neighbors um so I think it's important
+
+given what we believe is going to happen
+
+to express our view about what we
+
+believe is going to happen um but more
+
+than that the way to do it is to put the
+
+product in people's hands um
+
+and let Society co-evolve with the
+
+technology let Society tell us what it
+
+collectively and people individually
+
+want from the technology how to
+
+productize this in a way that's going to
+
+be useful um where the model works
+
+really well where it doesn't work really
+
+well um give our leaders and
+
+institutions time to react um give
+
+people time to figure out how to
+
+integrate this into their lives to learn
+
+how to use the tool um sure some of you
+
+all like cheat on your homework with it
+
+but some of you all probably do like
+
+very amazing amazing wonderful things
+
+with it too um and as each generation
+
+goes on uh I think that will expand
+
+and and that means that we ship
+
+imperfect products um but we we have a
+
+very tight feedback loop and we learn
+
+and we get better um and it does kind of
+
+suck to ship a product that you're
+
+embarrassed about but it's much better
+
+than the alternative um and in this case
+
+in particular where I think we really
+
+owe it to society to deploy tively
+
+um one thing we've learned is that Ai
+
+and surprise don't go well together
+
+people don't want to be surprised people
+
+want a gradual roll out and the ability
+
+to influence these systems um that's how
+
+we're going to do it and there may
+
+be there could totally be things in the
+
+future that would change where we' think
+
+iterative deployment isn't such a good
+
+strategy um but it does feel like the
+
+current best approach that we have and I
+
+think we've gained a lot um from from
+
+doing this and you know hopefully s the
+
+larger world has gained something too
+
+whether we burn 500 million a year or 5
+
+billion or 50 billion a year I don't
+
+care I genuinely don't as long as we can
+
+I think stay on a trajectory where
+
+eventually we create way more value for
+
+society than that and as long as we can
+
+figure out a way to pay the bills like
+
+we're making AGI it's going to be
+
+expensive it's totally worth it and so
+
+and so do you have a I hear you do you
+
+have a vision in 2030 of what if I say
+
+you crushed it Sam it's 2030 you crushed
+
+it what does the world look like to
+
+you
+
+um you know maybe in some very important
+
+ways not that different uh
+
+like we will be back here there will be
+
+like a new set of students we'll be
+
+talking about how startups are really
+
+important and technology is really cool
+
+we'll have this new great tool in the
+
+world it'll
+
+feel it would feel amazing if we got to
+
+teleport forward six years today and
+
+have this thing that was
+
+like smarter than humans in many
+
+subjects and could do these complicated
+
+tasks for us and um you know like we
+
+could have these like complicated
+
+program written or This research done or
+
+this business
+
+started uh and yet like the Sun keeps
+
+Rising the like people keep having their
+
+human dramas life goes on so sort of
+
+like super different in some sense that
+
+we now have like abundant intelligence
+
+at our fingertips
+
+and then in some other sense like not
+
+different at all okay and you mentioned
+
+artificial general intellig AGI
+
+artificial general intelligence and in
+
+in a previous interview you you define
+
+that as software that could mimic the
+
+median competence of a or the competence
+
+of a median human for tasks yeah um can
+
+you give me is there time if you had to
+
+do a best guess of when you think or
+
+arrange you feel like that's going to
+
+happen I think we need a more precise
+
+definition of AGI for the timing
+
+question um because at at this point
+
+even with like the definition you just
+
+gave which is a reasonable one there's
+
+that's your I'm I'm I'm paring back what
+
+you um said in an interview well that's
+
+good cuz I'm going to criticize myself
+
+okay um it's it's it's it's too loose of
+
+a definition there's too much room for
+
+misinterpretation in there um to I think
+
+be really useful or get at what people
+
+really want like I kind of think what
+
+people want to know when they say like
+
+what's the timeline to AGI is like when
+
+is the world going to be super different
+
+when is the rate of change going to get
+
+super high when is the way the economy
+
+Works going to be really different like
+
+when does my life change
+
+and that for a bunch of reasons may be
+
+very different than we think like I can
+
+totally imagine a world where we build
+
+PhD level intelligence in any area and
+
+you know we can make researchers way
+
+more productive maybe we can even do
+
+some autonomous research and in some
+
+sense
+
+like that sounds like it should change
+
+the world a lot and I can imagine that
+
+we do that and then we can detect no
+
+change in global GDP growth for like
+
+years afterwards something like that um
+
+which is very strange to think about and
+
+it was not my original intuition of how
+
+this was all going to go so I don't know
+
+how to give a precise timeline of when
+
+we get to the Milestone people care
+
+about but when we get to systems that
+
+are way more capable than we have right
+
+now one year and every year after and
+
+that I think is the important point so
+
+I've given up on trying to give the AGI
+
+timeline but I think every year for the
+
+next many we have dramatically more
+
+capable systems every year um I want to
+
+ask about the dangers of of AGI um and
+
+gang I know there's tons of questions
+
+for Sam in a few moments I'll be turning
+
+it up so start start thinking about your
+
+questions um a big focus on Stanford
+
+right now is ethics and um can we talk
+
+about you know how you perceive the
+
+dangers of AGI and specifically do you
+
+think the biggest Danger from AGI is
+
+going to come from a cataclysmic event
+
+which you know makes all the papers or
+
+is it going to be more subtle and
+
+pernicious sort of like you know like
+
+how everybody has ADD right now from you
+
+know using Tik Tok um is it are you more
+
+concerned about the subtle dangers or
+
+the cataclysmic dangers um or neither
+
+I'm more concerned about the subtle
+
+dangers because I think we're more
+
+likely to overlook those the cataclysmic
+
+dangers uh a lot of people talk about
+
+and a lot of people think about and I
+
+don't want to minimize those I think
+
+they're really serious and a real thing
+
+um but I think we at least know to look
+
+out for that and spend a lot of effort
+
+um the example you gave of everybody
+
+getting add from Tik Tok or whatever I
+
+don't think we knew to look out for and
+
+that that's a really hard the the
+
+unknown unknowns are really hard and so
+
+I'd worry more about those although I
+
+worry about both and are they unknown
+
+unknowns are there any that you can name
+
+that you're particularly worried about
+
+well then I would kind of they'd be
+
+unknown unknown um you can
+
+I I am am worried just about so so even
+
+though I think in the short term things
+
+change less than we think as with other
+
+major Technologies in the long term I
+
+think they change more than we think and
+
+I am worried about what rate Society can
+
+adapt to something so new and how long
+
+it'll take us to figure out the new
+
+social contract versus how long we get
+
+to do it um I'm worried about that okay
+
+um I'm going to I'm going to open up so
+
+I want to ask you a question about one
+
+of the key things that we're now trying
+
+to in
+
+into the curriculum as things change so
+
+rapidly is resilience that's really good
+
+and and you
+
+know and the Cornerstone of resilience
+
+uh is is self-awareness and so and I'm
+
+wondering um if you feel that you're
+
+pretty self-aware of your driving
+
+motivations as you are embarking on this
+
+journey so first of all I think um I
+
+believe resilience can be taught uh I
+
+believe it has long been one of the most
+
+important life skills um and in the
+
+future I think in the over the next
+
+couple of decades I think resilience and
+
+adaptability will be more important
+
+theyve been in a very long time so uh I
+
+think that's really great um on the
+
+self-awareness
+
+question I think I'm self aware but I
+
+think like everybody thinks they're
+
+self-aware and whether I am or not is
+
+sort of like hard to say from the inside
+
+and can I ask you sort of the questions
+
+that we ask in our intro classes on self
+
+awareness sure it's like the Peter duer
+
+framework so what do you think your
+
+greatest strengths are
+
+Sam
+
+uh I think I'm not great at many things
+
+but I'm good at a lot of things and I
+
+think breath has become an underrated
+
+thing in the world everyone gets like
+
+hypers specialized so if you're good at
+
+a lot of things you can seek connections
+
+across them um I think you can then kind
+
+of come up with the ideas that are
+
+different than everybody else has or
+
+that sort of experts in one area have
+
+and what are your most dangerous
+
+weaknesses
+
+um most dangerous that's an interesting
+
+framework for it
+
+uh I think I have like a general bias to
+
+be too Pro technology just cuz I'm
+
+curious and I want to see where it goes
+
+and I believe that technology is on the
+
+whole a net good thing but I think that
+
+is a worldview that has overall served
+
+me and others well and thus got like a
+
+lot of positive
+
+reinforcement and is not always true and
+
+when it's not been true has been like
+
+pretty bad for a lot of people and then
+
+Harvard psychologist David mcland has
+
+this framework that all leaders are
+
+driven by one of three Primal needs a
+
+need for affiliation which is a need to
+
+be liked a need for achievement and a
+
+need for power if you had to rank list
+
+those what would be
+
+yours I think at various times in my
+
+career all of those I think there these
+
+like levels that people go through
+
+um at this point I feel driven by like
+
+wanting to do something useful and
+
+interesting okay and I definitely had
+
+like the money and the power and the
+
+status phases okay and then where were
+
+you when you most last felt most like
+
+yourself I I
+
+always and then one last question and
+
+what are you most excited about with
+
+chat gbt five that's coming out that uh
+
+people
+
+don't what are you what are you most
+
+excited about with the of chat gbt that
+
+we're all going to see
+
+uh I don't know yet um I I mean I this
+
+this sounds like a cop out answer but I
+
+think the most important thing about gp5
+
+or whatever we call that is just that
+
+it's going to be smarter and this sounds
+
+like a Dodge but I think that's like
+
+among the most remarkable facts in human
+
+history that we can just do something
+
+and we can say right now with a high
+
+degree of scientific certainty GPT 5 is
+
+going to be smarter than a lot smarter
+
+than GPT 4 GPT 6 going to be a lot
+
+smarter than gbt 5 and we are not near
+
+the top of this curve and we kind of
+
+know what know what to do and this is
+
+not like it's going to get better in one
+
+area this is not like we're going to you
+
+know it's not that it's always going to
+
+get better at this eval or this subject
+
+or this modality it's just going to be
+
+smarter in the general
+
+sense and I think the gravity of that
+
+statement is still like underrated okay
+
+that's great Sam guys Sam is really here
+
+for you he wants to answer your question
+
+so we're going to open it up hello um
+
+thank you so much for joining joining us
+
+uh I'm a junior here at Stanford I sort
+
+of wanted to talk to you about
+
+responsible deployment of AGI so as as
+
+you guys could continually inch closer
+
+to that how do you plan to deploy that
+
+responsibly AI uh at open AI uh you know
+
+to prevent uh you know stifling human
+
+Innovation and continue to Spur that so
+
+I'm actually not worried at all about
+
+stifling of human Innovation I I really
+
+deeply believe that people will just
+
+surprise us on the upside with better
+
+tools I think all of history suggest
+
+that if you give people more leverage
+
+they do more amazing things and that's
+
+kind of like we all get to benefit from
+
+that that's just kind of great I am
+
+though increasingly worried about how
+
+we're going to do this all responsibly I
+
+think as the models get more capable we
+
+have a higher and higher bar we do a lot
+
+of things like uh red teaming and
+
+external Audits and I think those are
+
+all really good but I think as the
+
+models get more capable we'll have to
+
+deploy even more iteratively have an
+
+even tighter feedback loop on looking at
+
+how they're used and where they work and
+
+where they don't work and this this
+
+world that we used to do where we can
+
+release a major model update every
+
+couple of years we probably have to find
+
+ways to like increase the granularity on
+
+that and deploy more iteratively than we
+
+have in the past and it's not super
+
+obvious to us yet how to do that but I
+
+think that'll be key to responsible
+
+deployment and also the way we kind of
+
+have all of the stakeholders negotiate
+
+what the rules of AI need to be uh
+
+that's going to get more comp Lex over
+
+time too thank you next question where
+
+here you mentioned before that there's a
+
+growing need for larger and larger
+
+computers and faster computers however
+
+many parts of the world don't have the
+
+infrastructure to build those data
+
+centers or those large computers how do
+
+you see um Global Innovation being
+
+impacted by that so two parts to that
+
+one
+
+um no matter where the computers are
+
+built I think Global and Equitable
+
+access to use the computers for training
+
+as well inference is super important um
+
+one of the things that's like very C to
+
+our mission is that we make chat GPT
+
+available for free to as many people as
+
+want to use it with the exception of
+
+certain countries where we either can't
+
+or don't for a good reason want to
+
+operate um how we think about making
+
+training compute more available to the
+
+world is is uh going to become
+
+increasingly important I I do think we
+
+get to a world where we sort of think
+
+about it as a human right to get access
+
+to a certain amount of compute and we
+
+got to figure out how to like distribute
+
+that to people all around the world um
+
+there's a second thing though which is I
+
+think countries are going to
+
+increasingly realize the importance of
+
+having their own AI infrastructure and
+
+we want to figure out a way and we're
+
+now spending a lot of time traveling
+
+around the world to build them in uh the
+
+many countries that'll want to build
+
+these and I hope we can play some small
+
+role there in helping that happen trfic
+
+thank
+
+you U my question was what role do you
+
+envision for AI in the future of like
+
+space exploration or like
+
+colonization um I think space is like
+
+not that hospitable for biological life
+
+obviously and so if we can send the
+
+robots that seems
+
+easier hey Sam so my question is for a
+
+lot of the founders in the room and I'm
+
+going to give you the question and then
+
+I'm going to explain why I think it's
+
+complicated um so my question is about
+
+how you know an idea is
+
+non-consensus and the reason I think
+
+it's complicated is cu it's easy to
+
+overthink um I think today even yourself
+
+says AI is the place to start a company
+
+I think that's pretty
+
+consensus maybe rightfully so it's an
+
+inflection point I think it's hard to
+
+know if idea is non-consensus depending
+
+on the group that you're talking about
+
+the general public has a different view
+
+of tech from The Tech Community and even
+
+Tech Elites have a different point of
+
+view from the tech community so I was
+
+wondering how you verify that your idea
+
+is non-consensus enough to
+
+pursue um I mean first of all what you
+
+really want is to be right being
+
+contrarian and wrong still is wrong and
+
+if you predicted like 17 out of the last
+
+two recessions you probably were
+
+contrarian for the two you got right
+
+probably not even necessarily um but you
+
+were wrong 15 other times and and
+
+and so I think it's easy to get too
+
+excited about being contrarian and and
+
+again like the most important thing to
+
+be right and the group is usually right
+
+but where the most value is um is when
+
+you are contrarian and
+
+right
+
+and and that doesn't always happen in
+
+like sort of a zero one kind of way like
+
+everybody in the room can agree that AI
+
+is the right place to start the company
+
+and if one person in the room figures
+
+out the right company to start and then
+
+successfully executes on that and
+
+everybody else thinks ah that wasn't the
+
+best thing you could do that's what
+
+matters so it's okay to kind of like go
+
+with conventional wisdom when it's right
+
+and then find the area where you have
+
+some unique Insight in terms of how to
+
+do that um I do think surrounding
+
+yourself with the right peer group is
+
+really important and finding original
+
+thinkers uh is important but there is
+
+part of this where you kind of have to
+
+do it Solo or at least part of it Solo
+
+or with a few other people who are like
+
+you know going to be your co-founders or
+
+whatever
+
+um and I think by the time you're too
+
+far in the like how can I find the right
+
+peer group you're somehow in the wrong
+
+framework already um so like learning to
+
+trust yourself and your own intuition
+
+and your own thought process which gets
+
+much easier over time no one no matter
+
+what they said they say I think is like
+
+truly great at this this when they're
+
+just starting out you because like you
+
+kind of just haven't built the muscle
+
+and like all of your Social pressure and
+
+all of like the evolutionary pressure
+
+that produced you was against that so
+
+it's it's something that like you get
+
+better at over time and and and don't
+
+hold yourself to too high of a standard
+
+too early on
+
+it Hi Sam um I'm curious to know what
+
+your predictions are for how energy
+
+demand will change in the coming decades
+
+and how we achieve a future where
+
+renewable energy sources are 1 set per
+
+kilowatt
+
+hour
+
+um I mean it will go up for sure well
+
+not for sure you can come up with all
+
+these weird ways in which
+
+like we all depressing future is where
+
+it doesn't go up I would like it to go
+
+up a lot I hope that we hold ourselves
+
+to a high enough standard where it does
+
+go up I I I forget exactly what the kind
+
+of world's electrical gener generating
+
+capacity is right now but let's say it's
+
+like 3,000 4,000 gwatt something like
+
+that even if we add another 100 gwatt
+
+for AI it doesn't materially change it
+
+that much but it changes it some and if
+
+we start at a th gwatt for AI someday it
+
+does that's a material change but there
+
+are a lot of other things that we want
+
+to do and energy does seem to correlate
+
+quite a lot with quality of life we can
+
+deliver for people
+
+um my guess is that Fusion eventually
+
+dominates electrical generation on Earth
+
+um I think it should be the cheapest
+
+most abundant most reliable densest
+
+source
+
+I could could be wrong with that and it
+
+could be solar Plus Storage um and you
+
+know my guess most likely is it's going
+
+to be 820 one way or the other and
+
+there'll be some cases where one of
+
+those is better than the other but uh
+
+those kind of seem like the the two bets
+
+for like really global scale one cent
+
+per kilowatt hour
+
+energy Hi Sam I have a question it's
+
+about op guide drop what happened last
+
+year so what's the less you learn cuz
+
+you talk about resilience so what's the
+
+lesson you learn from left that company
+
+and now coming back and what what made
+
+you com in back because Microsoft also
+
+gave you offer like can you share more
+
+um I mean the best lesson I learned was
+
+that uh we had an incredible team that
+
+totally could have run the company
+
+without me and did did for a couple of
+
+days
+
+um and you never and also that the team
+
+was super resilient like we knew that a
+
+CRA some crazy things and probably more
+
+crazy things will happen to us between
+
+here and AGI um as different parts of
+
+the world have stronger and stronger
+
+emotional reactions and the stakes keep
+
+ratcheting up and you know I thought
+
+that the team would do well under a lot
+
+of pressure but you never really know
+
+until you get to run the experiment and
+
+we got to run the experiment and I
+
+learned that the team was super
+
+resilient and like ready to kind of run
+
+the company um in terms of why I came
+
+back you know I originally when the so
+
+it was like the next morning the board
+
+called me and like what do you think
+
+about coming back and I was like no um
+
+I'm mad um
+
+and and then I thought about it and I
+
+realized just like how much I loved open
+
+AI um how much I loved the people the C
+
+the culture we had built uh the mission
+
+and I kind of like wanted to finish it
+
+Al
+
+together you you you emotionally I just
+
+want to this is obviously a really
+
+sensitive and one of one of oh it's it's
+
+not but was I imagine that was okay well
+
+then can we talk about the structure
+
+about it because this Russian doll
+
+structure of the open AI where you have
+
+the nonprofit owning the for-profit um
+
+you know when we're we're trying to
+
+teach principal ger entrepreneur we got
+
+here we got to the structure gradually
+
+um it's not what I would go back and
+
+pick if we could do it all over again
+
+but we didn't think we were going to
+
+have a product when we started we were
+
+just going to be like a AI research lab
+
+wasn't even clear we had no idea about a
+
+language model or an API or chat GPT so
+
+if if you're going to start a company
+
+you got to have like some theory that
+
+you're going to sell a product someday
+
+and we didn't think we were going to we
+
+didn't realize we're were going to need
+
+so much money for compute we didn't
+
+realize we were going to like have this
+
+nice business um so what was your
+
+intention when you started it we just
+
+wanted to like push AI research forward
+
+we thought that and I know this gets
+
+back to motivations but that's the pure
+
+motivation there's no motivation around
+
+making money or or power I cannot
+
+overstate how foreign of a concept like
+
+I mean for you personally not for open
+
+AI but you you weren't starting well I
+
+had already made a lot of money so it
+
+was not like a big I mean I I like I
+
+don't want to like claim some like moral
+
+Purity here it was just like that was
+
+the of my life a dver driver okay
+
+because there's this so and the reason
+
+why I'm asking is just you know when
+
+we're teaching about principle driven
+
+entrepreneurship here you can you can
+
+understand principles inferred from
+
+organizational structures when the
+
+United States was set up the
+
+architecture of governance is the
+
+Constitution it's got three branches of
+
+government all these checks and balances
+
+and you can infer certain principles
+
+that you know there's a skepticism on
+
+centralizing power that you know things
+
+will move slowly it's hard to get things
+
+to change but it'll be very very
+
+stable if you you know not to parot
+
+Billy eish but if you look at the open
+
+AI structure and you think what was that
+
+made for um it's a you have a like your
+
+near hundred billion dollar valuation
+
+and you've got a very very limited board
+
+that's a nonprofit board which is
+
+supposed to look after it's it's its
+
+fiduciary duties to the again it's not
+
+what we would have done if we knew then
+
+what we know now but you don't get to
+
+like play Life In Reverse and you have
+
+to just like adapt there's a mission we
+
+really cared about we thought we thought
+
+AI was going to be really important we
+
+thought we had an algorithm that learned
+
+we knew it got better with scale we
+
+didn't know how predictably it got
+
+better with scale and we wanted to push
+
+on this we thought this was like going
+
+to be a very important thing in human
+
+history and we didn't get everything
+
+right but we were right on the big stuff
+
+and our mission hasn't changed and we've
+
+adapted the structure as we go and will
+
+adapt it more in the future um but you
+
+know like you
+
+don't like life is not a problem set um
+
+you don't get to like solve everything
+
+really nicely all at once it doesn't
+
+work quite like it works in the
+
+classroom as you're doing it and my
+
+advice is just like trust yourself to
+
+adapt as you go it'll be a little bit
+
+messy but you can do it and I just asked
+
+this because of the significance of open
+
+AI um you have a you have a board which
+
+is all supposed to be independent
+
+financially so that they're making these
+
+decisions as a nonprofit thinking about
+
+the stakeholder their stakeholder that
+
+they are fiduciary of isn't the
+
+shareholders it's Humanity um
+
+everybody's independent there's no
+
+Financial incentive that anybody has
+
+that's on the board including yourself
+
+with hope and AI um well Greg was I okay
+
+first of all I think making money is a
+
+good thing I think capitalism is a good
+
+thing um my co-founders on the board
+
+have had uh financial interest and I've
+
+never once seen them not take the
+
+gravity of the mission seriously um but
+
+you know we've put a structure in place
+
+that we think is a way to get um
+
+incentives aligned and I do believe
+
+incentives are superpowers but I'm sure
+
+we'll evolve it more over time and I
+
+think that's good not bad and with open
+
+AI the new fund you're not you don't get
+
+any carry in that and you're not
+
+following on investments onto those okay
+
+okay okay thank you we can keep talking
+
+about this I I I know you want to go
+
+back to students I do too so we'll go
+
+we'll keep we'll keep going to the
+
+students how do you expect that AGI will
+
+change geopolitics and the balance of
+
+power in the world um like maybe more
+
+than any
+
+other technology um I don't I I think
+
+about that so much and I have such a
+
+hard time saying what it's actually
+
+going to do um I or or maybe more
+
+accurately I have such a hard time
+
+saying what it won't do and we were
+
+talking earlier about how it's like not
+
+going to CH maybe it won't change
+
+day-to-day life that much but the
+
+balance of power in the world it feels
+
+like it does change a lot but I don't
+
+have a deep answer of exactly how
+
+thanks so much um I was wondering sorry
+
+I was wondering in the deployment of
+
+like general intelligence and also
+
+responsible AI how much do you think is
+
+it necessary that AI systems are somehow
+
+capable of recognizing their own
+
+insecurities or like uncertainties and
+
+actually communicating them to the
+
+outside world I I always get nervous
+
+anthropomorphizing AI too much because I
+
+think it like can lead to a bunch of
+
+weird oversights but if we say like how
+
+much can AI recognize its own
+
+flaws uh I think that's very important
+
+to build and right now and the ability
+
+to like recognize an error in reasoning
+
+um and have some sort of like
+
+introspection ability like that that
+
+that seems to me like really important
+
+to
+
+pursue hey s thank you for giving us
+
+some of your time today and coming to
+
+speak from the outside looking in we we
+
+all hear about the culture and together
+
+togetherness of open AI in addition to
+
+the intensity and speed of what you guys
+
+work out clearly seen from CH gbt and
+
+all your breakthroughs and also in when
+
+you were temporarily removed from the
+
+company by the board and how all the all
+
+of your employees tweeted open air is
+
+nothing without its people what would
+
+you say is the reason behind this is it
+
+the binding mission to achieve AGI or
+
+something even deeper what is pushing
+
+the culture every
+
+day I think it is the shared Mission um
+
+I mean I think people like like each
+
+other and we feel like we've you know
+
+we're in the trenches together doing
+
+this really hard thing um
+
+but I think it really is like deep sense
+
+of purpose and loyalty to the mission
+
+and when you can create that I think it
+
+is like the strongest force for Success
+
+at any start at least that I've seen
+
+among startups um and you know we try to
+
+like select for that and people we hire
+
+but even people who come in not really
+
+believing that AGI is going to be such a
+
+big deal and that getting it right is so
+
+important tend to believe it after the
+
+first three months or whatever and so
+
+that's like that's a very powerful
+
+cultural force that we have
+
+thanks um currently there are a lot of
+
+concerns about the misuse of AI in the
+
+immediate term with issues like Global
+
+conflicts and the election coming up
+
+what do you think can be done by the
+
+industry governments and honestly People
+
+Like Us in the immediate term especially
+
+with very strong open- Source
+
+models one thing that I think is
+
+important is not to pretend like this
+
+technology or any other technology is
+
+all good um I believe that AI will be
+
+very net good tremendously net good um
+
+but I think like with any other tool
+
+um it'll be misused like you can do
+
+great things with a hammer and you can
+
+like kill people with a hammer um I
+
+don't think that absolves us or you all
+
+or Society from um trying to mitigate
+
+the bad as much as we can and maximize
+
+the good
+
+but I do think it's important to realize
+
+that with any sufficiently powerful Tool
+
+uh you do put Power in the hands of tool
+
+users or you make some decisions that
+
+constrain what people in society can do
+
+I think we have a voice in that I think
+
+you all have a voice on that I think the
+
+governments and our elected
+
+representatives in Democratic process
+
+processes have the loudest voice in
+
+that but we're not going to get this
+
+perfectly right like we Society are not
+
+going to get this perfectly right
+
+and a tight feedback loop I think is the
+
+best way to get it closest to right um
+
+and the way that that balance gets
+
+negotiated of safety versus freedom and
+
+autonomy um I think it's like worth
+
+studying that with previous Technologies
+
+and we'll do the best we can here we
+
+Society will do the best we can
+
+here um gang actually I've got to cut it
+
+sorry I know um I'm wanty to be very
+
+sensitive to time I know the the
+
+interest far exceeds the time and the
+
+love for Sam um Sam I know it is your
+
+birthday I don't know if you can indulge
+
+us because I know there's a lot of love
+
+for you so I wonder if we can all just
+
+sing Happy Birthday no no no please no
+
+we want to make you very uncomfortable
+
+one more question I'd much rather do one
+
+more
+
+question this is less interesting to you
+
+thank you we can you can do one more
+
+question
+
+quickly day dear
+
+Sam happy birthday to you
+
+20 seconds of awkwardness is there a
+
+burner question somebody who's got a
+
+real burner and we only have 30 seconds
+
+so make it
+
+short um hi I wanted to ask if the
+
+prospect of making something smarter
+
+than any human could possibly be scares
+
+you it of course does and I think it
+
+would be like really weird and uh a bad
+
+sign if it didn't scare me um humans
+
+have gotten dramatically smarter and
+
+more capable over time you are
+
+dramatically more capable than your
+
+great great grandparents and there's
+
+almost no biological drift over that
+
+period like sure you eat a little bit
+
+better and you got better healthare um
+
+maybe you eat worse I don't know um but
+
+that's not the main reason you're more
+
+capable um you are more capable because
+
+the infrastructure of
+
+society is way smarter and way more
+
+capable than any human and and through
+
+that it made you Society people that
+
+came before you um made you uh the
+
+internet the iPhone a huge amount of
+
+knowledge available at your fingertips
+
+and you can do things that your
+
+predecessors would find absolutely
+
+breathtaking
+
+um Society is far smarter than you now
+
+um Society is an AGI as far as you can
+
+tell and the
+
+the way that that happened was not any
+
+individual's brain but the space between
+
+all of us that scaffolding that we build
+
+up um and contribute to Brick by Brick
+
+step by step uh and then we use to go to
+
+far greater Heights for the people that
+
+come after us um things that are smarter
+
+than us will contribute to that same
+
+scaffolding um you will
+
+have your children will have tools
+
+available that you didn't um and that
+
+scaffolding will have gotten built up to
+
+Greater Heights
+
+and that's always a little bit scary um
+
+but I think it's like more way more good
+
+than bad and people will do better
+
+things and solve more problems and the
+
+people of the future will be able to use
+
+these new tools and the new scaffolding
+
+that these new tools contribute to um if
+
+you think about a world that has um AI
+
+making a bunch of scientific discovery
+
+what happens to that scientific progress
+
+is it just gets added to the scaffolding
+
+and then your kids can do new things
+
+with it or you in 10 years can do new
+
+things with it um but the way it's going
+
+to feel to people uh I think is not that
+
+there is this like much smarter entity
+
+uh because we're much smarter in some
+
+sense than the great great great
+
+grandparents are more capable at least
+
+um but that any individual person can
+
+just do
+
+more on that we're going to end it so
+
+let's give Sam a round of applause
+
+[Music]
+

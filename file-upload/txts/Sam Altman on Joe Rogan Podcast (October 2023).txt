@@ -1,0 +1,3916 @@
+ All right, Sam what's happening not much coming in here appreciate it. Thanks for having me. So what have you done?
+
+ Like ever no, I mean, what have you done with AI? I mean, it's
+
+ one of the things
+
+ About this is I mean, I think everyone is fascinated by it. I mean everyone is
+
+ absolutely blown away at the current capability and
+
+ Wondering what the potential for the future is and whether or not that's a good thing
+
+ I
+
+ Think it's gonna be a great thing, but I think it's not gonna be all a great thing and that that is where I
+
+ Think
+
+ That's where all of the complexity comes in for people
+
+ It's not this like clean story of we're gonna do this and it's all gonna be great. It's we're gonna do this
+
+ It's gonna be net great, but it's gonna be
+
+ like a technological revolution, it's gonna be societal revolution and
+
+ Those always come with change and even if it's like net wonderful, you know, there's things we're gonna lose along the way
+
+ some kinds of jobs some kind of parts of our way of life some parts of the way we live are gonna change or
+
+ go away and
+
+ Eat no matter how tremendous the upside is there and I believe it will be tremendously good
+
+ You know, there's a lot of stuff we got to navigate through to make sure
+
+ That's
+
+ That's a complicated thing for anyone to wrap their heads around and there's you know, deep and super understandable emotions around that
+
+ That's a very honest answer that it's not all gonna be good
+
+ but
+
+ It seems inevitable at this point. It's yeah
+
+ I mean, it's definitely inevitable my my view of the world, you know
+
+ when you're like a kid in school you learn about this technological revolution and then that one and then that one and
+
+ my view of the world now sort of looking backwards and forwards is that
+
+ This is like one long technological revolution
+
+ and we had sure like first we had to figure out agriculture so that we had the
+
+ Resources and time to figure out how to build machines
+
+ Then we got this industrial revolution and that made us learn about a lot of stuff a lot of other scientific discovery, too
+
+ Let us do the computer revolution and that's now letting us as we scale up to these massive systems do the AI revolution
+
+ but it really is just one long story of
+
+ humans discovering science and technology and co-evolving with it and
+
+ I think it's the most exciting story of all time. I think it's how we get to this world of abundance and
+
+ although
+
+ You know, although we do have these things to navigate and there will be these downsides if you think about what it means for the
+
+ World and for people's quality of lives if we can get to a world
+
+ where the the cost of intelligence and the abundance that comes with that
+
+ The cost dramatically falls the abundance goes ways up goes way up
+
+ I think we'll do the same thing with the energy and I think those are the two sort of key inputs to everything else
+
+ We want so if we can have abundant and cheap energy and intelligence
+
+ That will transform people's lives largely for the better
+
+ And I think it's gonna in the same way that if we could go back now 500 years and look at someone's life
+
+ We'd say well, there's some great things, but they didn't have this they didn't have that. Can you believe they didn't have modern medicine?
+
+ That's what people are gonna look back at us like but in 50 years
+
+ When you think about the people that currently rely on jobs that AI will replace
+
+ When you think about whether it's truck drivers or automation workers people that work in factory assembly lines
+
+ What if anything what strategies can be put to mitigate the negative?
+
+ downsides of those jobs being eliminated by AI
+
+ so
+
+ I'll talk about some general thoughts, but I find making very specific
+
+ Predictions difficult because the way the technology goes has been so different than even my own
+
+ Intuitions or certainly in my own intuitions could we maybe we should stop there and back up a little what we what were your initial?
+
+ Thoughts if you had asked me ten years ago, I would have said first AI is gonna come for
+
+ Blue collar labor. Basically, it's gonna drive trucks and do factory work and you know, it'll handle heavy machinery
+
+ Then maybe after that it'll do like
+
+ Some kinds of cognitive labor kind of you know, but not it won't be off doing what I think of personally is the really hard stuff
+
+ It won't be off proving new mathematical theorems won't be off, you know discovering new science
+
+ Won't be off writing code and then eventually
+
+ Maybe but maybe last of all maybe never because human creativity is this magic special special thing last of all it'll come for the creative
+
+ jobs
+
+ That's what I would have said
+
+ now a
+
+ It looks to me like and for a while AI is much better doing tasks than doing jobs
+
+ It can do these little pieces super well, but sometimes it goes off the rails. I can't keep like very long coherence
+
+ So people are instead just able to do their existing jobs way more productively
+
+ But you really still need the human there today and then be it's going exactly the other direction
+
+ Could do the creative work first stuff like coding second
+
+ They can do things like other kinds of cognitive labor third and we're the furthest away from like humanoid robots
+
+ hmm
+
+ So back to the initial question
+
+ if we do have
+
+ Something that completely eliminates factory workers completely eliminates
+
+ truck drivers delivery drivers things along those lines that
+
+ Creates this massive vacuum in our society. So I
+
+ think there's things that
+
+ we're gonna do that are
+
+ Good to do but not sufficient. So I think at some point we will do something like a UBI or some other kind of like
+
+ very long-term unemployment insurance something but we'll have some way of
+
+ Giving people like redistributing money in society as a cushion for people as people figure out the new jobs
+
+ but
+
+ And I maybe I should touch on that. I I'm not a believer at all that there won't be lots of new jobs
+
+ I think human
+
+ Creativity desire for status wanting different ways to compete invent new things feel part of a community feel valued
+
+ That's not gonna go anywhere. People have worried about that forever. What happens is we get better tools and
+
+ We just invent new things and more amazing things to do and there's a big universe out there
+
+ And and I think I mean that like literally in that there's like space is really big
+
+ But also there's just so much stuff we can all do if we do get to this world of
+
+ abundant intelligence where you can sort of just think of a new idea and it gets created but
+
+ But again that doesn't
+
+ To the point we started with that that that doesn't provide like great solace to people who are losing their jobs today
+
+ So saying there's gonna be this great indefinite stuff in the future people are like, what are we doing today? So, you know
+
+ Well, I think we will as a society do things like UBI and other ways of redistribution
+
+ But I don't think that gets at the core of what people want
+
+ I think what people want is like agency self-determination the ability to
+
+ Play a role in architecting the future along with the rest of society the ability to express themselves and
+
+ create something meaningful to them and
+
+ Also, I think a lot of people work jobs
+
+ They hate and I think there's we as a society are always a little bit confused about whether we want to work more work less
+
+ but but somehow
+
+ That
+
+ We all get to do something meaningful and we all get to
+
+ Play our role in driving the future forward. That's really important
+
+ and what I hope is as those truck driving long haul truck driving jobs go away, which
+
+ You know people have been wrong about predicting how fast that's gonna happen, but it's gonna happen
+
+ we figure out not just a way to
+
+ Solve the economic problem by like
+
+ Giving people the equivalent of money every month, but that there's a way that
+
+ And we've had a lot of ideas about this. There's a way that we like share
+
+ ownership and decision making over the future I
+
+ think I say a lot about AGI is that
+
+ Everyone everyone realizes we're gonna have to share the benefits of that
+
+ But we also have to share like the decision-making over the future
+
+ We also have to share like the decision-making over it and access to the system itself
+
+ like I'd be more excited about a world where we say rather than give everybody on earth like 1/8 billionth of the
+
+ AGI money which we should do that to we say you get like 1/8 billionth of a 1/8 billionth slice of the system
+
+ You can sell it somebody else you can sell to a company. You can pool it with other people
+
+ You can use it for whatever creative pursuit you want. You can use it to figure out how to start some new business
+
+ And with that you get sort of like a
+
+ Voting right over how this is all going to be used
+
+ And so the better the AGI gets the more your little 1/8 billionth ownership is worth to you
+
+ We were joking around the other day on the podcast where I was saying that what we need is an AI
+
+ Government that we should we should I president and have AI just make all the decisions
+
+ Yeah, I have something that's completely unbiased
+
+ Absolutely rational has the accumulated knowledge of the entire human history. Yeah at its disposal including all
+
+ knowledge of psychology and psychological study including UBI because that comes with a host of you know pitfalls and
+
+ Issues that people have with it. So I'll say something there
+
+ Um, I think we're still very far away from a system that is capable enough and reliable enough that you
+
+ That any of us would want that but I'll tell you something I love about that
+
+ Someday, let's say that thing gets built the fact that it can go around and talk to every person on earth
+
+ Understand their exact preferences at a very deep level
+
+ you know how they think about this issue and that one and how they balance the trade-offs and what they want and then understand all
+
+ of that and and like
+
+ collectively optimized
+
+ Optimized for the collective preferences of humanity or of citizens of the US. That's awesome
+
+ As long as it's not
+
+ Co-opted right our government currently is co-opted. That's for sure
+
+ We know for sure that our government is heavily influenced by special interests
+
+ if we could have an artificial intelligence
+
+ Government that has no influence. Nothing has influence on it. What a fascinating idea. It's possible
+
+ And I think it might be the only way
+
+ Where you're gonna get completely objective
+
+ the absolute most intelligent decision for
+
+ Virtually every problem every dilemma that we face currently in society
+
+ Would you truly be comfortable handing over like final decision-making and say alright AI you got it?
+
+ No, no, but I'm not comfortable doing that with anybody right, you know, I mean, I don't write I was uncomfortable with the Patriot Act
+
+ I'm uncomfortable with you know, many decisions of people that are being made
+
+ It's just there's so much
+
+ obvious evidence that
+
+ Decisions that are being made or not being made in the best interest of the overall
+
+ Well of the people it's being made in the decisions of whatever
+
+ Gigantic corporations that have donated to and what whatever the military industrial complex and
+
+ Pharmaceutical industrial complex and and it's just the money
+
+ It's that's really what we know today that money has a massive influence on on our society and the choices that get made and
+
+ The overall good or bad for the population. Yeah, I have no disagreement at all that
+
+ The current system is super broken not working for people super corrupt corrupt and for sure like
+
+ Unbelievably run by money. Yeah, and and I think there is a way to do a
+
+ Better job than that with AI just in some way
+
+ But and this might just be like a factor of sitting with the systems all day and watching all of the ways they fail
+
+ We got a long way to go a long way to go. I'm sure but when you think of a GI
+
+ When you think of the possible future like where it goes to do you ever?
+
+ extrapolate do you ever like sit and pause and say well if this thing if this becomes sentient and it has the ability to
+
+ Make better versions of yourself. How long before we're literally dealing with a god
+
+ so
+
+ the way that I think about this is it used to be that like a GI was this
+
+ very binary moment it was before and after and I think I was totally wrong about that and
+
+ The right way to think about it. Is this
+
+ Continual continuum of intelligence this smooth exponential curve back all the way to that sort of smooth curve curve of technological revolution
+
+ the the amount of
+
+ Compute power we can put into the system the scientific ideas about how to make it more efficient and smarter to give it
+
+ The ability to do reasoning to think about how to improve itself
+
+ That will all come but my model for a long time
+
+ I think if you look at the world of AGI thinkers, there's there's sort of two
+
+ Particularly around the safety issues you're talking about. There's two axes that matter
+
+ There's the short what called short timelines or long timelines, you know to the first
+
+ Milestone of AGI whatever that's gonna be is that gonna happen in a few years a few decades maybe even longer
+
+ Although at this point I think most people are a few years a few decades and then there's takeoff speed
+
+ Once we get there from there to that point you're talking about where it's capable of the rapid self-improvement
+
+ Is that a slower a faster process?
+
+ the the world that I think we're heading that we're in and also the world that I think is the most controllable and the safest is
+
+ the
+
+ short timelines and slow takeoff quadrant and
+
+ I
+
+ Think we're gonna have you know
+
+ there were a lot of very smart people for a while were like the thing you were just talking about happens in a day or
+
+ Three days and I don't that doesn't seem likely to me given the shape of the technology as we understand it
+
+ now now even if that happens in a
+
+ decade or three decades, it's still like the blink of an eye from a historical perspective and
+
+ There are gonna be some real challenges to getting that right and the decisions we make
+
+ The the sort of safety systems and the and the checks that the world puts in place how we think about
+
+ Global regulation or
+
+ Rules of the road from a safety perspective for those projects. It's super important because you can imagine many things going horribly wrong
+
+ but I've been I
+
+ feel cheerful about the progress the world is making towards taking this seriously and
+
+ You know, it reminds me of what I've read about the conversations that the world had right around the development of nuclear weapons. Hmm
+
+ It seems to me that this is at least in terms of public consciousness. This is emerged very rapidly
+
+ Where I don't think anyone was really aware people that were aware of the concept of artificial intelligence
+
+ But they didn't think that it was going to be implemented
+
+ so
+
+ Comprehensively so quickly. Yeah, so
+
+ Chat GPT is on what four point five now for four and with four point five
+
+ There'll be some sort of an exponential increase in its abilities. It'll be somewhat better
+
+ each step, you know from each like half step like that you
+
+ You kind of humans have this ability to like get used to any new technology
+
+ So quickly the thing that I think was unusual about the launch of chat GPT three point five and then four was that?
+
+ People hadn't really been paying attention and that's part of the reason we deploy
+
+ We think it's very important that people and institutions have time to gradually understand this react
+
+ Co-design the society that we want with it
+
+ And if you just build a GI in secret in a lab and then drop it on the world all at once
+
+ I think that's a really bad idea. So
+
+ We we had been trying to talk to the world about this for a while
+
+ People if you don't give people something they can feel and use in their lives. They don't quite take it seriously
+
+ Everybody's busy. And so there was this big overhang from where the technology was to where public consciousness was
+
+ Now that's caught up. We've deployed. I think people understand it
+
+ I don't expect the few to jump from like four to whenever we finish 4.5, which be a while
+
+ I don't expect that to be
+
+ The crazy I think the crazy switch the crazy adjustment that people have had to go through has mostly happened
+
+ I think most people have gone from thinking that AGI was
+
+ science fiction and very far off to something that is gonna happen and now is like a one-time reframe and
+
+ Now, you know every year you get a new iPhone
+
+ Over the 15 years or whatever since the launch they've gotten dramatically better, but iPhone to iPhone you're like, yeah, okay
+
+ It's a little better. Hmm, but now if you go hold up the first iPhone to the 15 or whatever, that's a big difference
+
+ GPT 3.5 to AGI. That'll be a big difference
+
+ But along the way it'll just get incrementally better. Do you think about the convergence of things like?
+
+ Neuralink and there's a few competing technologies where they're trying to implement some sort of
+
+ some sort of a connection between the human biological system and
+
+ technology
+
+ Um, do you want one of those things in your head?
+
+ I don't until everybody does right and you know
+
+ I have a joke about it
+
+ But it's like the idea is like once it gets you have to kind of because everybody's gonna have it
+
+ So one of the hard
+
+ questions about
+
+ The Mer all of the related merge stuff is exactly what you just said like as a society are we gonna let
+
+ some people merge with AGI right now others and
+
+ If we do then and you choose not to like what does that mean for you right and will you be protected
+
+ How you get that moment, right, you know if we'd like imagine like all the way out to the sci-fi
+
+ Future I've been a lot of sci-fi books written about how you get that moment, right?
+
+ You know, yeah, let's do that first. What about people who don't want to how do you make sure that people that do it first?
+
+ Like actually help lift everybody up together. Yeah, how do you make sure people who want to just like live their very human life?
+
+ Get to do that. That stuff is really hard and honestly
+
+ So far off from my problems of the day that I don't get to think about that as much as I'd like to because I do
+
+ Think it's super interesting. Um, I
+
+ But yeah, it seems like if we just think
+
+ logically, that's gonna be a huge challenge at some point and
+
+ People are gonna want
+
+ Wildly divergent things but
+
+ there is a societal question about how we're gonna like
+
+ The questions of fairness that come there and what it means for the people who don't do it
+
+ Super super complicated. Anyway on the neural interface side. I'm in the short term like before we figure out how to
+
+ Upload someone's conscience into a computer if that's even possible at all, which I think there's
+
+ plenty of
+
+ sides you could take on why it's not the
+
+ The thing that I find myself most interested in is
+
+ What we can do without
+
+ drilling a hole in someone's head
+
+ how much of the inner monologue can we read out with an externally mounted device and if we have a
+
+ imperfect low bandwidth low accuracy
+
+ Neural interface can people still just learn how to use it really well in a way
+
+ That's like quite powerful for what they can now do with a new computing platform. And my guess is we'll figure that out
+
+ I'm sure you've seen that headpiece. There's a demonstration where there's someone asking someone a question
+
+ They have this headpiece on they think the question and then they literally Google the question get the answers through their head
+
+ That's the kind of thing. We've been it that's the kind of direction we've been exploring. Yeah
+
+ That seems to me to be step one. That's the pong of the eventual immersive 3d video games
+
+ Like you're you're going to get these first steps and they're gonna seem sort of crude and slow
+
+ I mean, it's essentially slower than just asking Siri. I think if someone
+
+ Built a system where you could think
+
+ Words doesn't have to be a question
+
+ it could just be your passive rambling in our monologue, but certainly could be a question and
+
+ That was being fed into GPT 5 or 6 and in your field of vision
+
+ The words in response were being displayed. That would be the palm. Yeah, that's still soup
+
+ That's a very valuable tool to have and that seems like that's inevitable
+
+ There's hard work to get there on the neural interface side, but I believe it will happen
+
+ Yeah, I think so, too
+
+ And my concern is that the initial adopters of this will have such a massive advantage over the general population
+
+ well, that doesn't concern me because that's like a
+
+ You know, that's not you're not that's just like better
+
+ That's a better computer. You're not like jacking your brain into something in a high-risk thing
+
+ You know what you do when you don't want them when you take off the glasses. Mm-hmm. So that feels fine
+
+ Well, this is just the external device then
+
+ Oh, I think we can do the kind of like read your thoughts with an external device at some point. Mmm read your internal monologue
+
+ Interesting and do you think we'll be able to communicate with an external device as well?
+
+ telepathically or
+
+ Semi telepathically through technology. I do. Yeah. Yeah, I do. I
+
+ think so, too
+
+ my real concern is that
+
+ once we take the step to
+
+ Use an actual neural interface when there's an actual operation and they're yeah
+
+ Using some sort of an implant and then that implant becomes more sophisticated. It's not the iPhone one now
+
+ It's the iPhone 15 and as these things get better and better
+
+ We're on the road to cyborgs
+
+ We're on the road to like why would you want to be a biological person?
+
+ Do you really want to live in a fucking log cabin when you can be in the matrix?
+
+ I mean, it seems like we're not
+
+ We're on this path
+
+ We're already a little bit down that path, right?
+
+ Like if you take away someone's phone and they have to go function in the world today. Mm-hmm
+
+ They're at a disadvantage. Yeah everybody else. So that's that's like a
+
+ Maybe that's like the lightest weight version of a merge we could imagine
+
+ But I think it's worth like if we go back to the earlier thing about the one exponential curve
+
+ I think it's worth saying we've like lifted off the x-axis already down this path the tiniest bit and
+
+ Yeah, even if you don't go all the way to like a neural interface
+
+ VR will get so good that some people just don't want to take it off that much right and
+
+ That's fine for them as long as we can solve this question of
+
+ How do we like think about what a balance of power means in a world? I think there will be many people
+
+ I'm certainly one of them who's like actually the human body and the human experience is pretty great that log heaven in the woods
+
+ Pretty awesome. I don't be there all the time
+
+ I'd love to go play the great video game, but like I'm really happy to get to go there right times
+
+ Yeah, there's still
+
+ human experiences that are just
+
+ Like great human experience just laughing with friends, you know
+
+ Kissing someone that you've never kissed before that you're on a first date that guy knows those kind of things
+
+ They're real
+
+ Moments, it just laughs. Yeah having a glass of wine with a friend just laughing not quite the same in VR
+
+ Yeah, now when the VR goes super far so you can't you know
+
+ it's like you are jacked in on your brain and you can't tell right what's real and what's not and
+
+ Then everybody gets like super deep on the simulation hypothesis or the like Eastern religion or whatever and I don't know
+
+ What happens at that point?
+
+ Do you ever fuck around with simulation theory because the real problem is when you combine that with probability theory and you talk to the people
+
+ That say well if you just look at the numbers
+
+ The the probability that we're already in a simulation is much higher than the probability that we're not
+
+ It's never been clear to me what to do about it, it's like okay right that into that
+
+ Actually makes a lot of sense. Yeah, I think probably sure right that seems convincing but but now this is my reality
+
+ yeah, this is my life and I'm gonna live it and
+
+ I've
+
+ You know from like
+
+ 2 a.m. In my college freshman dorm hallway till now. I've made no more progress on it than that. Mm-hmm
+
+ What seems like one of those?
+
+ It's there's no
+
+ You know, it's if it is a possibility if it is real first of all once it happens, what are you gonna do?
+
+ I mean that that is the new reality and in many ways our new reality is as
+
+ alien to you know hunter-gatherers and 15,000 years ago as
+
+ That would be to us now
+
+ I mean, we're already we've already entered into some very bizarre territory where you know
+
+ I was just having a conversation with my kids were asking questions about something and you know, I always say let's guess
+
+ What percentage of that is this and then we just google it and then just ask Siri and we pull it up
+
+ Like look at that like that alone
+
+ Yeah, so bizarre compared to how it was when I was 13 and you had to go to the library
+
+ But hope that the book was accurate totally
+
+ I was very annoyed this more I was reading about how horrible systems like chat GBT and
+
+ Google are from an environmental impact because it's you know using like
+
+ some extremely tiny amount of energy for each query and
+
+ You know how we're all destroying the world and I was like before that people drove to the library
+
+ Yeah, how much carbon they burn sure this question versus what it takes now
+
+ Come on those, but that's just people looking for some reason why something's bad. That's not a logical total perspective
+
+ well, we should be looking at is the
+
+ spectacular changes that are possible through this and
+
+ All the problems the insurmountable problems that we have with resources with the environment with cleaning up the ocean
+
+ Climate change there's so many problems that we need this to solve all of everything else and that's why we need president AI
+
+ If if AI could make every scientific discovery, but we still had human presidents you think would be okay
+
+ No, because those creeps would still be pocketing money and they'd have offshore accounts
+
+ And it would it would always be a weird thing of corruption and how to mitigate that corruption
+
+ Which is also one of the fascinating things about the current state of technology is that we're so much more aware of corruption
+
+ We're so much more. There's so much
+
+ Independent reporting and we're so much more
+
+ Cognizant of the actual problems that are in place. This is really great. One of the thing
+
+ one of the things that I've observed obviously many other people too is
+
+ Corruption is such an incredible hindrance to getting anything done in a society to make it forward progress and you know
+
+ my worldview had been
+
+ more u.s. Centric when I was younger and as I've
+
+ Just studied the world more and had to work in more places in the world
+
+ Like it's amazing how much corruption there still is but the shift to a technologically enabled world
+
+ I think is a major force against it because everything is it's harder to hide stuff
+
+ Mmm, and I do think corruption in the world will keep trending down
+
+ Because of its exposure. Yeah through technology if I mean that it comes at a cost
+
+ And I think the loss that like I am very worried about how far the surveillance state could go here. Mmm, but
+
+ in a world where
+
+ Payments for example are no longer like bags of cash but done somehow digitally and
+
+ Somebody even if you're using Bitcoin can like watch those flows. Mmm. I think that's like a credit corruption reducing thing. I
+
+ Agree, but I'm very worried about central bank digital currency and that being tied to a social credit score
+
+ Super super against yeah, that's cares
+
+ I should wear it super against and that the push to that is not that's not for the overall good of society. That's for control
+
+ Yeah, I think like I mean there's many things
+
+ That I'm disappointed that the US government has done recently
+
+ but the the war on crypto which I think is a like we can't give this up like we're gonna control this and all that
+
+ that's like
+
+ Make that that's the thing that like makes me quite sad about the country
+
+ It makes me quite sad about the country too
+
+ But then you also see with things like FTX like oh look this can get without
+
+ Regulation and without someone overseeing it this can get really fucked
+
+ Yeah, I'm not anti-regulation like I think there's clearly a role for it and
+
+ I
+
+ also think
+
+ FTX was like a sort of
+
+ comically bad
+
+ Situation. Yeah, we shouldn't
+
+ Yeah
+
+ Yeah, but it's a fun one. Like it's totally fun. And I love that story. I mean you clearly I
+
+ Really do I love the fact that they were all doing drugs and
+
+ No, no, I had every part of the dramas. I'm like, uh, I
+
+ Mean, it's a gripping story because yeah had everything there. They did their taxes with like what was the the program that they used?
+
+ quick books
+
+ Billions of dollars, I don't know why I think the word polycule is so funny
+
+ But polycule that was what they like when you call a relationship like a poly but closed like poly
+
+ Amorous molecule put together. Oh, I see. So they were like, this is our polycule
+
+ So there's nine of them and they're poly or whatever. Yeah, you call that a polycule
+
+ I know that was the funny like that became like a meme in Silicon Valley for a while that I thought was hilarious
+
+ Um, you clearly want enough regulation that that can't happen
+
+ but they're
+
+ Like I'm not against that happening. I'm against them doing what they did. No, that's what I mean. I'm like, oh, it's kind of fun
+
+ Go for it. No. No, I mean you want enough thing that like FTX can't lose all of its depositors money
+
+ Yes, but but I think there's an important point here, which is you have all of this other
+
+ regulation that people and and it didn't keep us safe and
+
+ the basic thing which was like
+
+ You know, let's do that. That was not all of the crypto stuff people were talking about
+
+ hmm
+
+ Yes, I mean the the real fascinating crypto is Bitcoin to me
+
+ I mean, that's the one that I think has the most
+
+ likely possibility of becoming a
+
+ universal viable currency and
+
+ it's
+
+ You know, it's limited in the amount that there can be it's you know
+
+ You people mine it with their own could be it's like that to me is very fascinating
+
+ and I love the fact that it's been implemented and that at least something like I've had
+
+ Andreas Antonopoulos on the podcast and he's when he talks about it
+
+ he's
+
+ Living it. He's spending all of his money everything he has paid is in Bitcoin. He pays his rent in Bitcoin
+
+ Everything he does is in Bitcoin. I I helped start a project called world coin a few years ago
+
+ That's and so I've gotten to like learn more about the space
+
+ I'm excited about it for the same reasons
+
+ I'm excited about Bitcoin too, but I think this idea that we have a
+
+ global
+
+ currency that is outside of the control of any government is a
+
+ Super logical and important step on the tech tree. Yeah agreed. I mean, why should the government control currency?
+
+ I mean the government should be dealing with all the pressing
+
+ environmental social infrastructure issues foreign policy issues economic issues the things that we need to be
+
+ Governed in order to have a peaceful and prosperous society. That's equal and equitable
+
+ What do you think happens to money and currency after a GI? I
+
+ I've wondered about that because I feel like with money, especially when money goes digital
+
+ The bottleneck is access if we get to a point where all
+
+ Information is just freely shared everywhere. There are no secrets. There are no boundaries. There are no borders
+
+ We're reading minds. We have complete access to all of the information of
+
+ Everything you've ever done everything everyone's ever said there's no hidden secrets
+
+ What is money then money is this digital thing? Well, how can you possess it?
+
+ How can you possess this digital thing if there is literally no bottleneck?
+
+ There's no barriers to anyone accessing any information because essentially it's just ones and zeros
+
+ Yeah, I mean another way. I think the information frame makes sense. Another way is that like money is
+
+ Like a sort of way to trade labor or
+
+ Trade like a limited number of hard assets like land and houses and whatever
+
+ and
+
+ if you think about a world where like
+
+ Intellectual labor is just readily available and super cheap. Hmm, then
+
+ That's somehow very
+
+ Different. I think there will always be goods that we want to be scarce and expensive
+
+ but it'll only be those goods that we want to be scarce and expensive that's in services that still are and
+
+ So money in a world like that. I think it's just a it's a very curious idea. Hmm. Yeah, it becomes a different thing
+
+ I mean, it's not a bag of gold and a leather pouch that you're carrying around not gonna do much good
+
+ Probably it's not gonna do much good
+
+ But then the question becomes how is that money distributed and how do we avoid some horrible Marxist society where there's one?
+
+ Totalitarian government that just don't sit out. Yeah, that would be bad. I think you've got a like
+
+ My current best idea and maybe there's something better is I think you act like if if we are right
+
+ Lot of reasons we could be wrong
+
+ but if we are right that like a the AGI systems of which there will be a few become the high-order bits of
+
+ Sort of influence whatever in the world. I think you do need like
+
+ Not to just redistribute the money but the access so that people can make their own decisions about how to use it and govern it
+
+ And if you've got one idea you get to do this if I've got one idea I get to do that
+
+ And I have like rights to basically do whatever I want with my part of it
+
+ And if I come up with better ideas than you I get rewarded but for that by whatever the society is or vice versa
+
+ Yeah
+
+ You know the the hardliners the people that are against like welfare and against any sort of you G
+
+ Universal basic income UBI what they're what they're really concerned with is human nature, right?
+
+ They believe that if you remove incentives if you just give people free money, they become addicted to it
+
+ they become lazy, but isn't that a human biological and psychological bottleneck and
+
+ perhaps
+
+ with the implementation of
+
+ Artificial intelligence combined with some sort of neural interface whether it's external or internal
+
+ It seems like that's a problem that can be solved that you can essentially
+
+ And this is where it gets really spooky
+
+ You can re-engineer the human biological system and you can remove all of these problems
+
+ That people have that are essentially problems that date back to human reward systems when we were tribal people
+
+ Hunter-gatherer people whether it's jealousy lust envy all these all these variables that come into play
+
+ When you're dealing with money and status and social status
+
+ If those are eliminated with technology and essentially we become a next
+
+ Version of what the human species is possible. Like look, we're very very far removed from
+
+ tribal brutal
+
+ Societies of cave people we all agree that this is a way better way to live. It's it's it's it's it's way safer
+
+ You know, we were like I was talking about this at my comedy club last night because we're because my wife was
+
+ We're talking about
+
+ DNA and my wife was saying that look everybody came from cave people which is kind of a fucked-up thought that everyone here is here
+
+ because of cave people
+
+ Well that all that's still in our DNA all that's still that and these
+
+ Reward systems can be hijacked and they can be hijacked by just giving people money and like you don't have to work
+
+ You don't have to do anything. You don't have to have ambition. You'll just have money and just just lay around and do drugs
+
+ that's what the that's the fear that people have of giving people free money, but
+
+ if we can figure out how to
+
+ Literally engineer the human biological vehicle and
+
+ remove all those pitfalls if we can
+
+ Enlighten people
+
+ Technologically, maybe in the lightness the wrong word, but but advance
+
+ The human species to the point where those are no longer dilemmas because those are easily solvable
+
+ through coding they're easily solvable through
+
+ enhancing the human biological system perhaps raising dopamine levels to the point where anger and
+
+ fear and hate are impossible they don't exist and
+
+ If I mean if you just had everyone on Molly
+
+ How many wars were there be there?
+
+ Look, I think you're a war
+
+ I mean, I think if you could get everyone on earth to all do Molly once on the same day
+
+ That'd be a tremendous thing
+
+ It would be if you got everybody on earth to do Molly every day
+
+ That would be a real loss. But what if they did a low dose of Molly where you just get to ah
+
+ Where everybody greets people with love and affection and there's no longer concern about competition
+
+ Instead the concern is about the fascination of innovation and create creation and creativity
+
+ Man we could talk the rest of the time about one topic. It's so interesting. I I think
+
+ If I could like push a button to like remove all human striving and conflict I
+
+ Wouldn't do it. First of all, like I think that's a very important part of our story and experience
+
+ and and also I think we can see both from our own biological history and also from
+
+ What we know about AI that very simple
+
+ Goal systems fitness functions reward models, whatever you want to call it lead to incredibly
+
+ impressive
+
+ Results, you know if the biological imperative is survive and reproduce
+
+ Look how far that has somehow gotten us as a society all of this all this stuff
+
+ we have all this technology this building whatever else like
+
+ That
+
+ That got here through an
+
+ extremely simple goal in a very complex environment leading to all of the richness and complexity of
+
+ people
+
+ Fulfilling this biological imperative to some degree and wanting to impress each other
+
+ So I think like evolutionary fitness is a simple and unbelievably powerful idea now
+
+ Could you carefully edit out every individual manifestation of that?
+
+ Maybe but I I don't want to like live in a society of drones where everybody is just sort of like on
+
+ Molly all the time either like
+
+ That doesn't seem like the right answer. Like I want us to continue to strive
+
+ I want us to continue to push back the frontier and go out and explore and I actually think
+
+ something's already gotten a
+
+ little off track in society
+
+ about all of that and we're I
+
+ Don't know I think like I'm I don't I
+
+ Thought I'd be older by the time. I felt like the old guy complaining about the youth
+
+ but I think we've lost something and I think that we
+
+ Need more
+
+ Striving maybe more risk-taking more like
+
+ Explorer spirit. What do you mean by you think we've lost something? Um,
+
+ I mean, here's like a version of it
+
+ very much from my
+
+ Own lens. I was a startup investor for a long time and
+
+ It often was the case that the very best startup founders were in
+
+ their early or mid 20s late 20s, maybe even and now they skew much older and
+
+ What I want to know is in the world today
+
+ Where the super great 25 year old founders and there are a few it's not fair to say there are none
+
+ but there are less than there were before and
+
+ I
+
+ Think that's bad for society at all levels
+
+ I mean like come to tech company founders is one example
+
+ But like people who go off and create something new who push on a disagreeable or controversial idea. We need that to drive
+
+ forward
+
+ We need that sort of spirit. We need people to be able to you know, put out ideas and be wrong and
+
+ Not be ostracized from society for it or not have it be like, you know
+
+ Something that they get canceled for or whatever
+
+ we need people to be able to take a risk in their career because they believe in
+
+ Some important scientific quest that may not work out or may sound like really controversial or bad or whatever
+
+ You know certainly when we started opening I and we were saying
+
+ We think this AGI thing is is real and could be you know
+
+ Could be done unlikely, but so important if it happens and all of the older scientists in our field were saying those people are irresponsible
+
+ You shouldn't talk about AGI. That's like, you know, they're like selling a scam or they're like, you know, they're kind of
+
+ Being reckless and it's gonna lead to an AGI winter like we said we believed we said at the time
+
+ We knew it was unlikely, but it was an important quest and we were gonna go after it and kind of like fuck the haters
+
+ That's important to a society
+
+ What do you think is the origin like what why do you think there are less young people that are
+
+ Doing those kind of things now as opposed to a decade or two ago. I
+
+ Am so interested in that topic, um
+
+ I'm tempted to blame the education system, but I sure that I think that like interacts with society
+
+ In all of these strange ways
+
+ It's funny there was this like thing all over my Twitter feed recently trying to talk about like what you know, what like
+
+ What caused the drop in testosterone in American men over the last few decades and no one was like this is a symptom not a cause
+
+ and
+
+ Everyone was like, oh, it's the microplastics. It's the birth control pills. It's the whatever. It's the whatever. It's the whatever and I think this is like
+
+ Not at all the most important
+
+ Piece of this topic, but it was just interesting to me
+
+ sociologically
+
+ that
+
+ There was there was only talk about it being
+
+ About what what caused it not about it being enough an effect of some sort of change in society
+
+ mmm
+
+ But isn't what caused it. Well, there's biological
+
+ Reasons why like when we talk about the phthalates and yeah microplastic pesticides
+
+ Environmental factors those are real totally and I don't like again. I'm so far out of my depth and expertise here
+
+ this was it was just interesting to me that the only talk was about like
+
+ biological factors and now that somehow society can have
+
+ Some sort of effect. Well society most certainly has an effect. Do you know what the answer to this is? I don't I mean
+
+ I've had a podcast with dr
+
+ Shanna Swan who wrote the book countdown and that is all about the introduction of petrochemical products and the correlating drop in
+
+ testosterone rise in miscarriages the fact that these are ubiquitous endocrine disruptors that when they do
+
+ Blood tests on people they find some insane number. It's like
+
+ 90 plus percent of people have phthalates in the system and
+
+ You I appreciate the metal cups. Yeah, we we try to
+
+ Mitigate it as much as possible. But I mean you're getting it if you're microwaving food, you're you're fucking getting it
+
+ You're get you're just getting it you're getting eat processed food. You're getting it
+
+ you're getting a certain amount of microplastics in your diet and
+
+ Estimates have been that it's as high as a credit card of microplastics
+
+ In your body you consume a credit card of that a week
+
+ well, the real concern is with mammals because
+
+ The introductions when they've done studies with mammals and they've introduced phthalates into their body
+
+ There's a correlating
+
+ One thing that happens is the these animals their taints shrink like the taint of them
+
+ Yeah, the mammal when you look at males
+
+ It's 50% to 100% larger than the females with the introduction of phthalates on the males the taints
+
+ Start shrinking the penis is shrink the testicles shrink sperm count drinks
+
+ so we know there's a direct biological connection between the
+
+ This these chemicals and how they interact with with bodies
+
+ So that's that's a real one and it's also
+
+ The amount of petrochemical products that we have the amount of plastics that we use
+
+ It's it is such an integral part of our culture and also our society our civilization
+
+ It's everywhere and I've wondered
+
+ if you think about how
+
+ these
+
+ Territorial apes
+
+ Evolve into this new
+
+ advanced species
+
+ Wouldn't one of the very best ways
+
+ Be to get rid of one of the things that causes the most problems, which is testosterone
+
+ We need testosterone where we need aggressive men and protectors, but why do we need them?
+
+ We need them because there's other aggressive men that are evil, right? So we need protectors from
+
+ Ourselves. We need the good strong people to protect us from the bad strong people
+
+ but if we're in the process of integrating with technology if
+
+ Technology is an inescapable part of our life if it is everywhere you're using it
+
+ You have the Internet of everything that's in your microwave in your
+
+ television your computers everything you use as
+
+ Time goes on that will be more and more part of your life
+
+ And as these plastics are introduced into the human biological system
+
+ You're seeing a feminization of the males of the species
+
+ You're seeing a downfall in birth rate
+
+ You're seeing all these correlating factors that would sort of lead us to become this more
+
+ peaceful
+
+ less violent less aggressive less ego driven thing
+
+ Which the world is definitely becoming yeah time
+
+ and
+
+ I'm all for less violence, obviously
+
+ But I don't
+
+ Look obviously testosterone has many great things to say for it and some
+
+ bad tendencies too, but I don't think a world if we if we leave that out of the equation and just say like a world that
+
+ has a a
+
+ Spirit that you know, we're gonna defend ourselves. We're going to
+
+ We're going to find a way to like
+
+ Protect ourselves and our tribe and our society into this future which you can get with lots of other ways
+
+ I think that's an important impulse
+
+ More than that though what I meant
+
+ Is
+
+ About if we go back to the issue of like where the young founders why don't we have why don't we have more of those?
+
+ And I don't think it's just the tech startup industry
+
+ I think you could say that about like young scientists or many other categories. Those are maybe just the ones that I know the best
+
+ In a world with
+
+ Any
+
+ amount of technology I
+
+ still think we we've got a it is our destiny in some sense to stay on this on this curve and
+
+ we still need to go figure out what's next and after the next hill and after the next hill and
+
+ it would be
+
+ My perception is that there is some long-term societal change happening here and I think it makes us less happy to
+
+ Right
+
+ It may make us less happy. But what I'm saying is if the human species does integrate with technology
+
+ Wouldn't a great way to facilitate that to be to kind of feminize
+
+ the the primal apes and
+
+ To sort of downplay the role you mean like the tech like should the AGI?
+
+ Well, maybe it's a GI. I mean, maybe it's just an inevitable inevitable consequence of
+
+ technology
+
+ because especially the type of technology that we use which does have so much plastic in it and then on top of that the
+
+ Technology that's involved in food systems preservatives all these different things that we use to make sure that people don't starve to death
+
+ We've made incredible strides in that there are very few people in this country that starve to death
+
+ Yeah, it is not it's not a primary issue, but violence
+
+ Is a primary issue
+
+ but our our concerns about violence are
+
+ in our concerns about testosterone and strong men and powerful people is
+
+ Only because we need to protect again. We need to protect against other that same thing
+
+ Is that really the only reason sure? I mean how many like incredibly violent women are out there running gangs? No, no that part for sure
+
+ Yeah
+
+ What I meant more is is that the only reason that
+
+ Society values like strong masculinity. Yeah, I think so
+
+ I think it's a biological imperative, right?
+
+ and I think that biological imperative is because we used to have to defend against incoming tribes and predators and animals and and
+
+ We we needed someone who was stronger than most to defend the rest and like that's the concept of the military
+
+ That's why Navy SEAL training is so difficult
+
+ We want the strongest of the strong to be at the tip of the spear
+
+ but that's only because there's people like that out there that are bad if
+
+ general and artificial general intelligence and the implementation of some sort of a device that changes the
+
+ Biological structure of human beings to the point where that is no longer a concern
+
+ Like if you are me and I am you and I know this because of technology violence is impossible
+
+ Yeah, look by the time if this goes all the way down the sci-fi path and we're all like merged into this one single like planetary
+
+ Universal whatever consciousness then then then yes, you don't you don't need testosterone need testosterone
+
+ But especially if we can reproduce through other methods
+
+ Like this is the alien hypothesis, right?
+
+ Like why do they look so spindly and without any gender and you know, when they have these big heads and tiny physical strength
+
+ They don't need physical strength. They have some sort of a telepathic way of communicating
+
+ they probably don't need sounds with their mouths and
+
+ They don't need this
+
+ urge that we have to conquer and to spread our DNA like that's so much of what people do is
+
+ These reward systems that were established when we were territorial apes. There's a question to me about how much you can
+
+ Ever get
+
+ Rid of rid of that if you make an AGI and
+
+ It decides actually we don't need to expand. We don't need more territory
+
+ We're just like happy we at this point you me it the whole thing all together all motion. We're happy here on earth
+
+ We don't need any bigger. We don't need to reproduce. We don't need to grow. We're just gonna sit here and run a
+
+ That sounds like a boring life. I don't agree with that. I don't agree that that would be the logical conclusion
+
+ I think the logical conclusion would be
+
+ They would look for
+
+ problems and
+
+ frontiers that are
+
+ insurmountable to our current existence like intergalactic communication and transportation
+
+ What happens when it meets another AGI the other galaxy over what happens it meets an AGI
+
+ That's a million years more advanced or that like what does that look like?
+
+ Yeah, that's what I've often wondered if we are
+
+ I call ourselves the biological caterpillars that create the electronic butterfly that we're making a cocoon right now
+
+ We don't even know what we're doing. And I think it's also tied into
+
+ consumerism
+
+ Consider because what is consumerism do consumerism?
+
+ Facilitates the creation of newer and better things because you always want the newest latest greatest
+
+ so you have more advanced technology and automobiles and computers and cell phones and
+
+ All of these different things including medical science
+
+ That's all for sure true
+
+ the thing I was like reflecting on as you were saying that is I don't think I
+
+ I'm not as optimistic that we can or even should
+
+ overcome our
+
+ biological base to the degree that I think you think we can and
+
+ You know to even go back one further level like I I think
+
+ I think society is happiest
+
+ Where there's like roles for strong femininity and strong masculinity in the same people and in different people
+
+ and
+
+ and I don't like
+
+ And I don't think a lot of these like deep-seated things
+
+ are
+
+ Gonna be able to get pushed aside very easily and still have
+
+ a
+
+ System that works like sure
+
+ We can't really think about what if there were consciousness in a machine someday or whatever what that would be like
+
+ and maybe maybe I'm just like thinking too small-mindedly, but I think there is something
+
+ About us that has worked in a super deep way and
+
+ It took evolution a lot of search space to get here, but I wouldn't discount it too easily
+
+ But don't you think that cave people would probably have those same logical conclusions
+
+ About life and sedentary lifestyle and sitting in front of a computer and not interacting with each other except through text. Uh
+
+ Well, I
+
+ Mean, isn't that like what you're saying is correct?
+
+ How different do you think our motivations are today and kind of what really brings us genuine?
+
+ Joy, and how we're how we're wired at some deep level
+
+ Differently than cave people clearly lots of other things have changed. We've got better much better tools. Mm-hmm
+
+ But how different do you think it really is? I think
+
+ That's the problem is that genetically at the base level?
+
+ There's not much difference and that these reward systems are all
+
+ There we interact with all of them whether it's ego. Yeah lust
+
+ Yeah passion fury anger jealousy all these different things
+
+ And you think will be some people will upload and edit those out. Yes
+
+ Yeah, I think that our concern with losing this aspect of what it means to be a person
+
+ This like the idea that we should always have conflict and struggle because conflict and struggle is how we facilitate progress
+
+ Which is true right and combating evil is how the good gets greater and stronger if the good wins
+
+ but my concern is that that is all predicated on the idea that the biological system that we have right now is
+
+ correct and
+
+ optimal and
+
+ I think
+
+ one of the things that we're dealing with with the heightened states of depression and anxiety and the lack of meaning and
+
+ existential angst that people experience a lot of that is because
+
+ the biological
+
+ reality of being a human animal
+
+ Doesn't really integrate that well with this world that we've created
+
+ That's for sure. Yeah, and I wonder if
+
+ The solution to that is not find ways
+
+ to find meaning with the biological
+
+ You know vessel that you've been given but rather
+
+ engineer those aspects
+
+ That are problematic out of the system
+
+ To create a truly enlightened being like one of the things if you ask someone today
+
+ What are the odds that in three years there will be no war in the world?
+
+ That's zero like nobody thinks no
+
+ There's never been a time in human history where we haven't had war if you had to say what is our number one?
+
+ problem as a species
+
+ Well, I would say our number one problem is is war our number one problem
+
+ Is this idea that it's okay to send massive groups of people who don't know each other to go murder?
+
+ massive groups of people that are somehow opposed because of the government because of
+
+ Lines in the sand that's clearly the same thing. It's an insane thing
+
+ How do you get rid of that?
+
+ well
+
+ one of the ways you get rid of that is to completely engineer out all the human reward systems that pertain to the
+
+ acquisition of
+
+ Resources so what's left at that point? Well, we're a new thing. I think we've become a new thing
+
+ And what does that thing do want?
+
+ I think that new thing would probably want to interact with other new things that are even more advanced than it. I
+
+ do believe that
+
+ Scientific curiosity can drive quite that that can be a great frontier. Mm-hmm for a long time
+
+ Yeah, I think it can be a great frontier for a long time as well
+
+ I just wonder if what we're seeing with the drop in testosterone
+
+ The because of microplastics which sort of just snuck up on us
+
+ We didn't even know that it was an issue until people started studying how certain is that at this point that that's what's happening
+
+ I don't know study. It's it's a very good question. Dr. Shanna Swan believes that it's the primary driving factor of the
+
+ sort of drop in testosterone and all miscarriage issues and
+
+ Low birth weights that all those things seem to have a direct. There's it seems to be a direct factor
+
+ Environmentally, I'm sure there's other factors to I'm the drop in testosterone
+
+ I mean, it's it's been shown that you can increase males testosterone through resistance training and through making
+
+ There's certain things you can do like one of the big ones they found through a study in Japan is cold water immersion
+
+ before exercise, yeah
+
+ Radically increases testosterone. So you could cold water immersion and then exercise. I wonder why yeah
+
+ I don't make this you can find that
+
+ but
+
+ It's a it's a fascinating field of study
+
+ But I think it has something to do with resilience and resistance and the fact that your body has to combat this
+
+ External factor that's very extreme that causes the body to go into this state of
+
+ deprivation and the the
+
+ implementation of cold shock proteins and
+
+ The reduction of inflammation which also enhances the body's endocrine system
+
+ But then on top of that this imperative that you have to become more resilient to survive this
+
+ External factor that you've introduced into your life every single day
+
+ So there's ways
+
+ Obviously that you can make a human being more robust
+
+ You know, we know that we can do that through strength training and that all that stuff actually does raise testosterone
+
+ your diet can raise testosterone and
+
+ The a poor diet will lower it and will hinder your endocrine system will hinder your ability to produce
+
+ growth hormone
+
+ melatonin all these different factors
+
+ That seems to be something that we can fix in terms or at least mitigate in term with decisions and choices and effort
+
+ but the fact that these petrochemical product like there's a graph that dr. Shannon Swan has in her book that shows
+
+ During the 1950s when they start using petrochemical products and everything microwave plastics saran wrap all this different stuff
+
+ There's a direct correlation
+
+ Between the implementation and the dip and it all seems to line up like that seems to be a primary factor
+
+ Does that have an equivalent impact on
+
+ Like estrogen related hormones. That's a good question
+
+ Some of them actually I know some of these chemicals that they're talking about actually increase and estrogen in men
+
+ I don't know but I do know that it increases miscarriages
+
+ So I just think it's overall
+
+ Disruptive to the definitely a societal wide
+
+ Disruption of the endocrine system. Yeah in a short period of time. Yeah, it's like a just
+
+ Madden sure difficult to wrap our heads and then pollutants and
+
+ Environmental toxins on top of the pesticides and herbicides and all these other things in microplastics
+
+ There's a lot of factors that are leading our systems to not work. Well
+
+ But I just
+
+ Really wonder if this like are we just clinging on to this monkey body? Are we deciding?
+
+ I like my monkey body. I do too. Listen, I love it
+
+ but I'm also I try to be very objective and when I
+
+ objectively look at it in terms of like if you take where we are now and all of our problems and you look towards the
+
+ future and like
+
+ What would be one way that you could mitigate a lot of these and well it would be the implementation of some sort of a telepathic
+
+ technology where
+
+ You know
+
+ You couldn't just text someone or tweet at someone something mean because you would literally feel
+
+ What they feel when you put that energy out there and you would you would be repulsed. Yeah, and and then
+
+ violence would be if you were committing violence on someone and
+
+ You literally felt the reaction of that violence in your own being
+
+ And you know, you would also have no motivation for violence if we had no
+
+ aggressive tendencies no primal chimpanzee tendencies, you know, it's it's true that
+
+ violence in the world has obviously gone down a lot over the decades, but
+
+ Emotional violence is up a lot and the internet has been horrible for that
+
+ Yeah, like I don't walk I'm not gonna walk over there and punch you because you're look like a big strong guy
+
+ You're gonna punch me back and also there's a societal convention not to do that
+
+ but if I didn't know you I might like send a mean tweet about you and I feel nothing on that yeah, and
+
+ Clearly that has become like a mega epidemic in society that we did not evolve the biological
+
+ Constraints on somehow yeah, and
+
+ I'm actually very
+
+ Worried about how much that's already destabilized Dustin made us all miserable
+
+ It's certainly accentuated it it's exacerbated all of our problems
+
+ It's I mean if you read Jonathan hates book the cotton of the American mind of your great book
+
+ Yeah, it's great book and it's it's very damaging to women particularly young girls young girls growing up
+
+ There's a direct correlation between the invention of social media the introduction to the iPhone
+
+ self-harm suicide
+
+ online bullying
+
+ You know like people have always talked shit about people when no one's around
+
+ I think the fact that they're doing it now openly to harm people
+
+ Horrible obviously I think it's super damaging to men too
+
+ Maybe they just like talk about it less, but I don't think any of us are like yeah set up for this
+
+ No, no one set up for it, and you know I think famous people know that more than anyone we all get used to it
+
+ Yeah, you just get numb to it and or if you're wise you don't engage. You know I don't engage
+
+ I don't even have any apps on my new phone. Yeah, I've decided I got a new phone, and I said okay nothing
+
+ That's really smart no Twitter
+
+ I saw I have a separate phone that if I have to post someone up something I pick up
+
+ But all I get on my new phone is text messages
+
+ And is that more just to like keep your mind pure and yeah, not tempt myself
+
+ You know many fucking times I've got up to go to the bathroom first thing in the morning and spent an hour
+
+ Just sitting on the toilet scrolling through Instagram like for nothing does zero for me
+
+ And there's this thought that I'm gonna get something out of it. I was thinking actually just yesterday about how
+
+ you know we all have talked for so long about these algorithmic feeds are gonna manipulate us in these big ways and
+
+ That will happen, but in the small ways already we're like scrolling Instagram is not even that
+
+ Fulfilling like you finish that hour, and you're like I know that was a waste of my time
+
+ But it was like over the threshold where you couldn't quite
+
+ It's hard to put the phone down right you just hoping that the next one's gonna be interesting and every now and then the problem
+
+ Is every like 30th or 40th real that I click on is wild
+
+ I wonder by the way if that's more powerful than if everyone was wild if everyone was great sure
+
+ You know it's like the slime mine for gold. Yeah, you don't just go out and pick it like daisies
+
+ If the algorithm is like intentionally feeding you some shit along the way yeah
+
+ Well, there's just a lot of shit out there unfortunately
+
+ But it's all it's just in terms. You know I was talking to
+
+ Sean O'Malley who's this UFC fighter who's you know obviously it was a very strong mind really interesting guy
+
+ But one of the things that Sean said is like I get this like low-level
+
+ Anxiety yeah from scrolling through things, and I don't know why like what is that?
+
+ And I think it's part of the logical mind realizes. This is a massive waste of your resources
+
+ I also deleted a bunch of that stuff off my phone
+
+ Because I just didn't have the self-control
+
+ I mean I had the self-control to delete it, but like not to stop once I was growing right yeah, and so I I
+
+ think we're just like
+
+ Yeah, we're getting attention hacked in some ways
+
+ There's some good to it too, but we don't yet have the stuff in place
+
+ The tools the societal norms whatever to modulate it well right and we're not designed for it
+
+ So this is a completely new technology that again hijacks our human reward systems and hijacks
+
+ all of the
+
+ checks and balances that are in place for communication which
+
+ Historically has been one-on-one
+
+ Historically communication has been one person to another and when people write letters to each other
+
+ It's generally things like if someone likes a love letter or you know they miss you like yeah
+
+ They're writing this thing where they're kind of exposing a thing that maybe they have a difficulty and expressing in front of you
+
+ And it was not it did you know generally unless the person was a psycho. They're not hateful letters
+
+ Whereas the ability to just communicate fuck that guy. I hope he gets hit by a bus is so simple and easy and
+
+ And you don't experience Twitter seems to be particularly horrible for this. Yeah the mechanics work
+
+ Yeah, it really rewards in ways that I don't think anybody fully understands that like taps into something about human psychology
+
+ yeah, where but that's kind of like
+
+ That's how you get engagement that's how you get like followers that's how you get what like, you know, the dopamine hits or whatever and
+
+ Like the people who I know that spend all day on Twitter more of them are unhappy about it than happy
+
+ Oh, yeah, they're the most unhappy
+
+ I mean
+
+ there's quite a few people that I follow that I only follow because they're crazy and then I'll go and check in on them and
+
+ See what the fuck they're tweeting about and some of them are on there eight ten hours a day
+
+ I'll see tweets all day long and I know that person cannot be happy
+
+ They're unhappy and they cannot stop you can't stop and it seems like
+
+ It's their life. It's it's a and they get they get meaning out of it in terms of
+
+ Reinforcement, you know, they get short-term. Yeah
+
+ So you get they I think maybe each day you go to bed feeling like you accomplished something and got your dopamine and the end
+
+ Of each decade you probably were like where'd that decade go?
+
+ I was talking to a friend of mine who was having a real problem with it
+
+ He's saying he would be literally walking down the street and he'd have to check his phone to see who's replying
+
+ And he wasn't even looking where he's walking
+
+ It was just like caught up in the anxiety of these exchanges and it's not because of the nice things people say no
+
+ No, no, no, it's all and with him. He was recognizing that, you know, he was dunking on people and then yes seeing yeah
+
+ Yeah, yeah to the dunking and yeah, I stopped doing that a long time ago
+
+ I stopped interacting with people on Twitter in a negative way. I just won't do it
+
+ Yeah, just even if I disagree with someone I'll say something. I have like as possible
+
+ I have like more of an internet troll streak than I would like to admit
+
+ And so I try to just like not give myself too much of an impatient, but I slip up sometimes. Yeah, it's so
+
+ Tempting totally it's so tempting - and it's fun. It's fun to say something shitty
+
+ I mean again, whatever this biological system we were talking about earlier that get that that gets a positive reward
+
+ Well, it get moment. There's a react and you know, there's reactions
+
+ you say something outrageous and someone's going to react and that reaction is like energy and there's
+
+ There's all these other human beings engaging with your idea
+
+ but
+
+ Ultimately, it's just not productive
+
+ for most people and it's psychologically
+
+ it's just
+
+ Fraught with peril. There's just so much going on. I don't know anybody ages all day long. That's happy. I
+
+ certainly not I don't like I
+
+ Mean I think I've watched it like destroy is too strong of a word but like
+
+ knock off track the careers or life's or happiness or human relationships of
+
+ People that are like good smart conscientious people. Yeah, just like got couldn't fight this demon
+
+ yeah, like hacked there and Kovac really accentuated that because people were alone and isolated and that made it even worse because
+
+ then they felt
+
+ They felt even better saying shitty things to people. I'm unhappy. Yeah
+
+ Yeah, worse things about you and then there was a psychological aspect of it like the angst that came from being
+
+ socially isolated and terrified about this invisible disease it's gonna kill us all and
+
+ You know and that so you have is like and then you're interacting with people on Twitter
+
+ And then you're caught up in that anxiety and you're doing it all day
+
+ And I know quite a few people especially comedians that really lost their minds
+
+ Yeah, and lost the respect to their peers by doing that. I have a lot of sympathy for people who lost their minds during Kovac because
+
+ What a natural thing for us all to go through and isolation was just brutal
+
+ But a lot of people did and I don't think the Internet
+
+ In particularly not the kind of like social dynamics of things like Twitter. I don't think that like brought out anyone's best
+
+ No, well, I mean some people I think if they're they're not they're not inclined to be shitty to people
+
+ I think some people did seek comfort and they did interact with people in positive ways
+
+ Yeah, I see. There's plenty of positive. I think the thing is that the negative interactions are so much more
+
+ Impactful. Yeah. I look I think there are a lot of people who use these systems for wonderful things
+
+ I didn't mean to imply that's not the case, but that's not what drives
+
+ People's emotions after getting off the platform in the right of the day, right, right
+
+ And it's also probably not if you looked at a pie chart of the amount of interactions on
+
+ Twitter I would say a lot of them are shitting on people and being angry about how many of the people
+
+ That you know that use Twitter those eight or ten hours a day are just saying wonderful things about other people all day versus the virulent
+
+ Very few. Yeah, very few. I don't know any of them. I know
+
+ But then again, I wonder
+
+ with the implementation of
+
+ some new technology that makes communication a very different thing that will occur you like what we're doing now with communication is
+
+ Less immersive than communicating one-on-one you and I are talking. We're looking into each other's eyes. We're getting social cues
+
+ We're smiling at each other. We're laughing. It's it's a very natural way to talk. I
+
+ wonder if through the implementation of technology if
+
+ It becomes even more
+
+ immersive than a one-on-one conversation
+
+ Even more interactive and eat you will understand even more about the way a person feels about what you say
+
+ About that person's memory that person's life that person's history
+
+ Their education how it comes out of their mind
+
+ How their mind interacts with your mind and you see them you really see them
+
+ I wonder of that I wonder if what we're experiencing now is
+
+ Just like the first time people invented guns. They just are shooting at things, you know
+
+ Yeah, if you can like feel what I feel when you say something mean to me or nice to me
+
+ We're like that's clearly gonna change
+
+ What you decide to say yes. Yeah. Yeah, unless you're a psycho unless you're a psycho and then what?
+
+ Causes someone to be a psycho and can that be engineered out?
+
+ Imagine what we're talking about
+
+ When we're dealing with the human mind we're dealing with various diseases
+
+ bipolar schizophrenia
+
+ imagine a
+
+ world where we can find the root cause of those things and
+
+ through
+
+ coding and some sort of an implementation and implementation of technology that
+
+ elevates dopamine and serotonin and and does some things to people that eliminates all of those problems and
+
+ Allows people to communicate in a very pure way
+
+ It sounds great, it sounds great, but you're not gonna have any rock and roll you'll stand up comedy will die
+
+ You have no violent movies, you know, there's a lot of things that are gonna go out the window
+
+ But maybe that is also part of the process of our evolution to the next stage of existence
+
+ Maybe I feel genuinely confused on this. Well, I think you should be I mean to be we're gonna find out
+
+ Yeah, I mean to be sure that was good. That's the same but I don't even have like hubris beyond belief, right?
+
+ I mean you just you
+
+ From the when did open AI when did you first start this project?
+
+ are like the very beginning and end of 2015 early 2016 and
+
+ When you initially started this project
+
+ What kind of timeline did you have in mind and has it stayed on that timeline?
+
+ Or is it just wildly out of control? I?
+
+ Remember talking
+
+ With John Shulman one of our co-founders early on and he was like, yeah
+
+ I think it's gonna be about a 15-year project and I was like, yeah, it sounds about right to me and
+
+ I've always sort of thought since then now I no longer think of like AGI is quite the end point
+
+ But to get to the point where we like accomplish the thing we set out to accomplish
+
+ You know that would take us to like 2030 2031 that has felt to me like all the way through kind of a
+
+ Reasonable estimate with huge error bars and I kind of think we're on the trajectory I sort of would have assumed and
+
+ What did you think the impact?
+
+ On society would be like did you when you when you first started doing this and you said, okay if we are successful
+
+ And we do create some
+
+ massively advanced AGI
+
+ What what is the implementation and how what is the impact on society?
+
+ Have did you did you sit there and have like a graph like you had the pros on one side the cons on the other?
+
+ Did you just sort of abstractly consider? Well?
+
+ We definitely talked a lot about the cons, you know
+
+ Many of us were super worried about and still are about
+
+ Safety and alignment and if we build these systems we can all see the great future
+
+ That's easy to imagine. But if something goes horribly wrong, it's like really horribly wrong
+
+ and so there was a lot of discussion about and really a
+
+ Big part of the founding spirit of this is like, how are we gonna solve this safety problem?
+
+ What does that even mean?
+
+ One of the things that we believe is that the greatest minds in the world cannot sit there and solve that in a vacuum
+
+ You've got to like have contact reality. You've got to see where the technology goes
+
+ practice plays out in a stranger way than theory and that's certainly proven true for us, but
+
+ we had a long list of
+
+ well, I don't get a long list of cons we had a very
+
+ intense list of cons because you know, there's like all of the last decades of sci-fi telling you about
+
+ How this goes wrong. Yeah, I was to shoot me right now. Yeah
+
+ And I'm sure you've seen the John Connor chat GPT. I haven't means it
+
+ It's it's like, you know, John Connor from the Terminator the kid looking at you when you open up chat GPT
+
+ Yeah, so
+
+ That stuff we were like very clear in our minds on now
+
+ I think we understand there's a lot of work to do but we understand more about how to make AI safe in the
+
+ AI safety gets overloaded like, you know
+
+ Does it mean don't say so many people find offensive or does it mean not don't destroy all of humanity or some?
+
+ continuum and I think
+
+ The word is like gotten overloaded but in terms of the like not destroy all of humanity version of it
+
+ We have a lot of work to do but I think we have
+
+ Finally more ideas about what can work and and given the way the systems are going we have a lot more
+
+ opportunities available to us to solve it than I thought we would have
+
+ Given the direction that we initially thought the technology was going to go so that's good on the positive side
+
+ The thing that I was most excited about then and remain most excited about now is
+
+ What if this system can?
+
+ dramatically
+
+ increase the rate of scientific knowledge in society
+
+ that is a I think that kind of like all
+
+ Real sustainable economic growth the future getting better
+
+ progress in some sense comes from
+
+ increased scientific and technological capacity
+
+ And so we can solve all the problems and if the AI can help us do that
+
+ That's always been the thing. I've been most excited about
+
+ Well, it certainly seems like that is the greatest potential greatest positive potential of AI
+
+ It is to solve a lot of the problems that human beings have had forever a lot of the societal problems
+
+ That seemed to be I mean, that's what I was talking about an AI president
+
+ I'm kind of not joking because I feel like if something was
+
+ hyper-intelligent and aware of all the variables with no human bias and no incentives no
+
+ other than here's your program the greater good for the community of the United States and
+
+ The greater good for that community as it interacts with the rest of the world
+
+ The elimination of these
+
+ dictators these whether they're
+
+ elected or non elected who impose their will on the population because
+
+ they have a vested interest in protecting special interest groups and and
+
+ industry, I think I think as long as
+
+ the thing that I find scary when you say that is it does it feels like it's
+
+ humanity not in control and I reflexively don't like that, but if it's
+
+ if it if it's in if it's instead like it is the collective will of humanity being expressed without the
+
+ Translation and corrupting influences along the way. Yeah, then I can see it. Is that possible? It seems like it would be
+
+ it seems like if it was programmed in that regard to do the greater good for humanity and
+
+ And take into account the values of humanity the needs of humanity
+
+ There's something about the phrase do the greater good for you. I know it's terrifying. It's very Orwellian all of it
+
+ But also so is artificial general intelligence sure for sure open the door
+
+ I wish I wish I had worked on you know, something that was less morally fraught
+
+ But do you cuz you know, I'm I mean I can't imagine it
+
+ I cannot imagine a cooler thing to work on I feel unbearably I feel like the luckiest person on earth. That's awesome. It is not
+
+ It's not on easy mode, let's say that oh, yeah, this is not life on easy mode. No, no, no. No, I mean you are at the
+
+ forefront of one of the most spectacular changes in human history and I would say
+
+ as
+
+ No, I would say more spectacular than the implementation of the Internet
+
+ I think the implement the implementation of the Internet was the first baby steps of
+
+ This and that artificial general intelligence is yeah, it is the Internet on steroids
+
+ It's the the Internet in you know hyperspace
+
+ What I would say is it's it's the next step and there'll be more steps after but it's our most exciting step yet
+
+ Yeah, my wonder is what are those next steps after isn't that so exciting to think about it's very exciting
+
+ I think we're the last people I
+
+ Really do. I think we're the last of the biological people with all the biological problems. I think there's a
+
+ Very excited about that. I
+
+ Just think that's just what it is. You're just fine with it is what it is, you know, I mean
+
+ That I don't think you can control it at this point other than some massive natural disaster that resets us back to the Stone Age
+
+ Which is also something we should be very concerned with
+
+ Yes, it seems like that happens a lot. We're not aware of it because the timeline of a human body is so small
+
+ You know the timeline of the human existence as a person is a hundred years if you're lucky
+
+ But yet the timeline of the earth is billions of years and if you look at how many times
+
+ Life on earth has been reset by comets
+
+ slamming into the earth and just
+
+ completely eliminating all
+
+ Technological advancement. It seems like it's happened multiple times in recorded history. I
+
+ Do think I always think we don't think about that quite enough
+
+ We talked about the simulation hypothesis earlier
+
+ It's had this big resurgence and in the tech industry recently one of the things
+
+ One of the new takes on it as we get closer to AGI is that you know
+
+ If ancestors were simulating us the time they'd want to simulate again and again is right up to the you know
+
+ Right up right the lead up to the creation of AGI. Yeah, so it seems very crazy. We're living through this time
+
+ It's not a coincidence at all
+
+ You know
+
+ This is the time that is after
+
+ We had enough cell phones out in the world like recording tons of video to train the video model of the world
+
+ that's all being like jacked into us now via brain implants or whatever and before
+
+ Everything goes really crazy with AGI and it's also this interesting time to simulate like can we get through?
+
+ Does the asteroid come right before we get there for dramatic tension? Like do we figure out how to make this safe?
+
+ Do we figure out a societally agree on it?
+
+ So that's led to like a lot more people believe in it than before. I think mmm. Yeah for sure and
+
+ Again I think this is just where it's going
+
+ I mean, I don't know if that's a good thing or a bad thing
+
+ It's just a thing but it's certainly better to live now
+
+ I would not want to live in the 1800s and be in a covered wagon trying to make my way across the country
+
+ Yeah, we got the most exciting time in history yet. It's the best
+
+ It's the best but it's also has the most problems the most social problems the the most
+
+ awareness of social environmental
+
+ Infrastructure the the issue we have to go solve them. Yeah
+
+ and I
+
+ Intuitively, I think I feel something
+
+ Somewhat different than you which is I think humans in something close to this form are gonna be around
+
+ For a lot longer than I don't think we're the last humans how long do you think we have?
+
+ Like longer than a time frame I can reason about really now there may be like I could totally imagine a world where some people
+
+ decide to merge and go off exploring the universe with
+
+ AI and there's a big universe out there
+
+ But like can I really imagine a world where short of a natural disaster?
+
+ There are not humans pretty similar to humans from today on
+
+ earth doing human like things and
+
+ The sort of spirit of humanity merged into these other things that are out there doing their thing in the universe
+
+ It's very hard for me to actually
+
+ See that happening and maybe that means I'm like gonna turn out to be a dinosaur and lot
+
+ I am horribly wrong in this prediction, but I would say I feel it more over time as we make progress with AI not less
+
+ Yeah, I don't feel that at all. I feel like we're done in like a few years
+
+ No, maybe a generation or two. It'll probably be a gradual change like wearing of clothes
+
+ You know, I don't think everybody wore clothes and they invented clothes
+
+ I think it probably took a while when someone figured out shoes
+
+ I think that probably took a while when they figured out structures doors houses cities
+
+ Agriculture all those things were slowly implemented over time and then now become everywhere
+
+ And I think this is far more transformative and it's part of that because you don't think there'll be an option for some people
+
+ Not to merge right just like there's not an option for some people to not have telephones anymore
+
+ It's it like I used to have friends like I don't even have email those those two people don't exist anymore
+
+ They all have email right? Everyone has a phone at least a flip phone
+
+ I know some people that they just can't handle social media and all that jazz. They went to a flip phone good
+
+ I I don't know if this is true or not
+
+ I've heard you can't like walk into an AT&T store anymore and still buy a flip phone. I heard that just changed you can
+
+ Oh, really someone gave me this but I don't know if it's Verizon still has them. I was just there
+
+ Hey, they still have flip phones. I was like, I like it
+
+ I like this fucking little thing that you just call people and I always like romanticize about going to that
+
+ But my step was to go to a phone that has nothing on it with text messages and that's been a few days
+
+ Feeling good so far. Yeah, it's good
+
+ You know, I still have my other phone that I use for social media
+
+ but when I pick that motherfucker up I start scrolling through YouTube and watching videos and
+
+ scrolling through tick-tock or Instagram and I don't have tick-tock but I've I have I tried threads for a little while but
+
+ fucking ghost town
+
+ Right back to X. I I live on a ranch during the weekends and there's no Wi-Fi in the house
+
+ But there's no cell phone coverage anywhere else. Mmm
+
+ and
+
+ It's
+
+ Every week I forget how nice it is and what a change it is to go for a walk
+
+ Yeah, no cell phone coverage. It's good for your mind for it's
+
+ Unbelievable for your mind and I think we have like so quickly lost something. Mm-hmm
+
+ Like out of service just doesn't happen that doesn't have an airplanes anymore. You know, like
+
+ but that
+
+ Like hours where your phone just cannot buzz. Yeah, no text message either nothing. I
+
+ Think that's a really healthy thing
+
+ I dropped my phone once when I was in Lanai and I think it was the last time I dropped the phone
+
+ The phone was like we're done and it just started calling people randomly
+
+ Like it would just call people and I'd hang it up and call another person
+
+ I'd hang it up and I was showing my wife. I was like, look at this. This is crazy
+
+ It's just calling people and so the phone was broken. And so I had an order a phone and we were on vacation for like eight
+
+ days and
+
+ It took three days for Apple to get me a phone. You had a great three days. It was amazing
+
+ It was amazing because when I was hanging out with my family, I was totally present
+
+ There's no options and I wasn't thinking about checking my phone because it didn't exist. I didn't have one and there was a
+
+ Mediation of again what would Sean was talking about that low level of anxiety this sort of like
+
+ That you have when you always want to check your phone, yeah, I think I
+
+ Think that thing it's so bad. We have not figured out yet
+
+ Like the technology has moved so fast biology moves very slowly. We have not figured out how we're gonna function in this society and
+
+ Get those occasional times when you know, your phone is broken for three days. Yeah, or you go for a walk with no service, but
+
+ it's like I
+
+ Very much feel like my phone controls me not the other way around. Uh-huh, and I hate it
+
+ But I haven't figured out what to do about it. Well, that's what I'm worried about with future technology
+
+ Is that this which was so unanticipated?
+
+ If you'd imagine a world when you imagine going up to someone
+
+ In 1984 and pointing to a phone and saying one day that'll be in your pocket. It's gonna ruin your life like what?
+
+ But yeah, one day people are gonna be jerking off to that thing
+
+ You're like what one day people are gonna be watching people get murdered on Instagram
+
+ I was he so many murders on Instagram over the last few months. Really?
+
+ I've never seen a bit of bad timeline me and my friend Tom Segura
+
+ Every morning we text each other the worst things that we find on Instagram. Why for fun? He's a comedian. Okay, both comedians
+
+ That's fun to you. Yeah, this is fucking all right, just ridiculous
+
+ I mean, I mean just crazy car accidents people get gored by bulls and like every like we try to top each other
+
+ So every day he's setting me the most every day when I wake up and I check Tom fuck
+
+ What do you know? Can you explain what's fun about that? Well?
+
+ He's a comic and I'm a comic and comics like chaos. We like we like ridiculous
+
+ Outrageous shit that is just so far beyond the norm of what you experience in a regular day
+
+ just and also the
+
+ understanding of the wide
+
+ Spectrum of human behavior if you're a nice person and you surround yourself with nice people you very rarely see someone get shot
+
+ You very rarely see
+
+ People get stabbed for no reason randomly on the street, but on Instagram you see that every day
+
+ and
+
+ There's something about that. We're just reminds you. Oh
+
+ The we're crazy like the the human species like there's a certain percentage of us that are just off the rails
+
+ And just out there
+
+ Wow, just causing chaos and jumping dirt bikes and landing on your neck and all that stuff
+
+ Yeah, even to hear that makes me like yeah physically like I know that happens of course. Mm-hmm
+
+ And I know like not looking at it doesn't make it not happen, right?
+
+ But it makes me so uncomfortable and I'm happy to watch. Oh, yeah, it makes me uncomfortable too. But yeah, we do it to each other
+
+ every day
+
+ And it's not good
+
+ It's definitely not good, but it's also I'm not gonna stop. It's fun
+
+ But why is it fun? It's fun because it's my friend Tom and we're both kind of the same in that way
+
+ Which just look at that. Look at this that I got look at this and it's just a thing
+
+ We started doing a few months ago. It's just can't stop and
+
+ Instagram has like learned that you do that. So just keep showing you more and more Instagram knows when I my search page is a mess
+
+ When I go to the discover stuff, oh, it's just crazy. But the thing is it shows up in your feed, too
+
+ That's what I understand about the algorithm. It shows it knows you're fucked up
+
+ So it shows up in your feed of things like even if they're they're not people I follow
+
+ But Instagram shows them to me
+
+ Anyway, I heard an interesting thing a few days ago by Instagram and the feed which is if you use it at off hours
+
+ When they have more processing capability available because less people are using it you get better recommendations
+
+ So your feet will be better in like the middle of the night. What is better though?
+
+ Doesn't your feed more addictive to you or whatever, right? So for me better would be more murders more animal attacks
+
+ It's horrible. It's but it's just it seems to know that's what I like
+
+ It seems to know that that's what I interact with. So it's just sending me that most of the time
+
+ Yeah, that probably has all kinds of crazy psychological I'm sure yeah, I'm sure that's also one of the reasons
+
+ Why I want to get rid of it and move away from it. Yeah, so maybe maybe maybe it went too far
+
+ I don't even know if it's too far. But what it is is it's showing me
+
+ the darker regions of
+
+ society of
+
+ Civilization of human behavior, but you think we're about to edit all that out. I wonder if that is a solution
+
+ I really do because I don't think it's outside the realm of possibility
+
+ If we really truly can engineer that like one of the talks about neural link, that's really promising is
+
+ people with spinal cord issues
+
+ Injuries people that can't move their body and
+
+ to being able to hotwire that where
+
+ Essentially it controls all these parts of your body that you couldn't control anymore
+
+ And so that would be an amazing thing for people that are injured for amazing thing for people that are
+
+ You know, they're they're paralyzed. They have all sorts of neurological conditions
+
+ That that is probably one of the first and that's what Elon's talked about as well when the first
+
+ implementations the restoration of sight, you know
+
+ cognitive function enhanced from people that have brain issues
+
+ That's tremendously exciting. Yeah, and like many other technologies, I don't think we can stop neural interfaces
+
+ Nor because of the like great good that's gonna happen along the way, but I don't think we know where it goes
+
+ It's Pandora's box for sure
+
+ And I think when we open it, it's just we're not gonna go back
+
+ Just like we're not gonna go back to no computers without some for sure natural disaster, by the way
+
+ I and I mean, this is a great compliment. You are one of the most neutral people I have ever heard
+
+ Talk about the merge coming. You're just like yeah, I think it's gonna happen. You know, it's be good in these ways bad in these ways
+
+ but
+
+ you seem like
+
+ Unbelievably neutral about it, which is always something I admire
+
+ I try to be as neutral about everything as possible except for corruption
+
+ Which I think it's just like one of the most massive problems with the the way our culture is
+
+ Governed I think corruption is just and the influence of money's it's just a giant terrible issue
+
+ but in terms of like social issues and in terms of
+
+ The way human beings believe and think about things. I try to be as neutral as possible because I think
+
+ The only way to really truly understand the way other people think about things is try to look at it through their mind
+
+ and if you have this inherent bias and this
+
+ You have this
+
+ Like very rigid view of what's good and bad and right and wrong
+
+ I don't think that serves you very well for understanding why people differ
+
+ So I try to be as neutral and as objective as possible when I look at anything
+
+ This is a skill that I've learned is not something I had in 2009 when I started this podcast
+
+ This podcast I started just fucking around with friends and I had no idea what it was
+
+ I mean, there's no way I could have ever known and
+
+ But also had no idea
+
+ What it was gonna do to me and as far as the evolution of me as a human being I am so much nicer
+
+ I'm so much more aware of things. I'm so much more
+
+ Conscious of the way other people think and feel I'm just a totally different person than I was in
+
+ 2009 which is hard to
+
+ Reckon, that's hard to believe. That's really cool. And then but if that it's just an
+
+ inevitable consequence of this
+
+ unexpected
+
+ Education that I've received did the empathy kind of like come on linearly. Yes, and that was not a no
+
+ It just came it came on recognize. Well, first of all came on recognizing that
+
+ The interact the negative interactions on social media that I was doing. They didn't help me
+
+ They didn't help the person and then having compassion for this person that's fucked up or done something stupid
+
+ Like this doesn't it's not good to just dunk on people
+
+ Like it's a there's no benefit there other than to give you some sort of social credit and get a bunch of likes
+
+ It didn't make me feel good. Like that's not good
+
+ and also a lot of psychedelics a
+
+ ton of psychedelic experiences from 2009 on and with everyone a greater understanding of the impact like I had one recently and
+
+ When I had the one recently like the overwhelming
+
+ Message that I was getting through this was that?
+
+ Everything I say and do
+
+ ripples off into all the people that I
+
+ interact with and then if I'm not doing something with at least the goal of
+
+ overall good or overall understanding
+
+ That I'm doing bad and that that bad is a real thing as much as you try to ignore it because you don't interface with
+
+ it instantly and
+
+ You're still
+
+ creating unnecessary negativity and
+
+ That I should avoid that as much as possible. It's like a
+
+ overwhelming message that this cycle this psychedelic experience was giving me and
+
+ And I took it because I was just
+
+ particularly anxious that day about the state of the world particularly anxious about Ukraine and
+
+ Russia and China and the the political system that we have in this country and this
+
+ incredibly
+
+ Polarizing way that the left and the right engage with each other and God just it just seems so
+
+ just
+
+ Tormented and so I was just
+
+ Some days I just get I think too much about it. I just I'm like I need something
+
+ Yeah, crack me out of this. So I I took these psychedelics
+
+ Are you surprised psychedelic therapy has not made?
+
+ From what you thought would happen in the or say the early 2010s tone
+
+ Are you surprised it has not made more progress sort of on a path to legalization as a medical treatment?
+
+ No, no
+
+ I'm not because there's a lot of people that don't want it to be in place and those people have tremendous power over our medical
+
+ system and over a regulatory system and
+
+ Those people have also not experienced these psychedelics
+
+ There's very few people that have experienced profound psychedelic experiences that don't think there's an overall good for those things
+
+ So your problem is you're having
+
+ these laws and these rules
+
+ implemented by people who are completely ignorant about the positive effects of these things and
+
+ if you know the history of
+
+ psychedelic
+
+ Prohibition in this country it all took place during
+
+ 1970 and it was really to stop the civil rights movement and it was really to stop the anti-war movement and they they tried to
+
+ Find a way to make all these things that these people were doing that was causing them to thinking these very different ways
+
+ This tune in turn on drop out that they just wanted to put a fucking halt to that
+
+ What better way to lock everyone who participates in that in cages?
+
+ Find that people are producing it lock them in cages put them in jail for the rest of their life
+
+ Make sure it's illegal arrest people put the bus on television
+
+ Make sure that people are aware and then there's also you connect it to drugs that are inherently dangerous for society and detrimental
+
+ The fentanyl crisis, you know the crack cocaine crisis that we experienced in the 90s like all of those things
+
+ They're under the blanket of drugs
+
+ Psychedelic drugs are also talked about like drugs, even though they have these profound
+
+ spiritual and psychological changes that they
+
+ You know in by the I remember when I was in elementary school and I was in like drug education. They talked about you know
+
+ Marijuana is really bad because it's a gateway to these other things and there's this bad one that bad one heroin whatever and the very end
+
+ Of the line the worst possible thing is LSD
+
+ Did you take LSD and go oh they're lying it's like a like therapy
+
+ was definitely one of the like most important things in my life and I I
+
+ assumed given how
+
+ powerful it was for me like I
+
+ you know, I struggled with like all kinds of anxiety and other negative things and to like watch all of that go away and
+
+ Like that like I traveled to another country for like a week did a few things came back
+
+ Totally different person. Yeah, it's like I've been lied to my whole life. Yeah
+
+ I'm so grateful that this happened to me now talked a bunch of other people all similar experiences
+
+ I assume this was a while ago
+
+ I assumed it was and I was like, you know very interested in what was happening in the US
+
+ I was like
+
+ Particularly like looking at where MDMA and psilocybin were on the path and I was like, alright
+
+ this is gonna get through like this is and this is gonna like change the mental health of
+
+ A lot of people in a really positive way and I am surprised we have not made faster progress there
+
+ But I'm still optimistic. We will well we have made so much progress
+
+ from the time of the 1990s in the 1990s
+
+ You never heard about psychedelic retreats. You never heard about people taking these vacations
+
+ You never heard about people getting together in groups and doing these things and coming back with these profound
+
+ Experiences that they relate to other people and literally seeing people change
+
+ Seeing who they are change seeing people become less less selfish less
+
+ Toxic less mean, you know you and and more empathetic and more understanding. Yeah, it's I
+
+ Mean I can only talk about it from a personal experience
+
+ It's been a radical change in my life as well as again having all these conversations with different people
+
+ I feel so fortunate to be able to do this that I've had so many different conversations with so many different people that think so differently
+
+ and so many exceptional people that have accomplished so many incredible things and you get to sort of
+
+ Understand the way their mind works and the way they see the world the way they interface with things. It's awesome
+
+ It's pretty fucking cool. And that is one of the cooler things about being a human that you can find a way to
+
+ Mitigate all the negative aspects of the monkey body and that there are tools that are in place
+
+ but unfortunately in this very prohibitive society this society of
+
+ prohibition we were
+
+ Denied those and we're denied ones that have never killed anybody which is really bizarre when you know
+
+ Nancy Cotton can still be prescribed. What's the deal with why we can't
+
+ make
+
+ If we leave like why we can't get these medicines that have transformed people's lives like more available
+
+ What's the deal with why we can't stop the the opioid crisis or like?
+
+ Oh, it seems like just an unbelievable crisis first, San Francisco
+
+ You remember when the beginning of the conversation we said that AI
+
+ Will do a lot of good overall good, but also not no harm if we
+
+ legalize drugs all drugs
+
+ That would do the same thing. Would you advocate to legalize all drugs? It's a very complicated
+
+ Question because I think you're gonna have a lot of addicts that wouldn't be addicts
+
+ You're gonna have a lot of people's lives destroyed because it's legal. There's a lot of people that may not be
+
+ Psychologically capable of handling things. Maybe they already have like that's the thing about
+
+ Psychedelics they do not ever recommend them for people that have a slippery grasp on reality as it is
+
+ people that are struggling people that are already on a bunch of medications that allow them just keep a steady state of
+
+ existence in the normal world if you just fucking bombard them with psilocybin who
+
+ Knows what kind of an effect that's gonna have and whether or not they're psychologically too fragile to recover from that
+
+ I mean, there's many many stories of people taking too much acid and never coming back
+
+ Yeah. Yeah, these are like
+
+ A powerful doesn't seem to like begin to cover it, right? Yeah, but there's also
+
+ What is it about humans that are constantly looking to perturb their normal state of consciousness?
+
+ Constantly whether it's we're both drinking coffee
+
+ You know people smoke cigarettes. They they they do all they take Adderall
+
+ They do all sorts of different things to change and enhance their normal state of consciousness
+
+ It seems like whether it's meditation or yoga. They're always doing something
+
+ yeah, but try to get out of their own way or get in their own way or
+
+ distract themselves from the pain of existence and
+
+ It's it seems like a normal part of humans and even monkeys like vervet monkeys get addicted to alcohol
+
+ They get addicted to fermented fruits and alcohol and they become drunks and alcoholics
+
+ It just it's it's what do you think is the deep lesson there? Well, we're not happy
+
+ Exactly, you know
+
+ We're and then some things can make you happy sort of for like a couple of drinks makes you so happy
+
+ For a little bit until you're an alcoholic until you destroy your liver until you crash your car until you're you know
+
+ You're involved in some sort of a violent encounter that you would never be involved with if you weren't drunk
+
+ You know, I love caffeine
+
+ Which clearly is a drug
+
+ Alcohol like I like but I often am like and this is like, yeah, you know
+
+ this is like dolling me and I wish I hadn't had this drink and
+
+ then other stuff like I
+
+ Mostly would choose to avoid
+
+ But that's because you're smart. Um
+
+ And you're probably aware of the pros and cons and and you're also probably aware of how it affects you
+
+ And what's doing good for you and what is detrimental to you?
+
+ But that's a decision that you can make as an informed human being that you're not allowed to make if everything's illegal, right?
+
+ Yeah, right and also when things are illegal
+
+ Criminals sell those things because it's you're not tampering the desire by making it illegal
+
+ You're just making access to it much more complicated. What I was gonna say is if fentanyl is really great. I don't want to know
+
+ Apparently it is apparently it is. Yeah, Peter Berg was on the podcast and he produced that painkiller documentary for Netflix
+
+ Yeah, the the docudrama about the Sackler family. It's an amazing piece
+
+ But he said that he took
+
+ Oxycontin once recreationally and it was like, oh my god, it's amazing
+
+ He's like keep this away from me. It feels so good. Yeah, and that's part of the problem. Is it? Yeah, it will wreck your life
+
+ Yeah, it will it will capture you but it's just so unbelievable
+
+ But the feeling like what how did Lenny Bruce describe it? I think he described heroin as getting a warm hug from God
+
+ No, I think the feeling that it gives you is probably pretty spectacular. I
+
+ don't know if
+
+ Realizing that is gonna solve the problems
+
+ But I do know that
+
+ Another problem that we're not paying attention to is the rise of the cartels and that fact that right across our border where you can walk
+
+ There are these
+
+ enormous
+
+ enormous organizations that make who knows how much money untold
+
+ uncalculable amounts of money
+
+ Selling drugs and bring them into this country and one of the things they do is they they put fentanyl and everything to make things
+
+ Stronger and they do it for like Street Xanax. There's people that have overdosed thinking they're getting Xanax and they fucking die
+
+ Well, that's all yeah, they do it with cocaine. Of course
+
+ They do it with everything
+
+ There's so many things that have fentanyl in them and they're cut with fentanyl because fentanyl is cheap and insanely potent
+
+ And that wouldn't be a problem if things were legal. So do you would you net out towards saying? All right, that's just yeah
+
+ I would I would net out towards that but I would also put into place some serious mitigation
+
+ Efforts like in terms of counseling drug addiction and ibogaine therapy, which is another thing
+
+ That's someone was just telling me about how transformative this was for them
+
+ yeah, I haven't experienced that personally, but I began for many of my friends that have had pill problems and I have a friend my
+
+ friend Ed Clay who
+
+ Started an ibogaine center in Mexico because he had an injury and he got hooked on pills and he couldn't kick it
+
+ Did I begin gone one time done one time done 24-hour super uncomfortable experience a horrible experience, right?
+
+ Yeah, it's supposed to be not very recreational not exactly something you want to do on the weekend with friends
+
+ it's something you do because you're fucked and you need to figure out how to get out of this fuckness and
+
+ That like we think about how much money is spent on rehabs in this country. And what's the relapse rate?
+
+ It's really high. I mean, I have many friends that have been to rehab for drug and alcohol abuse and
+
+ Quite a few of them went right back to it quite a few. It doesn't seem to be that effective
+
+ It seems to be effective to people
+
+ when people have like they really hit rock bottom and they have a strong will and then they get involved in a program some sort
+
+ of a 12-step program or some sort of a narcotics anonymous program and then they
+
+ they get support from other people and they eventually build this foundation of other types of behaviors and
+
+ Ways to find other things to focus on to the whatever aspect of their mind that allows them to be addicted to things
+
+ Now it's focused on exercise meditation yoga, whatever it is
+
+ That's your new addiction and it's a much more positive and beneficial addiction. But the reality of the physical addiction is
+
+ That there are mitigation efforts like there's so many people that have taken psilocybin and completely quit drugs
+
+ Completely quit cigarettes completely quit a lot because they realize like oh, this is what this is. This is why I'm doing this
+
+ Yeah, that's that's why I was more optimistic that the world would have made faster progress towards acceptance of
+
+ You hear so many stories like this. Mm-hmm. So I would say like, all right, clearly a lot of our existing mental health treatment
+
+ At best doesn't work. Clearly our addiction programs are
+
+ Ineffective if we have this thing that in every scientific study or most scientific studies we can see is
+
+ Delivering these like unbelievable results
+
+ It's gonna happen. Yeah, and
+
+ It yeah, I still am excited for it. I still think it'll be a transformative positive development, but
+
+ It'll change politics
+
+ It'll it'll absolutely change the way we think of other human beings
+
+ It'll absolutely change the way we think of society and culture as a whole
+
+ It'll absolutely change the way people interact with each other
+
+ If it's if it becomes legalized and it's slowly becoming legalized like think of marijuana, which is like, you know, the gateway drug
+
+ Marijuana is now legal recreationally in how many states?
+
+ 23 and and then medically and many more and
+
+ You know, it's really easy to get a license medically in California. He's just I got one in
+
+ 1996 he used to be able to just go somewhere and go I get a headache
+
+ That's it yeah, I get headaches I'm in pain a lot, you know, I do a lot of martial arts. I'm always injured
+
+ I need some medication. I don't like taking pain pills BAM. You got a legal prescription for weed
+
+ I used to have to go to Englewood to get it. I used to have to go to the hood to the Englewood Wellness Center and
+
+ I was like, this is crazy. Like marijuana is now kind of sort of legal. Yeah, and then in
+
+ 2016 it became legal in California
+
+ Recreationally and it just changed everything
+
+ I have all these people that were like right-wing people that were taking edibles to sleep
+
+ You know, I'm like this is because now that it's legal. They thought about it in a different way and
+
+ I think that that drug which is a fairly mild psychedelic also has
+
+ Enhancing effects it makes people more compassionate. It makes people more kind and friendly
+
+ It's sort of the opposite of a drug that that enhances violence. It doesn't enhance violence at all
+
+ It's just it does it like alcohol does that cocaine does that to say a thing that'll make me very unpopular?
+
+ I hate marijuana. It does not sit well with me at all. What does it do to you that you don't like?
+
+ Ah, it makes me tired and slow for a long time after it. Mm-hmm. I think also there's biological
+
+ Variabilities right like some people like my wife. She does not do well with alcohol
+
+ She can get drunk off one drink, but it's biological
+
+ Like she she got some sort of a genetic - I forget what it's called something about Billy Rubin like some something
+
+ Her body just doesn't process alcohol very well. So she's a cheap date
+
+ Oh, all I meant is that genetically I got whatever the mutation is that makes it an unpleasant experience
+
+ Yeah, what I was saying is for me, that's the opposite alcohol doesn't bother me at all
+
+ I could I could drink three four drinks and I'm sober in 20 minutes
+
+ Hmm, and my body just my liver just like a blast just goes right through it. I can sober up real quick, but I
+
+ Also don't need it. Like I'm doing sober October the whole month. I don't feel good. Yeah did shows last night great
+
+ No problems that not having alcohol doesn't seem to bother me at all, but I do like it
+
+ I do like a glass of wine. It's a nice thing at the end. Yeah, I like it
+
+ speaking of that and
+
+ Psychedelics in general I you know many cultures have had a place for some sort of psychedelic
+
+ Time in someone's life or rite of passage, but as far as I can tell most of them are under
+
+ There's some sort of ritual about it and I don't worry that
+
+ and I think these
+
+ These things are so powerful that I worry about them. Just being like kind of
+
+ Yeah used all over the place all the time. Yeah, and I
+
+ Hope that we as a society because I think this is not gonna happen. Even if it's slow find a way to treat this with
+
+ The respect that it needs
+
+ Yeah, we'll see how that goes agreed. Yeah, I think set and setting is very important and
+
+ Thinking about what you're doing before you're doing it and why you're doing it
+
+ Like I was saying the other night when I had this psychedelic experience. I was just like
+
+ Yeah, sometimes I just think too much about the world and that it's so fucked and you have kids and you wonder like what?
+
+ What kind of a world are they gonna grow up in and what is and it was just one of those days where I was?
+
+ Just like god, there's so much anger and there's so much this and that and then it's just
+
+ It took it away from me the rest of the day like that night
+
+ I was so friendly and so happy and I just wanted to hug everybody. I just really get I got it
+
+ I go. Oh my god, that's not
+
+ Thinking about it wrong. Do you think the anger in the world is way higher than it used to be or we just
+
+ It's like all these dynamics from social media we were talking about
+
+ I think the dynamics in social media certainly exacerbated anger in some people, but I think anger in the world is just a part of
+
+ Frustration inequality
+
+ Problems that are so clear but are not solved and all the issues that people have I mean
+
+ It's not a coincidence that a lot of the mass
+
+ Violence that you're seeing in this country mass looting and all these different things are being done by poor people
+
+ Do you think AGI will be a equalizing force for the world or further inequality?
+
+ I think it would be it depends on how it's implemented
+
+ I my concern is again what we're talking about before with some sort of a neural interface
+
+ That it will increase your ability to be productive to a point where you can control resources so much more than anyone else
+
+ and you will be able to advance your
+
+ Your economic portfolio and your influence in the world through that your amount of power that you can acquire
+
+ It will before the other people can get involved because I would imagine
+
+ Financially, it'll be like cell phones in the beginning. You remember when?
+
+ The movie Wall Street when he had that big brick. Oh, yeah phone. It's like look at him
+
+ He's out there on the beach with a phone. That was crazy
+
+ No one had one of those things back then and they were so rare
+
+ I got one in 1994 when I first moved to California and I thought I was living in the fucking giant thing
+
+ No, it was a Motorola StarTAC. That was a cool phone. I actually had one on in my car in
+
+ 1988 I was one of the first people to get a cell phone
+
+ I got one in my car and it was great because my friend my friend Bill Blumenreich who runs the comedy connection
+
+ He would call me because he knew he could get a hold of me like someone got sick or fell out
+
+ I could get a gig because he could call me so I was in my car. He's like Joe. What are you doing?
+
+ Do you have a spot tonight? And I'm like, no, I'm open. He's like fantastic. And so he'd give me gigs
+
+ So I got a bunch of gigs through this phone where it kind of paid itself
+
+ But I got it just because it was cool like I could drive down the street and call people dude
+
+ I'm driving and I'm calling you like it was nuts to be able to drive and I had a little antenna little squirrely
+
+ I with a little tail antenna on my car on the roof of the car, but
+
+ Now everyone has one
+
+ You know, you can go to a third world country and you know people in small villages have phones. It's it's super common
+
+ It's everywhere essentially more people have phones then don't have folks. There's more phones than there are human beings
+
+ Which is pretty fucking wild and I think that that
+
+ initial cost problem
+
+ It's going to be prohibitively expensive
+
+ Initially and the problem is the wealthy people are going to be able to do that
+
+ Yeah, and then the real crazy ones that wind up getting the holes drilled in their head
+
+ And if that stuff is effective, maybe it's not Jenna. Maybe there's problems with generation one, but generation two is better
+
+ There's gonna be a time where you have to enter into the game
+
+ There's gonna be a time where you have to sell your stocks like you don't don't wait too long. Hang on there go and
+
+ Once that happens. My concern is that the people that have that will have
+
+ Such a massive advantage over everyone else that they have the gap between the haves and have-nots
+
+ Will be even further and it'll be more polarized. This is something I've changed my mind on I you know
+
+ Someone it open. I said to me a few years ago
+
+ Like you you really can't just let some people merge without a plan because it could be such an incredible
+
+ Distortion of power and we're gonna have to have some sort of societal discussion about this. Yeah, that seems real
+
+ That seems like yeah
+
+ Especially if it's as effective as
+
+ AGI is or as a excuse me chat GPT is chat GPT is so amazing
+
+ When you enter into it information you ask it
+
+ Questions and it can give you answers and you could ask it to code a website for you and it doesn't instantly and it solves
+
+ Problems that literally you would have to take decades to try to solve and it gets to it right away
+
+ This is the dumbest it will ever be. Yeah, that's what's crazy. That's what's crazy
+
+ So imagine something like that, but even more advanced multiple
+
+ stages of improvement and innovation forward and then it
+
+ Interfaces directly with the mind, but it only does it with the people that can afford it
+
+ Yeah, and those people are just regular humans. So they haven't been
+
+ There's they haven't been enhanced. We haven't we haven't evolved
+
+ Physically, we still have all the human reward systems in place. We're still basically these territorial primates and
+
+ Now we have you know, you just imagine some fucking psychotic billionaire who now
+
+ Gets this implant and decides to just completely hijack our financial systems
+
+ acquire all the resources
+
+ Set into place regulations and influences that only benefit them and then make sure that they can control it from there
+
+ How much do you think this actually though even requires like a physical?
+
+ implant or like a physical merge versus just some people have access to
+
+ GPT-7 and can spend a lot on the inference compute for it and some don't I
+
+ Think that's going to be very transformative, too. But my thought is that once
+
+ I
+
+ mean we have to think of what are the
+
+ possibilities of a neural enhancement if you think about the human mind and how the human mind interacts with the world how you
+
+ interact with language and thoughts and facts and
+
+ something that is
+
+ Exponentially more powerful than that, but it also
+
+ Allows you to use the same emotions the same ego the same desires and drives
+
+ Jealousy lust hate anger all of those things
+
+ but with this
+
+ godlike power
+
+ when one person can read minds and other people can't when one person has a
+
+ completely accurate forecast of all of the trends in terms of stocks and yeah and
+
+ Resources and commodities and they can make choices based on those. I totally see all of that. The only thing I'm I
+
+ feel a little confused about is
+
+ You know human
+
+ Talking and listening bandwidth or typing and reading bandwidth is not very high
+
+ But it's high enough where if you can just say like tell me everything that's gonna happen in the stock market if I want to
+
+ Go make all the money. What should I do right now?
+
+ And then just shows you on the screen
+
+ Even without a neural interface. You're kind of a lot of the way
+
+ Now you're describing sure with with stocks
+
+ or with like, you know, tell me how to like
+
+ Invent some new technology that will change the course of history. Hmm. Yeah
+
+ Yeah, all those things like I think what somehow matters is access to massive amounts of computing power
+
+ Especially like differentially massive amounts maybe more than the interface itself
+
+ I think that certainly is going to play a massive factor in the
+
+ Amount of power and influence a human being has having access to that
+
+ my concern is that what neural interfaces are going to do is
+
+ Now you're not a human mind
+
+ Interacting with that data now you are some
+
+ massively in advanced version of what a human mind is and
+
+ It has
+
+ just profound
+
+ Possibilities that we can't even imagine we can imagine but we can't yeah
+
+ We can't truly conceptualize them because we don't have the context. We don't have that ability in that possibility
+
+ Currently we could just we can just guess but when it does get implemented
+
+ That you're dealing with a completely different being
+
+ The
+
+ Only true thing as I could say is I don't know yeah
+
+ do you
+
+ Wonder why it's you. Do you ever think like how am I at the forefront of this?
+
+ spectacular change
+
+ um
+
+ Well, first of all, I think it's very much like I
+
+ Think this is you could make the statement for many companies, but none. Is it as
+
+ true for as opening eyes like
+
+ The CEO is far from the most important person in the company like in our case
+
+ There's a large handful of researchers each of which are individually more critical to the success
+
+ We've had so far and that we will have in the future than me
+
+ but even
+
+ that and
+
+ I bet those people like really were like hmm. This is a weird to be them
+
+ but
+
+ It's certainly weird enough for me that it like ups my simulation hypothesis probability somewhat
+
+ hmm
+
+ What when if you had to give a guess
+
+ what
+
+ When you think about the possibility of simulation theory, what what what kind of percentage do you I've never not had any number on it
+
+ like
+
+ You know, it's see every argument that I've read written explaining why it's like super high probability that all seems reasonable to me
+
+ Feels impossible to reason about though
+
+ What about you? Yeah, same thing. I go maybe but it's still what it is
+
+ And I have to that's that's the main thing is I think it doesn't matter. I think it's like, okay
+
+ It kind of it kind of Matt. It definitely matters I guess but there's not a way to know
+
+ Currently and also what what matters though?
+
+ well
+
+ if if this really is I mean our inherent understanding of life is that we are these biological creatures that
+
+ Interact with other biological creatures
+
+ we we mate and breed and that this creates more of us and
+
+ That hopefully as society advances and we acquire more information more understanding and knowledge
+
+ This next version of society will be superior to the version that preceded it
+
+ Which is just how we look at society today. Nobody wants to live in
+
+ 1860 where you died of a cold and there's no cure for infections. It's much better to be alive now. You're like
+
+ just
+
+ inarguably, there's
+
+ Unless you really do prefer the simple life that you see on Yellowstone or something
+
+ Like there's it's like what we're dealing with now
+
+ We're in term first of all access to information the the lack of ignorance if you're if you choose
+
+ to seek out information you have so much more access to it now than ever before that's so cool and
+
+ Overtime like if you go back to the beginning of written history to now
+
+ One of the things that is clearly evident is the more access to information the better choices people can make they don't always make better
+
+ Choices, but they certainly have much more of a potential to make better choices with more access to information
+
+ You know
+
+ We think that this is just this biological thing, but imagine if that's not what's going on
+
+ Imagine if this is a program and that you are just consciousness that's connected to this thing
+
+ that's creating this experience that is
+
+ Distinguishable from what we like to think of as a real biological experience from carbon-based life forms
+
+ interacting with solid physical things in
+
+ the real world
+
+ It's still unclear to me what I'm supposed to do differently or think yeah, there's no answer. Yeah, you're a hundred percent, right?
+
+ What can you do differently?
+
+ I mean if you exist as if it's a simulation if you just live your life as if it's a simulation is that I
+
+ Don't know if that's the solution, you know, I don't I think I mean it's real to me no matter what. Mm-hmm. It's real
+
+ Yeah
+
+ I'm gonna live it that way
+
+ Mm-hmm
+
+ And that will be the problem with an actual simulation if and when it does get implemented
+
+ Yeah, if we do create an actual simulation that's indistinguishable from real life
+
+ like
+
+ What are the rules of the simulation?
+
+ How does it work is that simulation fair and equitable and much more reasonable and peaceful
+
+ This is there no war in that simulation. Should we all agree to
+
+ hook up to it because we will have a completely different experience in life and all the the the angst of crime and
+
+ Violence and the things we truly are terrified of there will be non-existent in this simulation
+
+ Yeah, I mean if we keep going it seems like if you just look if you just extrapolate from where VR is now
+
+ Did you see the podcast that?
+
+ Lex Friedman did with Mark Zuckerberg. I saw some clips, but I haven't got to watch all this are right
+
+ So they're they're essentially using like very realistic physical avatars in the metaverse
+
+ like that's
+
+ That's step one. That's maybe that's step three. Yeah, maybe it's a little bit on point. Yeah, maybe it's Atari
+
+ Maybe you're playing Space Invaders now
+
+ But whatever it is, it's on the path to this thing that will be indistinguishable that seems inevitable
+
+ Those two things seem inevitable to me the inevitable thing to me is that we will create a life-form. That is an artificial
+
+ Intelligent life-form that's far more advanced than us and once it becomes sentient
+
+ it will be able to create a far better version of itself and then as it has
+
+ Better versions of itself. It will keep going and if it keeps going it will reach God-like
+
+ capabilities the complete
+
+ understanding of every aspect of the universe and the
+
+ Structure of it itself how to manipulate it how to travel through it how to communicate
+
+ And that you know if we keep going if we survive a hundred years a thousand years ten thousand years
+
+ And we're still on this same
+
+ technological exponential increasing and capability path
+
+ That's God
+
+ We become something like a god and that might be what we do that might be what?
+
+ Intelligent curious innovative life actually does it creates something that creates the very universe that we live in
+
+ Like creates the next simulation and then yeah, I mean maybe that's the birth of the universe itself is creativity and intelligence and
+
+ That it all comes from that. I just have this joke about the Big Bang
+
+ Like what if what if the Big Bang is just a natural thing like humans get so advanced that they create a Big Bang machine
+
+ And then you know
+
+ We're so autistic and riddled with Adderall that we'd have no
+
+ Concept or worry of the consequences and someone's like I'll fucking press it and they press it and boom
+
+ We start from scratch every 14 billion years and then that's what a Big Bang is. I
+
+ Mean I don't know where it goes
+
+ But I do know that if you looked at the human race from afar if you were an alien life-form completely detached from
+
+ Any understanding of our culture any understanding of our biological?
+
+ Imperatives and you just looked at like what is this one dominant species doing on this planet?
+
+ It makes better things. That's what it does that I agree goes to war it
+
+ You know, it steals it does a bunch of things that it shouldn't do it pollutes does all these things that are terrible
+
+ but it also
+
+ Consistently and constantly creates better things whether it's better weapons going from the catapult to the rifle to the
+
+ Cannonballs to the rocket ships to the hypersonic missiles to nuclear bombs. It creates better and better and better things
+
+ that's the number one thing it does and it's never happy with what it has and the you
+
+ You add that to consumerism, which is baked into us and this desire this constant desire for new or better things
+
+ Well that fuels that innovation because that gives it the resources that it needs to consistently innovate and constantly create newer and better things
+
+ Well where if I was an alien life-form, I was like, oh, what is it doing? It's trying to create better
+
+ Well, what is the forefront of it technology?
+
+ technology is the most transformative the most spectacular the most interesting thing that we create and
+
+ The most alien thing the fact that we just are so comfortable that you can facetime with someone in New Zealand
+
+ Like instantly we can we can get used to anything pretty badly, you know anything take it for granted. Oh, mm-hmm
+
+ Yeah, and well if you were an alien life-form and you were looking at us, you're like, what is it doing?
+
+ Oh keeps making better things. It's gonna keep making better things
+
+ Well, if it keeps many making better things, it's gonna make a better version of a thinking thing and it's doing that right now
+
+ And you're a part of that. It's gonna make a better version of a thinking thing with that better version of a thinking thing
+
+ It's basically now in the amoeba stage. It's in the you know, small multicellular life-form stage
+
+ well, what if that version becomes a fucking Oppenheimer what if that version because like if it scales up so far
+
+ Yeah that it becomes so hyper intelligent that it is
+
+ completely alien to any other intelligent life-form that has ever existed here before and
+
+ It constantly does the same thing makes better and better versions of it
+
+ Well, where does that go? It goes to a god it goes to something like a god and maybe God is a real thing
+
+ but maybe it's a real consequence of this process that human beings have of
+
+ consistently constantly innovating and
+
+ Constantly having this desire to to push this envelope of
+
+ creativity and of technological power
+
+ I guess it comes down to maybe a definitional disagreement about what you mean by it
+
+ It becomes a god like I can totally I
+
+ Think it becomes something much like unbelievably much smarter and more capable than we are
+
+ And what does that thing become if that keeps going?
+
+ And maybe the way you mean it as a godlike force is that that thing can then go create can go simulate in a universe
+
+ Yes, okay that I that that that I can resonate. Yeah
+
+ I think whatever we create will still be subject to the laws of physics in this universe, right?
+
+ Yeah, maybe that is the overlying fabric that God exists in
+
+ The God word is a fucked up word because it's just been so co-opted
+
+ but you know, I was having this conversation with Stephen Meyer who is
+
+ He's a physicist. I believe he's a physicist is and he's also religious
+
+ It was a real weird conversation very fascinating conversation. What kind of religion in Christ?
+
+ Yeah, he even believes in the resurrection which I found very interesting
+
+ but you know, it's it's
+
+ Interesting communicating with him because he has these little
+
+ Predesigned speeches that he's encountered all these questions so many times that he has these very well
+
+ Worded very articulate responses to these things that I sense are like bits
+
+ You know
+
+ Like when I'm talking to a comic in like a comic like they all get this bit on train travel and they just tell you
+
+ They tell you the bit like that's what it's like
+
+ He has bits on why he believes in Jesus and why please and very very intelligent guy, but I propose the question
+
+ When we're thinking about God, what if the instead of God created the universe? What if the universe is God and
+
+ The creative force of all life and all everything is the universe itself
+
+ Instead of thinking that there's this thing that created this is like close to a lot of Eastern religions
+
+ I think yeah easier thing to wrap my mind around than any other religions for me and that is
+
+ The I when I do psychedelics I get that feeling I get that feeling like there's this
+
+ insane soup of
+
+ like innovation and and and
+
+ Connectivity that exists all around us, but our minds are so primal. We're this fucking thing
+
+ you know, this is this is what we used to be and
+
+ That what is that? It's um, there's a guy named Shane against the machine. Who's this artist who created this?
+
+ It's a chimpanzee skull that he made out of zildjian symbols. So I see that it's got a little zildjian
+
+ Lodro, he left that on the back and he just made this dope art piece. Cool. It's just cool
+
+ But I wonder if our limitations are
+
+ That we are an advanced version of primates. We're still we still have all these things that we talked about jealousy envy anxiety lust
+
+ anger fear violence all these things that are detrimental but were
+
+ important for us to survive and get to this point and that as
+
+ time goes on we will figure out a way to engineer those out and that as
+
+ Intelligent life becomes more intelligent and we create a version of intelligent life. That's far more intelligent than what we are
+
+ We're far more capable of what we are if that keeps going if it just keeps going
+
+ I mean chat GPT imagine if you go to chat GPT and go back to Socrates and
+
+ Show him that explained in that and show him a phone and you know and put it on a phone and have access to it
+
+ He'd be like what have you done? Like what is this?
+
+ Like I bet he'd be much more impressed with the phone than chat GPT. I
+
+ Think you'd be impressed with the phones abilities to communicate for sure
+
+ But then the access to information would be so profound being back then
+
+ I mean look you're you're dealing with a time when Galileo was
+
+ Put under house arrest because he had the gumption to say that the earth is not the center of the universe
+
+ Well now we fucking know it's not like we have satellites. We have we send
+
+ Literal cameras into orbit take photos of things
+
+ No, I totally get that
+
+ I just meant that we kind of know what it's like to talk to a smart person and so in that sense
+
+ You're like, oh, all right
+
+ I didn't think you could like talk to a not person and have them be person like in some responses some of the time
+
+ Mm-hmm, but a phone man
+
+ If you just like woke up after 2,000 years and there was like a phone that would yeah
+
+ No model for that. You didn't get to get there gradually. Yeah. No eating it
+
+ My friend Eddie Griffin has a joke about that
+
+ He's about how Alexander Graham Bell had to be doing coke
+
+ He goes cuz only someone on coke would be like I want to talk to someone who's not even here
+
+ That's what phone is that something coke makes people want to do I don't know I've never done coke
+
+ But I would imagine it is I mean, it's just me like it just makes people like
+
+ Angry and chaotic. Yeah a little that but they're also have ideas, you know
+
+ Yeah
+
+ I mean but back to this. Where does it go if it keeps going?
+
+ It has to go to some impossible
+
+ Level of capability. I mean just think of that that I believe is yeah
+
+ well, we're able to do now with nuclear power and nuclear bombs and and
+
+ in the hypersonic missiles and that's just the insane
+
+ physical things that we've been able to take out of the human creativity and imagination and through engineering and
+
+ technology implement these physical devices that are
+
+ Indistinguishable from magic if you brought them 500 years ago. Yeah, I think I think it's quite remarkable
+
+ It's okay. Keep going. Keep going a hundred thousand years from now if we're still here if something like us is still here
+
+ What can it do?
+
+ In the same way that I don't think Socrates would have predicted the phone. I can't predict that no, I'm probably totally off
+
+ But maybe that's also why comets exist
+
+ Maybe it's a nice reset just like leave a few around
+
+ Give them a distant memory of the utopian world that used to exist
+
+ Have them go through thousands of years of barbarism of horrific behavior and then reestablish society
+
+ I mean, this is the Younger Dryas impact theory that allow
+
+ 11,800 years ago at the end of the Ice Age that we were hit by multiple comments that caused the instantaneous
+
+ Melting of the ice caps over North America and everything flooded
+
+ Everything's the the source of the flood myths from the Epic of Gilgamesh in the Bible and all those things and that this and also
+
+ There's physical evidence of it when they do core samples. There's high levels of iridium
+
+ Which is very common in space very rare on earth
+
+ There's micro diamonds that are from impacts and that it's like 30% of the earth like that has evidence of this
+
+ And so it's very likely that these people that are proponents of this theory are correct and that this is why they find these ancient
+
+ Structures that they're now dating to like 11,000 12,000 years ago when they thought people are hunter-gatherers
+
+ And they go, okay, maybe our timeline is really off and maybe this physical evidence. Yeah, I've been watching that with interest
+
+ Yeah, Randall Carlson is the greatest guy to pay attention to Randall. Yeah, he's kind of dedicated his whole life to it
+
+ Which by the way happened because of a psychedelic experience
+
+ he was on acid once and he was looking at this immense Canyon and he had this vision that it was created by
+
+ instantaneous erosions of the the polar caps and that it just
+
+ washed this wave of impossible water through the the earth it just caught these paths and
+
+ now there seems to be actual physical evidence of that that is probably what took place and
+
+ That you know, we we're just the survivors and that we have re-emerged in that society and human civilization
+
+ Occasionally gets set back to a primal place. Yeah, you know, who knows if you're if you're right that what happens here is we kind of
+
+ Edit out all of the impulses in ourselves that we don't like and we get to that world seems kind of boring
+
+ So maybe that's when we have to make a new simulation to watch people
+
+ Think they're going through some drama or something or maybe it's just
+
+ We get to this point where we have this power
+
+ But the haves and the have-nots the divide is too great and that people did
+
+ get a hold of this technology and use it to oppress people who didn't have it and that the
+
+ We didn't mitigate the human
+
+ biological
+
+ Problems the reward systems that we had I got to have more you got to have. Yeah
+
+ So this is this sort of natural inclination that we have for competition and that someone hijacks that I
+
+ Think this is gonna be such a hugely important issue to get ahead of before the first people push. Yeah
+
+ What do you think about?
+
+ Like when Elon was causing calling for a pause on AI
+
+ He was like starting an AGI company while he was doing that
+
+ Yeah
+
+ Didn't he start it like after he was calling for the pause?
+
+ I think before but I don't remember in any case of one of those you can't beat him join them things. Um, I
+
+ Think the instinct of saying like we've really got to figure out how to
+
+ Make this safe and good and like widely good is really important, but I think
+
+ Calling for a
+
+ Pause is like naive it at best. I kind of like I
+
+ Kind of think you can't make progress on the safety part of this as we mentioned earlier by sitting like in a room and thinking
+
+ Hard you've got to see where the technology goes
+
+ You've got to have contact with reality and then when you like but we're trying to like make progress towards AGI
+
+ Conditioned on it being safe and conditioned on it being beneficial
+
+ and so when we hit any kind of like block we try to find a technical or a
+
+ Policy or a social solution to overcome it that could be about the limits of the technology and something not working and you know
+
+ Hallucinates or it's not getting smart or whatever or it could be there's this like safety issue
+
+ We've got to like redirect our resources to solve that but it's all like
+
+ For me, it's all this same thing of like we're trying to solve the problems that emerge at each step as we get
+
+ we're trying to go and
+
+ You know, maybe you can call it a pause if you want if you pause on capabilities to work on safety
+
+ but in practice, I think the field has gotten a little bit wander on the axle there and
+
+ Safety and capabilities are not these two separate things. This is like I think one of the dirty secrets of the field
+
+ it's like we have this one way to make progress, you know, we can understand and push on deep learning more and
+
+ That can be used in different ways, but it's I think it's that same technique that's gonna help us eventually
+
+ Solve the safety. Um that all of that said
+
+ as like a human
+
+ Emotionally speaking I super understand why it's tempting to call for a pause
+
+ Happens all the time in life, right? This is moving too fast, right? I we got a pause here
+
+ Yeah
+
+ How much of a concern is it in terms of national security that we are the ones?
+
+ That come up with this first
+
+ Well, I would say that if an
+
+ Adversary of ours comes up with it first and uses it against us and we don't have
+
+ Some level of capability that feels really bad. Yeah, but I hope that what happens is this can be a moment where?
+
+ To tie it back to the other conversation
+
+ We kind of come together and overcome our base impulses and say like let's all do this as a club together
+
+ That would be better. That would be nice and maybe
+
+ through
+
+ AGI and through the implementation of this technology it will make translation
+
+ Instantaneous and easy. So well that's already happened, right?
+
+ But I mean it hasn't happened in real time the point where you can
+
+ Accurately communicate very soon. Very soon. Very soon. Yeah, I
+
+ I do think for what it's worth that
+
+ The world is gonna come together here
+
+ I don't think people have quite realized the stakes
+
+ But this is like I don't think this is a geopolitical if this comes down to like a geopolitical fight or race
+
+ I don't think there's any winners and
+
+ So I'm optimistic about people coming together
+
+ Yeah, I am too. I mean, I think
+
+ Most people would like that if you asked the vast majority of the human beings that are alive
+
+ Wouldn't it be better if everybody got along?
+
+ You know, maybe you can't
+
+ Go all the way
+
+ There and say we're just gonna have one global effort
+
+ But I think at least we can get to a point where we have one global set of rules safety standards
+
+ Organization that makes sure everyone's following the rules. We did this for atomic weapons
+
+ And similar things in the world of biology. I think we'll get there. That's a good example the nuclear weapons
+
+ because
+
+ We know the destructive capability of them and because of that we haven't detonated one since 1947
+
+ Pretty incredible. Yeah, pretty incredible other than tests. Yeah, we haven't used one in
+
+ Terms of war 45 or 47. When was the end of the World War two?
+
+ Wasn't it 47?
+
+ When they dropped the bombs, I think that was 45. I was wondering if there's more after that. I didn't know about no
+
+ It might be for I think it was
+
+ 45 so from 1945, which is pretty extraordinary. That's right. It's remarkable. I would not have predicted that I think yeah, I could teleport back to
+
+ 45 no, I would have thought oh my god. This is just gonna be something that people do just launch bombs on cities
+
+ yeah, I mean I would have said like
+
+ We're not gonna survive this for very long and there was a real fear of that for sure
+
+ It's pretty extraordinary that they've managed to stop that this this threat of mutually assured destruction
+
+ Self-destruction is to destruction universe. I mean the whole world we have enough weapons to literally make the world inhabit of uninhabitable
+
+ and
+
+ Because of that we haven't done it
+
+ Which is a good side. I think that I was gonna say I think that should give some hope. Yeah, it should I mean
+
+ Steven Pinker gets a lot of shit for his work because he just like sort of downplays
+
+ Violence today, but it's not that he's downplaying violence today
+
+ He's just looking at statistical trends if you look at the reality of life today versus life a hundred years ago 200 years ago
+
+ It's far more safer. Why do you think that's a controversial thing?
+
+ Like why can't someone say sure we still have problems, but it's getting better because people don't want to say that
+
+ They they're especially people who are activists. They're they're completely
+
+ Engrossed in this idea that there's problems today and these problems are huge and there's there's Nazis and there's but no one's saying
+
+ There's not huge problems, right? No one's saying there's not but just to say things are better today. Yeah, I guess that people
+
+ They just don't want to hear that right?
+
+ But those are also people that are addicted to the problems the problems become their whole life solving those problems become their identity
+
+ being involved in the solutions or what they believe their solutions to those problems become their life's work and
+
+ Someone comes along actually life is safer than it's ever been before
+
+ Interactions and police say that's deeply invalidated. Yeah
+
+ But also true, you know, and again, what what is the problem? Why paint? Why can't people recognize that? Well, it's
+
+ the primate brain
+
+ I mean
+
+ It's all the the problems that we highlighted earlier and that that might be the solution
+
+ To overcoming that is through technology and that might be the only way we can do it without a long period of evolution
+
+ because biological evolution is so relatively slow in
+
+ comparison to technological evolution and that that might be our bottleneck was that we just still are dealing with this primate body and
+
+ that something like general artificial general intelligence or something like some implemented form of
+
+ engaging with it whether it's
+
+ Neuralink something that shifts the way the mind interfaces with other minds
+
+ Isn't it wild speaking of biological evolution? There will be people I think who were alive for
+
+ The invention or discovery whatever you want to call it of the transistor
+
+ There will also be alive for the creation of AGI one human lifetime. Yeah, you want to know a wild one from the
+
+ Implementation from Orville and Wilbur Wright flying the plane. It was less than 50 years for someone dropped an atomic bomb out of it
+
+ That's wild
+
+ That's crazy less than 40 right that's crazy. Yeah bananas I
+
+ Mean 60 something years to land on the moon nuts nuts
+
+ Where you know, where is it going? I mean, it's just guesswork
+
+ But it's interesting for sure. I mean, it's the most fascinating thing of our time for sure. It's fascinating
+
+ Intellectually, and I also think it is one of these things that will be
+
+ Tremendously net beneficial. Yeah, like
+
+ You know, we've been talking a lot about
+
+ problems in the world and I think that's just always a nice reminder of
+
+ How much we get to improve and we're gonna get to improve a lot and this will be I think this will be the most
+
+ powerful tool
+
+ We have yet created to help us go go do that. I
+
+ think you're right and
+
+ This is an awesome conversation. Thanks for having us really really really appreciate it. And thanks for everything. Keep us posted and we'll do
+

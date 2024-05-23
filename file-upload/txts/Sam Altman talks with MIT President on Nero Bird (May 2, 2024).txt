@@ -1,0 +1,2620 @@
+thank you both for being here um they
+
+probably neither of them probably need
+
+an introduction but of course uh for the
+
+record uh Sally corn became mit's 18th
+
+president in January 1st 2023 a cell
+
+biologist who 8year tenure at duk's
+
+University as Provost earned her
+
+reputation as a brilliant administrator
+
+a creative Problem Solver a leading
+
+advocate for faculty excellence and
+
+student well being and in her first year
+
+of MIT amongst many initiatives she has
+
+focused as well on AI and has testified
+
+mit's efforts to make sure that AI is
+
+broadly beneficial for society uh Sam
+
+Alman is an entrepreneur an investor a
+
+programmer he co-founded open AI in 2015
+
+he is their CEO and open AI is an AI
+
+research and deployment company whose
+
+mission is to ensure that artificial
+
+general intelligence benefits all of
+
+humanity Sam and Sally thank you for
+
+being here I'm going to turn it over to
+
+both of you great thanks so much
+
+[Applause]
+
+Mark so uh welcome I will say I think
+
+this is the most uh popular event I've
+
+seen since I arrived at MIT um and I
+
+should say that the questions I'm asking
+
+were uh submitted by students and sort
+
+of gone through and curated but this
+
+really reflects the Curiosity of our
+
+community here and enthusiasm for you
+
+being here so let me start with oh sorry
+
+thank you for having me absolutely um so
+
+let me let me just dive in so according
+
+to columnist Uh Kevin Rose and others in
+
+some circles the question is what is
+
+your P Doom it's a common Icebreaker or
+
+so I'm told most of you probably know
+
+that P Doom or probability of Doom is
+
+calculated on a scale from 1 to 100 and
+
+the higher the score you give the more
+
+strongly you believe we end up in a
+
+doomsday scenario where AI eliminates
+
+all human life so Sam just to break the
+
+ice what is your
+
+P um I I I think it's sort
+
+of the badly formed question um hey I'm
+
+glad I didn't take any responsibility I
+
+I think it's like a great question for
+
+people that uh it's a great way to like
+
+sound smart and important and it's like
+
+I I have as much fun pontificating on
+
+numbers as anybody else but you know
+
+whether you say it's 2 or 10 or 20 or 90
+
+um the point is it's not zero um and I
+
+think another reason I think it's a
+
+badly formed question is that it sort of
+
+assumes that it's a static system um I
+
+think what we need to do is find a way
+
+to make the future great make the future
+
+exist like not tolerate any uh you know
+
+branches of it we just sort of have the
+
+the the Doom come into play but um I
+
+think Society always
+
+holds space for doomsayers there's value
+
+to that um I'm happy that they exist I
+
+think it makes us think harder about
+
+what we're doing but I think the better
+
+question is what needs to happen to
+
+navigate safety sufficiently well right
+
+so be aware as you're developing things
+
+of that possibility but not indulge in
+
+them too much more than aware like
+
+really take confront it and take it
+
+extremely seriously yes fair enough so
+
+you know this is you've been uh in this
+
+business for a little while now how have
+
+your views of AI changed over the past
+
+decade five or 10 years ago did you
+
+expect AI GPT would become as powerful
+
+as it
+
+has well I honestly still think it's not
+
+very good uh I I think we will make it
+
+very good but we have a ton of work in
+
+front of us
+
+uh I think 10 years ago I probably had a
+
+more naive conception of AI as this like
+
+creature that was going to be off doing
+
+stuff or this like you know magic super
+
+intelligence in the sky that would like
+
+figure things out and Rain money on us
+
+and we were going to try to like figure
+
+out how to live our lives but it was all
+
+sort of confusing and now I think of it
+
+much more like any other technological
+
+Revolution hopefully the biggest and the
+
+best and the most important and the
+
+greatest benefits but you know we have
+
+like a new tool in the tech tree of
+
+humanity and people are using it to
+
+create amazing things I think it will
+
+continue to get way more capable and way
+
+more autonomous over time
+
+um but even then like I think it's just
+
+going to integrate into society in
+
+a in an important and transformative way
+
+but something that is somehow going to
+
+be you know I think like if AGI got
+
+built
+
+tomorrow and you asked me what would
+
+happen the next day 10 years ago I would
+
+have said can't really imagine it it
+
+should be just this like absolute
+
+transformation Singularity everything is
+
+different all at once and I now think it
+
+won't really be like that at all so you
+
+think in some in some extent you were
+
+optimistic but you couldn't have placed
+
+yourself in the current moment in either
+
+way and it's the same for I I don't know
+
+like optimistic or pessimistic I think I
+
+was just like somewhat wrong I mean
+
+there were ways in which it was too
+
+optimistic and too pessimistic at the
+
+same time um you know if we make like if
+
+we make something that is like you know
+
+as smart as all of the super smart
+
+students here uh that's a great
+
+accomplishment in some sense there's
+
+already a lot of like smart people in
+
+the world so maybe things go faster um
+
+maybe quality of life goes up maybe the
+
+economy Cycles a little bit faster but
+
+you know like if the rate of scientific
+
+discovery becomes 10 times faster than
+
+it is
+
+today I I don't know how different
+
+that'll feel to us living through it at
+
+that time oh that's interesting that's
+
+interesting so you know just moving
+
+stepping back a little bit and looking
+
+at the current models thinking about AI
+
+systems like je chat gbt um what do you
+
+think is NE necessary to remove bias
+
+from the systems and can you offer an
+
+example of thinking about bias that are
+
+in today's AI systems and how we might
+
+think about that going
+
+forward I I think we've made
+
+surprisingly good progress about how we
+
+can align the system to behave according
+
+to a certain set of values um I think
+
+you know for as much as people love to
+
+talk about this and say that oh you
+
+can't use these things because they're
+
+just like spewing toxic waste all the
+
+time like if fuse GPT for behaves kind
+
+of the way you want it to and reasonably
+
+well and you know we're able to get it
+
+to follow not perfectly well but better
+
+than I at least thought was going to be
+
+possible by this point um a given set of
+
+values but that that gets to a now
+
+harder question which is who decides
+
+what what what bias means and what
+
+values mean how do we how do we
+
+decide what the system is supposed to do
+
+uh how much you know how much does
+
+society Define broad bounds around the
+
+edges versus how much do we say
+
+um you as a user like we trust you to
+
+use the Tool uh you know not everybody
+
+will use it in a way we like but that's
+
+kind of the ca the case of tools um I
+
+think it's important to give people a
+
+lot of control over how they use these
+
+tools um and even if that means that
+
+they may use them in ways that you or I
+
+don't always like um but there are some
+
+things that a system just shouldn't do
+
+uh and will have to kind of collectively
+
+negotiate what those are I mean you know
+
+it's interesting thinking about whether
+
+you can make the model sort of less
+
+biased to than we are as human beings in
+
+a sense because you know you talk about
+
+things like in you know in medicine uh
+
+you know bias against certain
+
+demographic groups for instance they're
+
+actually trained on the way our human
+
+doctors are behaving
+
+right they are but then we do this rhf
+
+step where we can exert quite a lot of
+
+influence uh
+
+humans are clearly very biased creatures
+
+and often unaware of it and I don't
+
+think that GPT 4 or five shares our same
+
+psychological exactly flaws probably it
+
+has its own different ones um but yeah I
+
+think these systems can be way less bias
+
+than
+
+humans something to strive for you know
+
+aside from bias other things that you
+
+know have sort of been in part of the
+
+public Consciousness in terms of
+
+concerns Etc are privacy issues which
+
+Loom large for a lot of people when
+
+considering uh the future of llms so you
+
+know how do we navigate the balance
+
+between personal privacy and the need
+
+for shared data to train AI
+
+models I can imagine this future in
+
+which if you want you have a
+
+personalized AI that knows that has read
+
+every email every text every message
+
+you've ever sent or received has an
+
+access to a full recording of your life
+
+um knows every document you've ever
+
+looked at every TV show you've ever read
+
+every everything you've ever said or
+
+heard or seen like all of your bits of
+
+input in and out
+
+and you can imagine that that would be a
+
+super helpful thing to have you can also
+
+Imagine the privacy concerns that that
+
+would present and I think if we stick on
+
+that frame and not say well should you
+
+know AI be able to train on this data or
+
+to that data but how are we going to
+
+navigate the Privacy versus utility
+
+versus safety tradeoffs or security
+
+tradeoffs that come with that um and
+
+like what does it even mean like do we
+
+need a new definition of like privileged
+
+information so that your AI companion
+
+never has to like testify against you or
+
+can't be subpoena by a court I don't
+
+even know what right the problems are
+
+going to be um but this question of
+
+where we all will individually set the
+
+Privacy versus utility tradeoffs and the
+
+advantages that will be possible for
+
+someone to have if you say I am going to
+
+let this thing train on my entire life
+
+um that's like a new thing for society
+
+to navigate I don't know what the
+
+answers will be I don't know where most
+
+people will make the tradeoffs I don't
+
+know what we'll say or like is even
+
+permissible in the bounds um but we
+
+faced a little bit of that before about
+
+where we trade off some privacy for
+
+utility with the services we all
+
+use but that can go so incredibly far
+
+with AI there are all these things that
+
+we've had to negotiate with the internet
+
+things about how we think about privacy
+
+how we think about online ads um that
+
+when you intersect them with AI become
+
+much higher stakes and much bigger
+
+trade-offs uh that I think we're going
+
+to start really facing yeah I know
+
+that's interesting in terms of um also
+
+how much individual control there's
+
+exerted and other words when you're
+
+talking about aggregated data you know
+
+good example when you're talk about
+
+higher Stakes again is you know sort of
+
+health record health record data Etc and
+
+you know how much we can build into it
+
+some sort of personal ability to sort of
+
+set that sliding scale uh with how much
+
+information you're willing to have as
+
+part of that training I think in that
+
+case we are a little
+
+bit you know a little bit off in terms
+
+of how we have the conversation um what
+
+what you want out of GPT 5 or six or
+
+whatever is for it to be the best
+
+reasoning engine possible um it is true
+
+that right now the way the only way we
+
+currently know how to do that is by
+
+training on tons and tons of data and in
+
+the process of that it is learning
+
+something about how to do very very
+
+limited reasoning or cognition or
+
+whatever you want to call it but the
+
+fact that it can memorize data or the
+
+fact that it's storing data at all in
+
+its parameter space I think we'll look
+
+back and say that was kind of like a
+
+weird waste of resources like it is true
+
+that gp4 can kind of act like a database
+
+but barely it's slow it's expensive it
+
+doesn't work very well it's not it's not
+
+really what you want um it's just kind
+
+of as a side effect of the only way we
+
+know how to make a model that a
+
+reasoning engine right now um it has all
+
+these other properties but I assume at
+
+some point we'll figure out how to sort
+
+of separate the reasoning engine n from
+
+all of the uh you know needing tons of
+
+data or storing the data in there and
+
+we'll be able to treat them as sort of
+
+separate things and I think that'll make
+
+some of these privacy issues easier no
+
+that makes a lot of sense um speaking
+
+about openness there's been a
+
+considerable discussion of whether open
+
+AI is actually open you said that while
+
+it may not be completely open source
+
+it's open in other ways can you say a
+
+little bit more about this and how you
+
+think about it um we make a great free
+
+AI tool available hundreds of millions
+
+of people hopefully billions of people
+
+will use it in the future uh we don't
+
+run ads we just do this as like a public
+
+good because we think it's important to
+
+put the tool in people's hands um and we
+
+want it to be very widely available very
+
+easy to use very helpful
+
+um I think that's just a cool thing it
+
+is a cool
+
+thing you know it is funny how um how it
+
+starts as you're talking about how AI
+
+gets built into a or our normal lives
+
+and that'll evolve I mean I think
+
+probably most of us remember the first
+
+time we saw chat GPT and we're like oh
+
+my God that is so cool now we're trying
+
+to think about what the next Generations
+
+you know what are the next generation of
+
+coolness going to be by the way I think
+
+that's great I think it's awesome that
+
+for um you know 2 weeks everybody was
+
+freaking out about gp4 and thought it
+
+was super cool and then by the third
+
+week everyone was like exactly come on
+
+where's GPT 5 I'm tired of waiting EXA
+
+exactly I I actually think that says
+
+something like legitimately great about
+
+human expectation and striving and why
+
+we all have to like continue to make
+
+things better um and I think it's like
+
+great that a baby born today uh will
+
+never know a world in which the products
+
+and services they use are not
+
+intelligent we'll never know a world in
+
+which cognition is not like abundant and
+
+part of everything that you use so I
+
+think this like this human discontent
+
+with the state of things and the
+
+expectation that the world should get
+
+better every year uh I think that's
+
+awesome yeah no great I agree um so in
+
+the past year uh new electricity
+
+speaking of less exciting edge of things
+
+the new electricity demand from Ai and
+
+data centers has been cited as an
+
+environmental concern at the same time
+
+many you know talk about AI assisting
+
+and decarbonization what are your
+
+thoughts about this the tension between
+
+its effect on climates climate its
+
+ability to potentially help us uh fight
+
+the impact of climate change uh as it
+
+moves
+
+forward I'll answer that specifically
+
+and a more General observation um it is
+
+true that AI needs a huge amount of
+
+energy but not huge relative to what the
+
+rest of the world needs if we have to
+
+spend and I I don't even think you know
+
+if we spent 1% of the world's
+
+electricity training powerful Ai and
+
+that AI helped us figure out how to get
+
+to uh non-carbon based energy or do
+
+carbon capture better that would be a
+
+massive win um and even if we didn't do
+
+that uh if that 1% of compute that we
+
+spent on AI let people live their lives
+
+better and have to
+
+like yeah I read this thing about the
+
+compute Google used once compared to the
+
+amount of carbon that people used to
+
+spend driving in their cars places to
+
+get information and you know you have
+
+people saying Google's so horrible we
+
+should shut it down it's like spending
+
+El energy and it's it was intellectually
+
+a very dishonest thing to say because it
+
+was a net Savings in energy uh I think
+
+pretty clearly the internet in general
+
+and the you know what it lets us do for
+
+telecommuting probably also a savings um
+
+so you know for like AI yeah it's going
+
+to need a lot of energy we're going to
+
+keep figuring out way more efficient
+
+algorithms way more efficient chips
+
+we're going to get Fusion we're going to
+
+power the stuff this way um so I think
+
+it is like important to address this
+
+issue um but we will in all of these
+
+fantastic
+
+ways but I think this points to
+
+something else which is the you know you
+
+open asking about P doom and the level
+
+of doomeris in society right now I think
+
+the way we are teaching our young people
+
+that the world is totally screwed that
+
+it's hopeless to try to solve problems
+
+that all we can do is like sit in our
+
+bedrooms in the dark and think about how
+
+awful we are is a really deeply
+
+unproductive streak and I hope MIT is
+
+different than a lot of other college
+
+campuses I assume it is but you all need
+
+to like make it part of your life
+
+mission to fight against this Prosperity
+
+abundance um you know a better life next
+
+year a better life for our children that
+
+is the only path forward that is the
+
+only way to have a functioning society
+
+and there will always be people who want
+
+to sit around and say we shouldn't do AI
+
+because we may burn a little more carbon
+
+or we shouldn't do AI because you know
+
+we haven't fully addressed bias and it
+
+turns out a couple years later we made a
+
+lot of progress on both of those things
+
+and the anti-progress streak the anti
+
+likee people deserve a great life streak
+
+who are usually the people that have
+
+quite a lot of privilege in the first
+
+place um is something I hope you all
+
+fight against God yeah
+
+[Applause]
+
+you know I I uh you know coming to MIT
+
+fairly fresh from the outside I think
+
+this is sort of core to the MIT ethos
+
+which is you know naming the problems
+
+and figuring out a way to solve them I'm
+
+very happy to be here yeah it's
+
+fantastic we're very happy you are here
+
+the other thing you said that really
+
+struck me as we think about the costs of
+
+AI I don't just mean monetary costs
+
+whether it's climate or anything else it
+
+is this notion of
+
+deducting what the uh what AI can
+
+contribute to the problem as not a c you
+
+know what I mean as sort of a long-term
+
+term uh balancing of The Ledger that I
+
+think is important yeah so that's
+
+interesting um does open AI intend to
+
+build tools that will specifically
+
+impact science and engineering or will
+
+you be more focused on sort of business
+
+and consumer
+
+applications um for sure we intend to do
+
+that I think the most like personally
+
+the thing I am most most interested in
+
+is how we use AI to increase the rate of
+
+scientific discovery I believe that is
+
+the core engine of human progress and
+
+that it is the only way we drive the
+
+sustainable economic growth that we were
+
+talking about earlier people aren't
+
+content with gp4 they want gp5 they want
+
+things to get better um everyone wants
+
+like more and better and faster uh and
+
+science is how we get there so of all of
+
+the things of all the great things that
+
+AI will do um I am personally most
+
+passionate about the impact that I hope
+
+it will have expect it will have on
+
+science that said um it may this may all
+
+be more one-dimensional than we think um
+
+if we make a great AI tool that can help
+
+people solve any kind of problem in
+
+front of them that can help people
+
+reason in new ways uh that's great for
+
+consumers that's great for scientists
+
+that's great for businesses it's great
+
+for Education it it may the the G of AGI
+
+the general is sort of the surprising
+
+piece yeah I know that's really
+
+interesting and now I come back to your
+
+comment about you know sort of getting
+
+in your old car and driving to the
+
+library you know you know a lot of that
+
+the the creativity part is still human
+
+but a lot of the um aggregating all of
+
+the knowledge that you that you can use
+
+as a launching Point can really be
+
+expedited you know by asking a few key
+
+questions uh to AI up front totally I
+
+mean again the the what any one
+
+individual and certainly what any group
+
+of us will be capable of um I think it's
+
+going to if we could go see what each of
+
+us can do 10 or 20 years in the future I
+
+think it would astonish us today yeah um
+
+if you know it's like maybe in a few
+
+years it's like each of us has like a
+
+great Chief of Staff or uh like PhD
+
+student or whatever analogy you want
+
+that's off like helping us optimize
+
+ourselves and do our best work and our
+
+best ideas and whatever and then maybe
+
+at some point it's like each of us has
+
+like a full company full of like
+
+brilliant Experts of anything um just
+
+working super productively together cool
+
+so you know what do you have what advice
+
+do you have for we have a lot of young
+
+researchers or people who are aspiring
+
+to be young researchers in the audience
+
+uh what's sort of your general advice uh
+
+for making a real impact in the world
+
+and you know you alluded to it in terms
+
+of thinking about possibilities and not
+
+sitting in your bedroom in the dark I
+
+think that's a good base recommendation
+
+um but I'm just wondering what else uh
+
+what else you might want to say to this
+
+audience about that um first of all I
+
+think this is probably the most exciting
+
+time to be launching your career um in
+
+many decades maybe ever I don't know but
+
+it's like whatever it is it's a really
+
+big deal and the fact that you have this
+
+huge Tailwind means I think you can um I
+
+think you can take more risk than usual
+
+I think if you do something doesn't work
+
+out there's just going to be phenomenal
+
+opportunities for a long time uh I think
+
+you have you can have more impact than
+
+normal and so there's like a premium on
+
+you know having this be a period where
+
+you work really hard I certainly would
+
+be biased to do something with AI um but
+
+like of course I'm going to say that so
+
+maybe it's wrong
+
+um I think in general the the the kind
+
+of
+
+core the the most important to lesson to
+
+learn um early on in your career is that
+
+you can kind of figure anything out um
+
+and that no one has all of the answers
+
+when they start out but you just sort of
+
+like stumble your way through it have
+
+like a fast iteration speed try to like
+
+drift towards the most
+
+interesting problems to you and be
+
+around the most impressive people and
+
+have this like trust that you'll
+
+successively iterate to the right thing
+
+and and you can kind of like you can do
+
+more than you think faster than you
+
+think uh and people it takes a while to
+
+learn that lesson um but it it it it
+
+gets you know you see it work a few
+
+times and you really start to trust it
+
+um and so like you can just do stuff
+
+sounds like not real advice or like very
+
+empty advice but I think is like it's
+
+it's much more profound than it sounds
+
+on the surface the other thing I would
+
+say is figuring
+
+out relatively early on and this takes
+
+some practice kind of like what your own
+
+personal I don't even know what to call
+
+it like passion missionstatement like
+
+the kind of way you want to spend your
+
+time or what you really care about um
+
+and we talked about like this concept of
+
+like techno abundance as a way to
+
+drive um like prosperity and better
+
+lives for people that that's been
+
+something for me that has always really
+
+resonated and I've always tried to
+
+figure out like how to work on that but
+
+having some sort of like letting letting
+
+yourself develop some sort of like
+
+guiding principle of how you make
+
+decisions about how to allocate your
+
+time and where to try to like steer
+
+things that that was like that's been
+
+very helpful to me yeah I think this
+
+follow follow your passion and also you
+
+know from you're painting a picture of a
+
+world where there's sort of infinite
+
+possibilities and you know doing you
+
+can't always be so strategic about what
+
+you think is good for you to do you want
+
+to do something that imagines all those
+
+possibilities and follows those passions
+
+it yeah for me it's like like passion is
+
+not
+
+quite the right word it's like something
+
+closer to like what is the moral
+
+obligation for me to work on and then
+
+and I on like the really bad days is
+
+when I'm not having fun that's somehow
+
+like it's much more motivating than just
+
+the thing I like doing the most that's
+
+interesting um another element of this
+
+and this is actually a really core part
+
+of uh mit's culture is entrepreneurship
+
+and so we have a lot of aspiring
+
+entrepreneurs so there's you know
+
+developing the sort of underlying ideas
+
+but how do you think about building um
+
+successful companies in today's
+
+ecosystem and what part of the value
+
+chain should new where where should new
+
+startups sort of focus their effort
+
+again I think this is like the best time
+
+for new startups in particular in a very
+
+long time uh startups tend to succeed uh
+
+right around the time of big platform
+
+shifts big companies are slower and less
+
+Innovative than startups but they have a
+
+lot of other advantages um when you get
+
+the speed and iteration and cycle time
+
+Advantage the most is when like the
+
+ground is shaking
+
+um and right now I think you can there
+
+was like a moment like this right when
+
+the internet happened there was a Moment
+
+Like This although smaller after mobile
+
+uh there was another moment also smaller
+
+after AWS and this idea of like cloud
+
+services and then for a very long time
+
+like more than a decade we've just been
+
+sort of waiting and I think now we
+
+finally have a new platform and so if
+
+history is a guide which usually it is
+
+and I suspect it will be this time um
+
+it's an amazing time to start a company
+
+and the advantages you have as a company
+
+are you can move much faster you can
+
+like live in the future more than like
+
+big companies that have quarterly or
+
+annual or whatever they have planning
+
+Cycles um and that's how you win and I
+
+think this is a great time to do it
+
+excellent I think there's a lot of
+
+people here who uh are take that to
+
+heart can I say one more thing about
+
+that um I will issue like a that was all
+
+the positive um here
+
+here's a warning
+
+um with any new tech platform you can
+
+always drive phenomenal short-term
+
+growth and so you have this class of AI
+
+startups like you used to have a class
+
+of mobile startups and before that like
+
+you used to have a class of Internet
+
+startups that were not building an
+
+enduring business um but instead we're
+
+building this sort of like novelty thing
+
+that was and be and you kind of delude
+
+yourself because you get amazing fast
+
+growth
+
+and because there's this like magic new
+
+technology and you know the dust hasn't
+
+settled yet just because there is a
+
+magic new technology it does not excuse
+
+you from like the laws of physics of a
+
+business you still have to figure out a
+
+way to build um some sort of switching
+
+cost some sort of relationship with
+
+customers some sort of compounding
+
+advantage over time and in
+
+the in the Gold Rush moments I think
+
+startups at their Peril often forget
+
+that so you still have to like do all
+
+things a business always has to do yeah
+
+that's really that's I think important
+
+important advice um you know the other
+
+thing you know it's interesting how this
+
+question was phrased and I'll read it in
+
+a minute but now that I've heard you
+
+talk a little bit I might phrase it a
+
+little bit differently the question was
+
+phrased in what ways might technology
+
+like chat GPT threaten versus help the
+
+future of work but uh it sounds like you
+
+you tilt much more towards help but also
+
+thinking about you know what that means
+
+in in real terms how does it how does it
+
+help people in their future employment
+
+one of the things that annoys me most
+
+about people who work on AI is when they
+
+stand up and with a straight face say oh
+
+this will never cause any job
+
+elimination yeah you know this is just
+
+an additive thing this is just going to
+
+it's all going to be great like this is
+
+going to eliminate a lot of current jobs
+
+and this is going to
+
+change the way that a lot of current
+
+jobs function and this is going to
+
+create entirely new jobs
+
+it that always happens with technology
+
+um it's probably never happened this
+
+fast although again we may be like
+
+drinking the Kool-Aid too much and the
+
+inertia of society may be such that it's
+
+slower than we think
+
+but I kind of expect we're only a
+
+generation or two away from models that
+
+for the first time show some degree of
+
+real economic impact good and bad um but
+
+something you can measure and there will
+
+be classes of jobs that totally go away
+
+there will be classes of jobs where you
+
+have to change what you do a lot there
+
+will be classes of jobs where the
+
+productivity compensation whatever you
+
+want to talk about whatever measure goes
+
+up by like a giant Factor um and then
+
+there will be things that feel like jobs
+
+to the people of the future that to us
+
+today look like a complete Indulgence
+
+and waste of time as what many of us do
+
+today would look like to people from
+
+hundreds of years ago uh
+
+I think as long as you believe that
+
+humans very deeply want
+
+to create and be useful and feel like
+
+they're making like relative
+
+differential progress all of which are
+
+things I would bet on hard um we're not
+
+going to run out of things to do
+
+um I love reading contemporaneous
+
+accounts from people living through
+
+previous technological revolutions and
+
+what they say about man we're all going
+
+to only work four hours a week if we
+
+work at all and we're just going to you
+
+know it like you say it every time
+
+it in some way it does feel to me like
+
+this time is
+
+different and as a matter of degree it
+
+might be and as a matter of speed I
+
+really think it will be um and I have
+
+some concern about how quickly we can
+
+adapt to this kind of
+
+change but I have no real concern that
+
+we can eventually adapt to this kind of
+
+change um I'm sure the social contract
+
+will change um I'm
+
+sure most jobs will be different in the
+
+future than they are today but like the
+
+Deep human drivers don't seem to me
+
+likely to go anywhere interesting and
+
+and obviously different categories of
+
+jobs are going to be really
+
+differentially affected for sure um so
+
+uh with President Biden's recent
+
+executive order on AI as well as the
+
+Congressional hearings on AI regulation
+
+um there is a concern that regulatory
+
+Frameworks might solidify the position
+
+of established players might stifle
+
+Innovation competition accessibility how
+
+do you envision AI be regulation because
+
+we really are at a critical moment being
+
+designed to uphold Innovation and
+
+competition while ensuring that the
+
+field remains accessible for merging uh
+
+players to Pioneer the next
+
+transformative
+
+Technologies um I I think we faced
+
+versions of this with other kinds of
+
+Regulation like you want to know that
+
+the food you buy in a g grocery store is
+
+unlikely to make you sick and we kind of
+
+all agree that regulation there is good
+
+but you also want to be able to like
+
+grow food in your backyard without
+
+having to like go through a bunch of
+
+like hoops and you get to do that too
+
+um I think for AI systems there will be
+
+some threshold above which we say okay
+
+uh the system presents a level of risk
+
+that we don't want to take without
+
+reasonable safety precautions and then I
+
+think there will be a level of AI
+
+systems where we say even though there's
+
+going to be misuse um we should open
+
+source these and let people use them and
+
+there should be no regulatory burden on
+
+companies developing them um because
+
+we're willing to make the Innovation and
+
+freedom
+
+tradeoff for the negative safety
+
+consequences at level X right and then
+
+level y can be totally different
+
+and I totally get the impulse to say
+
+any regulatory action is unacceptable
+
+because it's just big companies that are
+
+going to use it to like for regulatory
+
+capture um and you know if Society
+
+decides we don't want to regulate AI at
+
+all and we'll just take our chances I'll
+
+accept the outcome of a democratic
+
+process it seems to me good to have some
+
+voices saying like well you open with a
+
+p Doom question exactly um if if the
+
+framing of that question is
+
+correct uh then it seems to me useful to
+
+have some voices
+
+saying let's not act out of fear but
+
+proceed with some reasonable caution no
+
+that makes sense um speaking of which um
+
+you've said you believe that the
+
+upcoming presidential election won't be
+
+the same as the last one I think we all
+
+think that uh but there are lessons to
+
+be learned from 2020 uh what are these
+
+lessons how can we mitigate the risk AI
+
+Pro opposes to the Democratic process
+
+and to uh the future of Democracy in
+
+America you
+
+know maybe maybe the use of advanced AI
+
+will be the least interesting thing
+
+about this election the way it's shaping
+
+up uh
+
+I I do
+
+think yeah I think there will be like
+
+better deep fakes of course and there
+
+will be better like troll Farms of
+
+course um
+
+what I think is more interesting is
+
+trying to get ahead of to the degree
+
+that we can this is easier said than
+
+done but trying to get ahead of the new
+
+things that just weren't possible before
+
+um so like customize one-on-one
+
+persuasion where uh an AI system reads
+
+all of your social media posts and
+
+targets something just at you that
+
+wasn't really possible with all of the
+
+sort of like online disinformation and
+
+trolling of the last election right and
+
+that's the kind of new thing that I wish
+
+we were taken more seriously yeah I mean
+
+that's the logical extension as you
+
+mentioned of you know advertisements
+
+coming up when you're surfing the web
+
+people know you buy X kinds of shoes or
+
+whatever how you think about things
+
+absolutely um a more local question uh
+
+one of mit's educational priorities is
+
+to train tomorrow's leaders to be in
+
+essence Computing bilingual meaning that
+
+regardless of their chosen field they
+
+will need to be fluent in computer
+
+science and AI to advance their work
+
+work can you comment on the impact of
+
+our way of thinking I don't know if
+
+people talk you about blending Blended
+
+Computing thinking about how we CH train
+
+bilinguals how they can start thinking
+
+about the future
+
+careers really learning two different
+
+fields and using Computing as a way into
+
+into other
+
+areas one of the general observations I
+
+make about the history of computing it
+
+has it gotten
+
+increasingly more accessible and more
+
+natural over time M um
+
+you know like I heard these stories of
+
+people with like punch cards that they
+
+would like have these crazy systems
+
+about how they sorted them and they
+
+would drop them and that was a big mess
+
+and it was like that was like a not a
+
+natural thing to use
+
+um undergraduate education sounds tough
+
+um low-level programming languages were
+
+a step forward um but still like not a
+
+thing that most of the world knew how to
+
+use or I think a very natural tool in
+
+some sense um and then you get to like
+
+current programming languages and
+
+they're way more accessible and way
+
+easier to use also way more expressive
+
+and more powerful
+
+um along with that Evolution you go from
+
+uh like the command line um to a gooey
+
+to like a mouse and a keyboard to just
+
+like touching your phone like you don't
+
+that's that was like not very that was
+
+pretty natural right um and then you go
+
+to language which is Supernatural um you
+
+know like people are very good at
+
+language as a way to use the computer
+
+you can sort of ask chat GPT something
+
+but also way to program the computer so
+
+you saw these things like converge to
+
+this one interface
+
+and you don't have to be that bilingual
+
+anymore right like right the the you get
+
+like the same way that you like talk to
+
+a a friend or a colleague you can talk
+
+to a
+
+computer and this is I think a more
+
+profound thing than it sounds like on
+
+the surface um the degree to which we
+
+can push
+
+Ai and people to have the same kind of
+
+interface um so I'm like more excited
+
+about humanoid robots than I am about
+
+other forms because I think the world is
+
+just very designed for humans and we
+
+should keep it that way but we want the
+
+benefits of robots that can help us um I
+
+think we want AI systems to do their
+
+cognition and language to communicate
+
+with us in language um it's a very
+
+human Focus thing um so my hope is we
+
+don't all have to be a bilingual that's
+
+interesting I mean because we have I
+
+would
+
+say an over an overwhelming number of
+
+our students are obviously interested in
+
+CS and now that we've sort of rolled out
+
+you know these Blended areas I think you
+
+know it may be sort of the sort of first
+
+generation of what you're talking about
+
+in other words people who who then you
+
+know next Generations it will be
+
+completely intuitive totally yeah so
+
+that's really interesting um let's see
+
+uh there's there's some uh backup things
+
+here that other folks subit so how do
+
+you think AI will impact the financial
+
+sector thinking about sort of banking
+
+and Equity have you thought about that
+
+at all um first of all if we're if we're
+
+on the backup questions and we want to
+
+like let people shout out if you want to
+
+do that I'm totally down otherwise we
+
+can do them either way let me see we can
+
+we can do some uh well let me ask you
+
+then well why to answer that I have a
+
+couple other things and then then if
+
+people really feel compelled to yell out
+
+some questions related to this interview
+
+um then then
+
+then we can do that but go ahead
+
+um
+
+I I haven't thought as much as I would
+
+like to about any specific area cuz
+
+figuring out how to get the general
+
+purpose intelligence and what that means
+
+has been pretty allc consuming um you
+
+know like education and Healthcare are
+
+kind of maybe the two specifics that
+
+I've thought about the most on something
+
+like the financial system uh I expect AI
+
+to like impact that kind of as much as
+
+everything else but I don't think I have
+
+like a deeply insightful specific thing
+
+to say about here's how this really
+
+transforms let's think a little bit more
+
+than about the educational sector you
+
+know we think a lot about how um you
+
+know people worry about things about AI
+
+in the classroom but I really think
+
+there's just a huge potential for how we
+
+teach and how we tailor things to
+
+individuals Etc so if you could say a
+
+word about that I think that would be
+
+great
+
+I think with what you're seeing people
+
+do already just with like regular gbd4
+
+in chat gbt when you say like please
+
+pretend you're a tutor and help me learn
+
+this thing if that can work so well then
+
+as people start to take Next Generation
+
+models and customize them for learning
+
+experiences we're we're going to be in a
+
+very good place um and it's it's like
+
+pretty awesome to see what people are
+
+building already um it's great to hear
+
+from teachers about the impact it's had
+
+on their students it's great to hear
+
+from students about what they're
+
+learning on their own but this one seems
+
+like a kind of Slam Dunk good use no
+
+absolutely so this isn't this isn't one
+
+of the sort of pres submitted questions
+
+but I'm always really interested when I
+
+meet people who are doing really
+
+interesting things how you came to this
+
+in other words what was your sort of
+
+path and how did you how did you think
+
+about and make choices as you came to
+
+what you're
+
+doing um well I was like a very nerdy
+
+kid uh I spent like a lot of time
+
+reading sci-fi or watching Star Trek or
+
+whatever and uh I
+
+like that was you know that was like the
+
+that was already a time where all
+
+contemporary sci-fi was pretty uh
+
+dystopic but the older stuff the older
+
+Star Trek episodes those were still like
+
+kind of optimistic and cool and you sort
+
+of like saw how AI was going to be great
+
+and kind of how that was obviously the
+
+future um and I kind of like
+
+abstractedly thought like I would love
+
+to work on that someday that would be so
+
+cool I never thought it would actually
+
+happen um but I was always interested uh
+
+and then like you know life went on I
+
+got a little bit older uh I went to
+
+school and I decided to study in the AI
+
+lab
+
+um I also got really interested in
+
+energy um but this was kind of when I
+
+started to believe that like if we could
+
+use tech technology to deliver abundance
+
+that would not solve the elb problem
+
+people would still find all sorts of
+
+ways to be unhappy but it was like
+
+something I really wanted to do um
+
+and uh worked in the AI lab it was like
+
+clear that AI was nowhere close to
+
+working it's like back in 2004 um got
+
+sidetracked a bunch and went off and did
+
+a bunch of other stuff and you know did
+
+a startup became a startup investor and
+
+then in 2012 uh noticed the Alex net
+
+paper took me a couple of years to
+
+really internalize maybe this thing
+
+finally working and I was like should
+
+really do something
+
+here excellent now I think there's
+
+probably one some question on the minds
+
+of some of the people here uh what do
+
+you look for when you hire somebody I
+
+mean there'll be people sitting in this
+
+audience who are wondering that
+
+intensely first of all we would really
+
+love to hear from you and I think this
+
+is probably the most the most or second
+
+most exciting time in open a history
+
+right now um so uh this is like this be
+
+a good time to give us a call
+
+um number up on the screen what do we
+
+look for
+
+uh kind of all the obvious stuff like
+
+original thinkers smart driven dedicated
+
+people people who sort of like are
+
+particularly driven to work on AI versus
+
+you know there there's always like a set
+
+of people who will go work on whatever
+
+like the hot area is uh and then there's
+
+like a set of people who are like no
+
+this is like the thing and we like
+
+people for whom this is their thing um
+
+but that's kind of it nothing I mean all
+
+of the obvious things and nothing that
+
+unusual interesting if you were doing
+
+something else what would it be I would
+
+go work on Fusion full-time Fusion was
+
+going to be something else yeah there's
+
+definitely people here who are
+
+interested in that as well um you know
+
+we do have a few minutes um yeah so we
+
+don't have any mics I see monus's hand
+
+up right away uh but you got to shout
+
+I'll repeat the question hi first of all
+
+thanks for all all you're doing to the
+
+world
+
+andit um so I have some of the smartest
+
+kids in the world even smartest myam are
+
+coming to me and saying um how do I how
+
+do I want to plan my time for the next 5
+
+years while humans are still helpful and
+
+useful and it it's it's striking because
+
+you know I see AI as an extraordinary
+
+tool and I am so looking forward to the
+
+future of work where I can do amazing
+
+things that I can't do right now where
+
+all the mundane stuff that I'm doing now
+
+is replaced and I can do super awesome
+
+new things but there will come a time
+
+given the two curves of how fast human
+
+intelligence has progressed through the
+
+old school Evolution and nurture of
+
+course and the curve with which AI is
+
+progressing which is just ridiculous so
+
+these curves are going to cross very
+
+soon and I'm just curious what are some
+
+unique capabilities that humans have
+
+that you think we will not be able to
+
+replicate with AI what are some of the
+
+architectures that will help us maybe
+
+replicate those things and push beyond
+
+that and how do you see the future of
+
+human versus machine intelligence more
+
+broadly two conflicting answers to that
+
+um number one I kind of suspect
+
+that forever onwards from now it's
+
+always going to feel like man this next
+
+5year period is so critical this is when
+
+I can really contribute and after that
+
+who knows what happens but in practice
+
+there's always going to be um it's
+
+always going to feel like man this curve
+
+of intelligence is rising so fast right
+
+now I can use these tools to like out
+
+aieve but eventually they outrun it but
+
+at any point on that exponential um
+
+you'll always be able to use the tools
+
+to do amazing things and it'll always
+
+feel like then you get totally outrun
+
+but you never quite do because like we
+
+just become more capable um and I didn't
+
+used to really think this way I'm still
+
+not sure I'm right uh but it does seem
+
+to me
+
+like we will just be able to like
+
+accomplish more do more things we'll
+
+have ridiculous the expectations will go
+
+up too to like participate in the
+
+economy in some sense but what we can
+
+get done
+
+uh before like we feel like this wave is
+
+going to crash over us we'll always feel
+
+like man in this 5 years this is my WI
+
+but it's going to be a rolling 5 years
+
+forever um and I think we'll find that
+
+humans are really good at like humans
+
+are we're just we're so wired to care
+
+about other humans we're so wired to
+
+like focus our energy know what other
+
+people want be focused on like
+
+delivering value for others uh that you
+
+know like I can I can see very extreme
+
+worlds where like human money and
+
+machine money are just different things
+
+um but but there's like an increasing
+
+premium on human the human money part of
+
+that of That World um I don't know
+
+exactly what it's going to look like but
+
+I do kind of believe in the biological
+
+drivers of humanity not changing that
+
+much uh and then the answer on the other
+
+side
+
+is and this is just speaking personally
+
+this is not a well-reasoned or defens
+
+like logically defended thing at all
+
+this is just what I feel I do feel like
+
+like I know I'm going to be nostalgic
+
+for this
+
+time and it's sort of a strange thing to
+
+like feel that while you're living
+
+through
+
+it that's really
+
+interesting I see another hand back
+
+there well I'm going to have to ask you
+
+to just hand the microphone to whoever
+
+you see because I
+
+uh can you hear me here sure
+
+more bullish on startups building and
+
+user applications or infrastructure
+
+uh probably at this current phase of
+
+where we are on end user applications
+
+you got to like pick the right ones you
+
+got to pick the ones that that benefit
+
+from the models getting better not the
+
+ones that are betting the model actually
+
+doesn't get better and kind of are
+
+fixing the current generation proc s
+
+but I think it's
+
+like I think there's like a lot of value
+
+to unlock there um building
+
+infrastructure can be great too I think
+
+you can really succeed both ways but
+
+like the number of what feel like 100
+
+billion dollar application layer
+
+companies right now where you can really
+
+like do something incredibly useful to
+
+people quickly seems pretty exciting to
+
+me yeah
+
+uh
+
+yeah thank you so much for giving this
+
+talk I just had a question in terms of
+
+the future that you see specifically for
+
+open AI I was just wondering you can
+
+come out with GPT like 6 7 8 9 10 20 30
+
+40 50 60 um you have like your creation
+
+of Sora um a lot of companies are
+
+creating like life-size robots that are
+
+utilizing AI as the backend or a lot of
+
+technological companies also using chat
+
+GPT as like a foundation for their own
+
+llms so I was just wondering for you
+
+guys specifically at open AI what do you
+
+guys foresee as your niche in the future
+
+once you start I guess not perfecting
+
+but getting to near Perfection for like
+
+your llm
+
+models I'm going to go over there um I
+
+think it's so far
+
+we're so far away from when we start to
+
+level off
+
+um that that's not currently on our mind
+
+um I think you know at least for the
+
+next three four model
+
+Generations I believe we can make it so
+
+incredibly much better every time um we
+
+should focus on that and if we can do
+
+that everything else will kind of work
+
+out uh like I think our our Niche or
+
+whatever is we want to deliver
+
+great useful impressive cognitive
+
+capability for as uh abundantly and
+
+inexpensively as we can and there's
+
+other good things we can do but if we
+
+can just focus on that I think it'll be
+
+like a great service to the world and we
+
+can go on that for a
+
+while uh I have two questions one where
+
+did you get your
+
+shoes uh Adidas did a Lego collaboration
+
+I love
+
+Legos amazing cool um my my serious
+
+question is how soon do you predict that
+
+we'll get to artificial general
+
+intelligence and what is open ai's role
+
+uh in getting us there you know I don't
+
+I don't I I I no longer think there will
+
+be a time where the world agrees okay
+
+this was the year we crossed the AGI
+
+threshold I think the the phrase has
+
+become
+
+so uh so overloaded as how as a
+
+definition I think there are people who
+
+would say we'll get there soon I think
+
+there's like a lot of people who will
+
+say by 2040 like when we have these
+
+unbelievably capable systems ah it's not
+
+quite AGI yet I can't do this one thing
+
+um so I think I think the question is
+
+like the only way I know how to like
+
+form the question well at this point is
+
+what is the range of time that we get to
+
+like capability x y and z um but I think
+
+that the AGI like I can't make myself do
+
+this cuz it's like I it's too much of
+
+like a it's too like deep in the OS at
+
+this point but I like I try to not use
+
+the word AGI anymore it's a total like
+
+I'm never going to succeed at that but
+
+it's like you know when can we when can
+
+we do that new scientific discovery in
+
+some areas when can we uh when can we
+
+like add a lot of economic value um I
+
+don't know I expect that like by the end
+
+of this decade we have systems that
+
+create really significant economic
+
+value excellent so maybe last question
+
+uh from the audience where whoever's
+
+last one here maybe and then uh I'll
+
+close this
+
+out
+
+yeah thank you so much Sam for the talk
+
+um I guess I have more a general
+
+question I guess what do you do when
+
+you're have a problem to solve and
+
+you're stuck and you don't know the way
+
+forward um guess what's your thought
+
+process on trying to get unstuck I
+
+somehow try to like change context I try
+
+to talk to different people about it um
+
+I try to like in an extreme case I'll
+
+like go travel somewhere to like really
+
+like kind of change things like the one
+
+time I like jet lag is if I'm like
+
+really stuck on a problem and I wake up
+
+in the middle of the night in some new
+
+context and it seems to be helpful um
+
+but like some way or other I try to
+
+change
+
+context well with that um I really want
+
+to thank you that was fascinating I
+
+think everybody greatly enjoyed the
+
+conversation thank you all very much and
+
+[Applause]
+
+uh thank you thank you
+
+awesome sure
+
+can I sign this real
+
+[Applause]
+
+quick he went that
+
