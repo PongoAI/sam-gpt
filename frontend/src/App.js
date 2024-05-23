@@ -13,7 +13,7 @@ export default function App() {
   return (
     <div className="min-h-screen h-fit w-screen bg-zinc-900 flex flex-col text-white">
       <div className="flex pt-5 md:pt-3 px-5">
-        <div className="mt-auto text-sm"><a href='https://github.com/PongoAI/samgpt' className="underline">View source code</a></div>
+        <div className="mt-auto text-sm"><a href='https://github.com/PongoAI/sam-gpt' className="underline">View source code</a></div>
         <div className="ml-auto ">An experiment by <a href='https://joinpongo.com?utm_source=samgpt' className="underline">Pongo 🦧</a></div>
       </div>
 
