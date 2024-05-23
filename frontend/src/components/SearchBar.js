@@ -132,7 +132,7 @@ export default function SearchBar({ recommendations = [] }) {
                                 blockquote: ({ node, ...props }) => <blockquote className="border-l-4 pl-4 italic my-4 bg-zinc-800 text-zinc-100" {...props} />,
                                 code: ({ node, ...props }) => <code className="py-1 rounded text-sm font-mono bg-zinc-800 text-zinc-100" {...props} />,
                                 pre: ({ node, ...props }) => <pre className="py-2 px-4 rounded text-sm bg-zinc-800 text-zinc-100 overflow-x-auto" {...props} />,
-                            }} >{pongoAnswer}</ReactMarkdown></div>
+                            }} >{pongoAnswer === '' ? 'Loading...' : pongoAnswer}</ReactMarkdown></div>
                             <SourceList sources={pongoSources} />
                         </div>
                     )}
